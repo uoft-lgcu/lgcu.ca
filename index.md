@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# About the LGCU
+# About
 
 All of the students enrolled in graduate programs offered by the Department of
 Linguistics at the University of Toronto are automatically members of the
