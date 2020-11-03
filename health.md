@@ -8,7 +8,7 @@ Please note: the current page is under construction, and has not been updated re
 
 ## Insurance Plans
 
-#### Our insurance coverage period runs for the academic year (September 1 to August 31). There are three levels of health insurance:
+Our insurance coverage period runs for the academic year (September 1 to August 31). There are three levels of health insurance:
 
 * Basic: All graduate students must have some form of basic provincial health care (OHIP if from Ontario; equivalent provincial/territorial coverage if from elsewhere in Canada; UHIP for international students). This covers basic doctor's appointments and hospital visits.
 
