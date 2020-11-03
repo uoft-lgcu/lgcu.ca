@@ -57,7 +57,7 @@ The U of T offers a variety of on-campus health services, including general fami
 
 * [Sport Medicine Clinic](www.physical.utoronto.ca/SportMedicine.aspx)
 
-Greenshield has agreements with healthcare providers in the city (and around the country) that will lower the cost of some services. You can also find nearby health providers through the classic method of asking your peers things like, "Do you like your dentist?" or "Where did you get your glasses?" There are also more informal mental wellness resources, like the GSU's [Grad Minds](http://www.gradminds.ca/) or the LGCU's own committees.html#mindsweepers" Mindsweepers Wellness Committee, which tackles general issues of grad student mental health. You can send them suggestions or get involved yourself!
+Greenshield has agreements with healthcare providers in the city (and around the country) that will lower the cost of some services. You can also find nearby health providers through the classic method of asking your peers things like, "Do you like your dentist?" or "Where did you get your glasses?" There are also more informal mental wellness resources, like the GSU's [Grad Minds](http://www.gradminds.ca/) or the LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/), which tackles general issues of grad student mental health. You can send them suggestions or get involved yourself!
 
 ## Other Tips
 
