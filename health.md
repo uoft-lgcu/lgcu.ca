@@ -66,7 +66,7 @@ The U of T offers a variety of on-campus health services, including general fami
 
 Note: U of T Health and Wellness typically offers flu shots, but will not be doing so for the 2020-21 year. You can still get a free flu shot through [Toronto Public Health](https://www.toronto.ca/311/knowledgebase/kb/docs/articles/public-health/communicable-disease-control/vaccine-preventable-disease/flu-shot-clinics-seasonal-flu-when-and-where-to-get-your-flu-shot.html) as well as [other services](https://studentlife.utoronto.ca/service/flu-clinic-referrals/).
 
-#### For on-campus health care:
+#### For University of Toronto resources:
 
 * [Health and Wellness Centre](https://studentlife.utoronto.ca/department/health-wellness/)
 214 College Street; entrance on St. George
@@ -82,6 +82,11 @@ t: (416)-978-8732   e: sexed.utoronto@gmail.com
 Goldring Centre for High Performance Sport, 4th floor; entrance on North side of building
 t: 416-978-4678 (press "0" for reception)
 
+* [My SSP](https://studentlife.utoronto.ca/service/myssp/) provides free, confidential 24-hour helpline for U of T students. 146 languages supported. 
+t: 1-844-451-9700
+
+* [School of Graduate Studies Wellness FAQs](https://www.sgs.utoronto.ca/resources-supports/wellness-portal/wellness-faqs/) has answers to a variety of wellness-related questions for graduate students.
+
 #### For off-campus health care:
 
 * [iamsick.ca](https://www.iamsick.ca/) will help you find a health care provider near you
@@ -94,6 +99,23 @@ t:  1-800-445-1822
 
 * [Ontario Virtual Care Clinic](https://www.seethedoctor.ca/en/) will let you talk to an on-call doctor (requires OHIP)
 
+* [Walk-in counselling services](https://utgsu.ca/health-and-dental/walk-in-counselling/) across Toronto can help you without an appointment or fees
+
+* [Good2Talk](https://good2talk.ca/) is a free, confidential 24-hour helpline for post-secondary students' mental health and well-being.
+t: 1-866-925-5454
+
+* [Talk4Healing](www.talk4healing.com) is a free, confidential 24-hour helpline for Indigenous women, by Indigenous women. 14 Indigenous languages supported, as well as English and French.
+t: 1-855-554-HEAL (4325) (talk or text)
+
+
+#### GSU resources:
+
+* The GSU's [Grad Minds](http://www.gradminds.ca/) promotes mental health awareness among grad students at U of T. Check out their workshops and events, or consider volunteering.
+
+* If you need help with coverage, opt-outs, or enrollments, you can talk to [UTGSU](https://utgsu.ca/health-and-dental/) directly.
+UTGSU Health and Dental Insurance Office: 16 Bancroft Ave
+t: 1-866-358-4436   e: health@utgsu.ca
+
 #### Studentcare Networks:
 
 Green Shield has agreements with healthcare providers in the city (and around the country) that will lower the cost of some services for plan members. You can find a complete list of in-network providers [here](https://www.studentcare.ca/RTEContent/Document/EN/Network_Listings/ON_3_Studentcare.pdf), or check details of the discounts and providers for each network on the [studentcare website](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home) (on the right-hand side, under "Studentcare Networks". **You do not have to use an in-network provider to get reimbursed**; your coverage applies equally to all qualified providers, being "in the network" just means a provider will offer discounts on some services to plan members.
@@ -103,8 +125,6 @@ If you're not sure if the provider you want to see will be covered by your plan,
 #### Other ways to find resources:
 
 * Your fellow grad students can be a great source of advice and support (even if it's just about what dentist they go to). To get in touch in the age of social distancing, you can: email the LGCU listserv (LGCU-L@listserv.utoronto.ca); contact [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson) to be added to the LGCUers facebook page; or contact [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis) to be added to the LGCU virtual lounge on Zulip.
-
-* The GSU's [Grad Minds](http://www.gradminds.ca/) promotes mental health awareness among grad students at U of T. Check out their workshops and events, or consider volunteering.
 
 * The LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/) 
 Mindsweepers *does not* provide direct support to students, but may be able to point you in the direction of some good resources. You can send them suggestions or get involved yourself.
@@ -126,6 +146,6 @@ Due to COVID-19, however, travel advisories and insurance coverage can change qu
 Those who do not have medical expenses can currently still access their HCSA by submitting the cost of your GSU health care premium (listed among your fees on ROSI/Acorn) as a health expense to be reimbursed. The HCSA will not cover the full cost, but you may as well access the money since this is possible.
 
 #### Convenience:
-[Print your own insurance card](https://www.utgsu.ca/wp-content/uploads/2015/06/UTGSU_PayDirectCard.pdf) to carry around; you can also find copies of this in the lounge under the light switches. Write your GSU plan number in the box and CUPE plan number below or on the other side. Consider laminating the card, printing it out on cardboard, or using tape. So crafty!
+[Print your own insurance card](https://www.studentcare.ca/RTEContent/Document/EN/Pay_Direct/UTGSU_PDC.pdf) to carry around. Write your GSU plan number in the box and CUPE plan number below or on the other side. Consider laminating the card, printing it out on cardboard, or using tape. So crafty!
 
-(Last updated: November 18, 2016)
+(Last updated: November 4th, 2020; Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson))
