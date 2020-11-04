@@ -4,9 +4,9 @@ title: Health
 permalink: /health/
 ---
 
-[comment]: # (Add links/disclaimers about COVID-19, directing people to appropriate resources for information on that (or the COVID-19 page on this website, if it exists yet).)
-
 Please note: the current page is under construction, and is being updated on an ongoing basis. The information it contains is accurate, but some sections may be incomplete. Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson).
+
+[comment]: # (Add links and disclaimers about COVID-19, directing people to appropriate resources for information on that, or the COVID-19 page on this website, if it exists yet)
 
 ## Insurance Plans
 
