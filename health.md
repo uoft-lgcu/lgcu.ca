@@ -146,7 +146,7 @@ If you're not sure if the provider you want to see will be covered by your plan,
 * Your fellow grad students can be a great source of advice and support (even if it's just about what dentist they go to). To get in touch in the age of social distancing, you can: email the LGCU listserv (LGCU-L@listserv.utoronto.ca); contact [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson) to be added to the LGCUers facebook page; or contact [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis) to be added to the LGCU virtual lounge on Zulip.
 
 * The LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/) 
-Mindsweepers *does not* provide direct support to students, but may be able to point you in the direction of some good resources. You can send them suggestions or get involved yourself.
+Mindsweepers **does not** provide direct support to students, but may be able to point you in the direction of some good resources. You can send them suggestions or get involved yourself.
 
 ## Other Tips
 
