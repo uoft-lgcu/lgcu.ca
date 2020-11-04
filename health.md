@@ -118,7 +118,9 @@ Expenses must be incurred between September 1 and August 31 for that year. You c
 If you have graduated, congratulations! If you still need health insurance, you can extend your GSU insurance plan for 12 months at the same rate.
 
 #### Travel: 
-Before going on any international travel related to your work, the university requires you to have travel insurance. The GSU plan includes [full travel insurance](https://www.utgsu.ca/insurance/travel-insurance-emergency-medical-coverage/) for trips of up to 120 days that can cover you for conferences, research trips, or almost any other conceivable reason. Do not buy additional travel insurance!
+Before going on any international travel related to your work, the university requires you to have travel insurance. The GSU plan includes [full travel insurance](https://utgsu.ca/health-and-dental/travel-insurance/) for trips of up to 120 days that can cover you for conferences, research trips, many other reasons.
+
+Due to COVID-19, however, travel advisories and insurance coverage can change quickly. For this reason, we are **strongly recommending** that you verify your coverage before travelling outside of Canada. Check with the [Green Shield COVID-19 FAQ](https://support.greenshield.ca/SupportCentre/GreenShield/Home/DocumentsByTopic/region_coronavirus), as well as the Government of Canada [official travel advisories](https://travel.gc.ca/travelling/advisories) and [COVID-19 travel restrictions and advice](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html) for up-to-date information.
 
 #### Claiming the premium:
 Those who do not have medical expenses can currently still access their HCSA by submitting the cost of your GSU health care premium (listed among your fees on ROSI/Acorn) as a health expense to be reimbursed. The HCSA will not cover the full cost, but you may as well access the money since this is possible.
