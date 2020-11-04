@@ -4,7 +4,11 @@ title: Health
 permalink: /health/
 ---
 
-Please note: the current page is under construction, and has not been updated recently. The information it contains is broadly accurate, but should be verified before being relied upon, particular with regards to: amounts covered by healthcare plans, and anything that might be affected by the ongoing COVID-19 pandemic (e.g. travel insurance).
+{::comment}
+Add links/disclaimers about COVID-19, directing people to appropriate resources for information on that (or the COVID-19 page on this website, if it exists yet).
+{:/comment}
+
+Please note: the current page is under construction, and is being updated on an ongoing basis. The information it contains is accurate, but some sections may be incomplete. Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson).
 
 ## Insurance Plans
 
@@ -14,11 +18,13 @@ Our insurance coverage period runs for the academic year (September 1 to August 
 
 * [GSU supplement:](http://www.studentcare.ca/View.aspx?locale=en&uid=IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home&) Additional health and dental benefits are provided by the [U of T Graduate Students' Union](https://www.utgsu.ca/) for all full-time and part-time graduate students. The premium is part of the cost of tuition and fees that you pay each year. Your insurance number for the GSU supplement is: UTG[your student number]-00
 
-* [CUPE top-up:](https://www.cupe3902.org/unit-1/benefits/) Each year, all students with a CUPE 3901, Unit 1 appointment of at least 50 hours receive a top-up insurance plan to further supplement their GSU insurance. This comes with a $300 spending account for additional healthcare costs. If your contract in the first term is for fewer than 50 hours, coverage is not available to you until you begin a contract that increases your total. However, regardless of when the coverage kicks in, it is retroactive to September 1 of that year. If you are not enrolled in the GSU plan, you will only have access to the $300 spending account. Your insurance number for the CUPE top-up is: UOT[your employee number]-00
+* [CUPE top-up:](https://www.cupe3902.org/unit-1/benefits/) Each year, all students with a CUPE 3901, Unit 1 appointment of at least 50 hours receive a top-up insurance plan to further supplement their GSU insurance. This comes with the HCSA spending account for additional healthcare costs. If your contract in the first term is for fewer than 50 hours, coverage is not available to you until you begin a contract that increases your total. However, regardless of when the coverage kicks in, it is retroactive to September 1 of that year. If you are not enrolled in the GSU plan, you will only have access to the HCSA spending account. Your insurance number for the CUPE top-up is: UOT[your employee number]-00
+
+Both the GSU plan and the CUPE top-up plan are through the same company: Green Shield Canada. The GSU plan is considered your 'primary' plan, and the top-up plan is used to cover costs that aren't fully covered by the GSU plan. For example: If both plans cover prescription drugs at 80%, the GSU plan would cover 80% of the total, and the top-up plan would cover the remaining 20% (since it's 80% of the total, not 80% of the remaining amount).
 
 ## Benefits
 
-We can receive up to $10,000 in prescription drug costs and $45 per appointment for paramedical services, among other types of coverage. The GSU plan includes an extensive travel insurance component. For a full list of benefits, review these summaries:
+The GSU plan and the CUPE top-up plan together cover a wide variety of health care services.For a full list of benefits, review these summaries:
 
 * [GSU plan brochure](http://www.ihaveaplan.ca/RTEContent/Document/EN/Brochure/Current_UTGSU.pdf)
 
@@ -30,9 +36,21 @@ We can receive up to $10,000 in prescription drug costs and $45 per appointment 
 
 * [HCSA allowable expenses](https://www.cupe3902.org/wp-content/uploads/2018/04/HCSA-Allowed-Expenses.pdf)
 
-Unfortunately, the descriptions of benefits can sometimes be vague. If you're not certain whether a particular service will be covered, or what amount will be covered, it's a good idea to contact Green Shield Canada directly to verify *before* paying out of pocket. The phone number for Green Shield Canada is 1-888-711-1119; be sure to have the insurance numbers for both your plans at hand when you call. 
+Unfortunately, the descriptions of benefits can sometimes be vague. If you're not certain whether a particular service will be covered, or what amount will be covered, it's a good idea to contact Green Shield Canada directly to verify **before** paying out of pocket. The phone number for Green Shield Canada is 1-888-711-1119; be sure to have the insurance numbers for both your plans at hand when you call. 
 
 Some healthcare providers are able to apply insurance benefits on the spot so you never have to pay the full cost. Discuss this directly with your healthcare provider(s), and see whether they will coordinate benefits with both your GSU and CUPE plans, or with only one (always apply the GSU benefits first). Take your insurance numbers with you to every medical appointment in order to increase the likelihood of using your benefits as you go.
+
+{::comment}
+Should the paragraph above be combined with the information about the pay-direct card for how to use the benefits "at the time"?
+{:/comment}
+
+### What kinds of things are covered?
+
+Here are some examples of benefits included in our plans (remember to always check the details of coverage before paying out-of-pocket):
+
+* insert examples here
+
+Many students under-use their health care coverage; this only benefits the insurance company. Make sure you're getting the most out of the benefits you're paying for, and don't put off medical care for financial reasons when you don't have to!
 
 ## Filing a Claim
 
@@ -40,9 +58,17 @@ If you have paid for some kind of health service or prescription without accessi
 
 Single claim forms (paper or online submission) can be found on the [Greenshield online portal](https://onlineservices.greenshield.ca/planmember/AccessMgmt/Public/SignOn.aspx). It's convenient to sign up for online login to your Greenshield plans. You will need a different login for each insurance number. There you will be able to view claim history, find blank claim forms, submit some kinds of claims, and sign up for direct deposit. Signing up for direct deposit will allow the insurance provider to deposit the amount into your bank account directly. If you do not sign up for direct deposit, a cheque will be mailed to you. Make sure you submit claims for money you spend on your health! Otherwise the insurance company is simply profiting off you. Our plan is pretty good, so use it.
 
+{::comment}
+Add information about accessing the GS online portal, and functionality within it (lots has changed recently), including filing an HCSA reimbursement claim, deadlines for submitting, and registrationg keys.
+{:/comment}
+
 ## Canadian Students from Outside Ontario
 
-* (information to be added)
+* (Information to be added)
+
+{::comment}
+Add information about using other province's health care coverage in Ontario. Anything special you need to know (e.g. flu shot things?). How/when to switch to OHIP from another province's coverage. Ways OHIP might be different from the provincial health care you're used to.
+{:/comment}
 
 ## International Students
 
@@ -58,7 +84,11 @@ Any partners/dependents on your plan will have their own individual ID number. T
 
 If you enroll family members on your health plan, you may be able to geta percentage of the cost of adding them to the plan reimbursed through the [U of T Family Plan Assistance Fund](https://www.cupe3902.org/unit-1/benefits/ufpaf/). Applications for this fund are usually open in February, check the website to see if you're available.
 
-If you have an alternative source of equivalent (or better) coverage from your partner or family that you prefer to use rather than this insurance system, you can [opt out](https://utgsu.ca/health-and-dental/opting-out-opting-in/) of the GSU plan. You will be opted out of the CUPE plan by extension (though you will still have access to the health care spending account, if you are eligible for it). Opting-out is done online, through the links on the [studentcare](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_OptOuts) page. You must opt-out by the deadline, usually the end of September. 
+If you have an alternative source of equivalent (or better) coverage from your partner or family that you prefer to use rather than this insurance system, you can [opt out](https://utgsu.ca/health-and-dental/opting-out-opting-in/) of the GSU plan. You will be opted out of the CUPE plan by extension (though you will still have access to the health care spending account, if you are eligible for it). Opting-out is done online, through the links on the [studentcare](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_OptOuts) page. You must opt-out by the deadline, usually the end of September.
+
+{::comment}
+Add information about setting your partner up as being able to fully access/make decisions about your health care plan (on the website). Who counts as a partner/dependent, and what documentation (if any) you'll be asked to provide.
+{:/comment}
 
 ## Health Services
 
@@ -107,7 +137,6 @@ t: 1-866-925-5454
 * [Talk4Healing](www.talk4healing.com) is a free, confidential 24-hour helpline for Indigenous women, by Indigenous women. 14 Indigenous languages supported, as well as English and French.
 t: 1-855-554-HEAL (4325) (talk or text)
 
-
 #### GSU resources:
 
 * The GSU's [Grad Minds](http://www.gradminds.ca/) promotes mental health awareness among grad students at U of T. Check out their workshops and events, or consider volunteering.
@@ -116,7 +145,7 @@ t: 1-855-554-HEAL (4325) (talk or text)
 UTGSU Health and Dental Insurance Office: 16 Bancroft Ave
 t: 1-866-358-4436   e: health@utgsu.ca
 
-#### Studentcare Networks:
+#### Studentcare Network:
 
 Green Shield has agreements with healthcare providers in the city (and around the country) that will lower the cost of some services for plan members. You can find a complete list of in-network providers [here](https://www.studentcare.ca/RTEContent/Document/EN/Network_Listings/ON_3_Studentcare.pdf), or check details of the discounts and providers for each network on the [studentcare website](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home) (on the right-hand side, under "Studentcare Networks". **You do not have to use an in-network provider to get reimbursed**; your coverage applies equally to all qualified providers, being "in the network" just means a provider will offer discounts on some services to plan members.
 
@@ -132,7 +161,9 @@ Mindsweepers *does not* provide direct support to students, but may be able to p
 ## Other Tips
 
 #### Timelines: 
-Expenses must be incurred between September 1 and August 31 for that year. You cannot submit an expense more than 12 months old and expect to receive payment.
+Expenses must be incurred between September 1 and August 31 for the year that you are enrolled in the plan. Expenses for the past year should ideally be submitted for reimbursement before your plan ends on August 31. There is a 30-day "grace period" (i.e. until the end of September after your plan year ends), when you can still submit outstanding expenses, but because Green Shield doesn't consider your top-up plan to be "active" during this time (it's within the blackout dates), submitting claims during the grace period can be more challenging (see the "Submitting a Claim" section, above). Best course of action: submit whatever expenses you can before August 31, and only send claims in during the grace period if you have to.
+
+During the first few months of the new academic year (usually about **insert dates**), your CUPE top-up plan will be under blackout. It takes a few months for Green Shield to get from U of T and process the full list of who is eligible for the top-up plan (based on number of hours contracted). This means that during this time, you won't be able to get reimbursed for expenses from the CUPE top-up plan (the GSU plan should still work), and claims will come back 'rejected' if you send them in. Save your receipts, and submit the claims **after** the blackout period ends. Even if the GSU plan has already paid a portion of the expense, you can still get reimbursed for the amount that the top-up plan covers later.
 
 #### Graduation:
 If you have graduated, congratulations! If you still need health insurance, you can extend your GSU insurance plan for 12 months at the same rate.
@@ -142,6 +173,12 @@ Before going on any international travel related to your work, the university re
 
 Due to COVID-19, however, travel advisories and insurance coverage can change quickly. For this reason, we are **strongly recommending** that you verify your coverage before travelling outside of Canada. Check with the [Green Shield COVID-19 FAQ](https://support.greenshield.ca/SupportCentre/GreenShield/Home/DocumentsByTopic/region_coronavirus), as well as the Government of Canada [official travel advisories](https://travel.gc.ca/travelling/advisories) and [COVID-19 travel restrictions and advice](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html) for up-to-date information.
 
+#### HCSA details:
+
+{::comment}
+Add information on claiming the premium (reminder not to do so until after the expenses have been incurred, and after you've submitted to the reimbursement fund if it's a family enrollment). What kinds of expenses can be covered by HCSA. Being able to set up automatic taking from the HCSA for uncovered expenses on the website (and the risks thereof).
+{:/comment}
+
 #### Claiming the premium:
 Those who do not have medical expenses can currently still access their HCSA by submitting the cost of your GSU health care premium (listed among your fees on ROSI/Acorn) as a health expense to be reimbursed. The HCSA will not cover the full cost, but you may as well access the money since this is possible.
 
@@ -149,3 +186,7 @@ Those who do not have medical expenses can currently still access their HCSA by 
 [Print your own insurance card](https://www.studentcare.ca/RTEContent/Document/EN/Pay_Direct/UTGSU_PDC.pdf) to carry around. Write your GSU plan number in the box and CUPE plan number below or on the other side. Consider laminating the card, printing it out on cardboard, or using tape. So crafty!
 
 (Last updated: November 4th, 2020; Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson))
+
+{::comment}
+Modify this last sentence to direct broken link reports to a dedicated LGCU website committee email address, once one is set up.
+{:/comment}
