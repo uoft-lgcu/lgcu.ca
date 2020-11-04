@@ -4,9 +4,7 @@ title: Health
 permalink: /health/
 ---
 
-{::comment}
-Add links/disclaimers about COVID-19, directing people to appropriate resources for information on that (or the COVID-19 page on this website, if it exists yet).
-{:/comment}
+[comment]: # (Add links/disclaimers about COVID-19, directing people to appropriate resources for information on that (or the COVID-19 page on this website, if it exists yet).)
 
 Please note: the current page is under construction, and is being updated on an ongoing basis. The information it contains is accurate, but some sections may be incomplete. Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson).
 
@@ -40,9 +38,7 @@ Unfortunately, the descriptions of benefits can sometimes be vague. If you're no
 
 Some healthcare providers are able to apply insurance benefits on the spot so you never have to pay the full cost. Discuss this directly with your healthcare provider(s), and see whether they will coordinate benefits with both your GSU and CUPE plans, or with only one (always apply the GSU benefits first). Take your insurance numbers with you to every medical appointment in order to increase the likelihood of using your benefits as you go.
 
-{::comment}
-Should the paragraph above be combined with the information about the pay-direct card for how to use the benefits "at the time"?
-{:/comment}
+[comment]: # (Should the paragraph above be combined with the information about the pay-direct card for how to use the benefits "at the time"?)
 
 ### What kinds of things are covered?
 
@@ -58,17 +54,13 @@ If you have paid for some kind of health service or prescription without accessi
 
 Single claim forms (paper or online submission) can be found on the [Greenshield online portal](https://onlineservices.greenshield.ca/planmember/AccessMgmt/Public/SignOn.aspx). It's convenient to sign up for online login to your Greenshield plans. You will need a different login for each insurance number. There you will be able to view claim history, find blank claim forms, submit some kinds of claims, and sign up for direct deposit. Signing up for direct deposit will allow the insurance provider to deposit the amount into your bank account directly. If you do not sign up for direct deposit, a cheque will be mailed to you. Make sure you submit claims for money you spend on your health! Otherwise the insurance company is simply profiting off you. Our plan is pretty good, so use it.
 
-{::comment}
-Add information about accessing the GS online portal, and functionality within it (lots has changed recently), including filing an HCSA reimbursement claim, deadlines for submitting, and registrationg keys.
-{:/comment}
+[comment]: # (Add information about accessing the GS online portal, and functionality within it -lots has changed recently-, including filing an HCSA reimbursement claim, deadlines for submitting, and registrationg keys.)
 
 ## Canadian Students from Outside Ontario
 
 * (Information to be added)
 
-{::comment}
-Add information about using other province's health care coverage in Ontario. Anything special you need to know (e.g. flu shot things?). How/when to switch to OHIP from another province's coverage. Ways OHIP might be different from the provincial health care you're used to.
-{:/comment}
+[comment]: # (Add information about using other province's health care coverage in Ontario. Anything special you need to know -e.g. flu shot things?-. How/when to switch to OHIP from another province's coverage. Ways OHIP might be different from the provincial health care you're used to.)
 
 ## International Students
 
@@ -86,9 +78,7 @@ If you enroll family members on your health plan, you may be able to geta percen
 
 If you have an alternative source of equivalent (or better) coverage from your partner or family that you prefer to use rather than this insurance system, you can [opt out](https://utgsu.ca/health-and-dental/opting-out-opting-in/) of the GSU plan. You will be opted out of the CUPE plan by extension (though you will still have access to the health care spending account, if you are eligible for it). Opting-out is done online, through the links on the [studentcare](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_OptOuts) page. You must opt-out by the deadline, usually the end of September.
 
-{::comment}
-Add information about setting your partner up as being able to fully access/make decisions about your health care plan (on the website). Who counts as a partner/dependent, and what documentation (if any) you'll be asked to provide.
-{:/comment}
+[comment]: # (Add information about setting your partner up as being able to fully access/make decisions about your health care plan -on the website-. Who counts as a partner/dependent, and what documentation -if any- you'll be asked to provide.)
 
 ## Health Services
 
@@ -175,9 +165,7 @@ Due to COVID-19, however, travel advisories and insurance coverage can change qu
 
 #### HCSA details:
 
-{::comment}
-Add information on claiming the premium (reminder not to do so until after the expenses have been incurred, and after you've submitted to the reimbursement fund if it's a family enrollment). What kinds of expenses can be covered by HCSA. Being able to set up automatic taking from the HCSA for uncovered expenses on the website (and the risks thereof).
-{:/comment}
+[comment]: # (Add information on claiming the premium -reminder not to do so until after the expenses have been incurred, and after you've submitted to the reimbursement fund if it's a family enrollment-. What kinds of expenses can be covered by HCSA. Being able to set up automatic taking from the HCSA for uncovered expenses on the website -and the risks thereof-.)
 
 #### Claiming the premium:
 Those who do not have medical expenses can currently still access their HCSA by submitting the cost of your GSU health care premium (listed among your fees on ROSI/Acorn) as a health expense to be reimbursed. The HCSA will not cover the full cost, but you may as well access the money since this is possible.
@@ -187,6 +175,4 @@ Those who do not have medical expenses can currently still access their HCSA by 
 
 (Last updated: November 4th, 2020; Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson))
 
-{::comment}
-Modify this last sentence to direct broken link reports to a dedicated LGCU website committee email address, once one is set up.
-{:/comment}
+[comment]: # (Modify this last sentence to direct broken link reports to a dedicated LGCU website committee email address, once one is set up.)
