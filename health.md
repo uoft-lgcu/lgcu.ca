@@ -60,14 +60,31 @@ If you have an alternative source of equivalent (or better) coverage from your p
 
 The U of T offers a variety of on-campus health services, including general family doctor-type services, mental health care, flu clinics, immunizations, and physiotherapy. You can use the following services or find your own:
 
-* [Health and Wellness Centre](http://www.studentlife.utoronto.ca/hwc/services-offered)
-(214 College Street; entrance on St. George)
+* [Health and Wellness Centre](https://studentlife.utoronto.ca/department/health-wellness/)
+214 College Street; entrance on St. George
+t: 416-978-8030   e: info.hwc@utoronto.ca
 
 * [U of T Health Services online login](https://my.healthandwellness.utoronto.ca/login.html)
 
-* [Sexual Education Centre](http://sec.sa.utoronto.ca/)
+* [Sexual Education Centre](https://www.utsu.ca/resources/sexual-education-and-peer-support-centre-sec/)
+21 Sussex Ave. 6th Floor, Unit 612
+t: (416)-978-8732   e: sexed.utoronto@gmail.com
 
-* [Sport Medicine Clinic](www.physical.utoronto.ca/SportMedicine.aspx)
+* [Sport Medicine Clinic](https://kpe.utoronto.ca/david-l-macintosh-sport-medicine-clinic)
+Goldring Centre for High Performance Sport, 4th floor; entrance on North side of building
+t: 416-978-4678 (press "0" for reception)
+
+For off-campus health care:
+
+* [iamsick.ca](https://www.iamsick.ca/) will help you find a health care provider near you
+
+* [Telehealth Ontario](https://www.ontario.ca/page/get-medical-advice-telehealth-ontario) will allow you to confidentially talk to a registered nurse 24/7
+t: 1-866-797-0000
+
+* [Health Care Connect](https://hcc3.hcc.moh.gov.on.ca/HCCWeb/faces/layoutHCCSplash.jsp) will help you find a doctor or nurse practitioner near you who is accepting new patients (requires OHIP)
+t:  1-800-445-1822
+
+* [Ontario Virtual Care Clinic](https://www.seethedoctor.ca/en/) will let you talk to an on-call doctor (requires OHIP)
 
 Greenshield has agreements with healthcare providers in the city (and around the country) that will lower the cost of some services. You can also find nearby health providers through the classic method of asking your peers things like, "Do you like your dentist?" or "Where did you get your glasses?" There are also more informal mental wellness resources, like the GSU's [Grad Minds](http://www.gradminds.ca/) or the LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/), which tackles general issues of grad student mental health. You can send them suggestions or get involved yourself!
 
