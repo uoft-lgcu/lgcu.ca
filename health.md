@@ -22,7 +22,7 @@ Both the GSU plan and the CUPE top-up plan are through the same company: Green S
 
 ## Benefits
 
-The GSU plan and the CUPE top-up plan together cover a wide variety of health care services.For a full list of benefits, review these summaries:
+The GSU plan and the CUPE top-up plan together cover a wide variety of health care services. For a full list of benefits, you can review these summaries:
 
 * [GSU plan brochure](http://www.ihaveaplan.ca/RTEContent/Document/EN/Brochure/Current_UTGSU.pdf)
 
