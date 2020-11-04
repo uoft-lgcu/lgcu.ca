@@ -10,7 +10,7 @@ Please note: the current page is under construction, and has not been updated re
 
 Our insurance coverage period runs for the academic year (September 1 to August 31). There are three levels of health insurance:
 
-* Basic: All graduate students must have some form of basic provincial health care (OHIP if from Ontario; equivalent provincial/territorial coverage if from elsewhere in Canada; UHIP for international students). This covers basic doctor's appointments and hospital visits.
+* Basic: All graduate students must have some form of basic provincial health care ([OHIP](https://www.ontario.ca/page/what-ohip-covers) if from Ontario; equivalent provincial/territorial coverage if from elsewhere in Canada; [UHIP](https://studentlife.utoronto.ca/service/university-health-insurance-program/) for international students). This covers basic doctor's appointments and hospital visits.
 
 * [GSU supplement:](http://www.studentcare.ca/View.aspx?locale=en&uid=IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home&) Additional health and dental benefits are provided by the [U of T Graduate Students' Union](https://www.utgsu.ca/) for all full-time and part-time graduate students. The premium is part of the cost of tuition and fees that you pay each year. Your insurance number for the GSU supplement is: UTG[your student number]-00
 
@@ -40,9 +40,13 @@ If you have paid for some kind of health service or prescription without accessi
 
 Single claim forms (paper or online submission) can be found on the [Greenshield online portal](https://onlineservices.greenshield.ca/planmember/AccessMgmt/Public/SignOn.aspx). It's convenient to sign up for online login to your Greenshield plans. You will need a different login for each insurance number. There you will be able to view claim history, find blank claim forms, submit some kinds of claims, and sign up for direct deposit. Signing up for direct deposit will allow the insurance provider to deposit the amount into your bank account directly. If you do not sign up for direct deposit, a cheque will be mailed to you. Make sure you submit claims for money you spend on your health! Otherwise the insurance company is simply profiting off you. Our plan is pretty good, so use it.
 
+## Canadian Students from Outside Ontario
+
+* (information to be added)
+
 ## International Students
 
-International students need to register for a special form of basic health coverage (UHIP). The pool of health providers that take UHIP coverage is more limited than those who take OHIP; when finding a health care provider or trying to get a referral, always check whether or not the provider takes UHIP. While OHIP is free, UHIP is not. Fees for UHIP are part of the cost of tuition and fees, and should be covered by the department if you are currently funded. If you are not currently funded and have to pay for UHIP out of pocket, you can apply for [CUPE 3902's UHIP reimbursement fund](https://www.cupe3902.org/unit-1/benefits/ihpaf/).
+International students need to register for a special form of basic health coverage ([UHIP](https://studentlife.utoronto.ca/service/university-health-insurance-program/)). The pool of health providers that take UHIP coverage is more limited than those who take OHIP; when finding a health care provider or trying to get a referral, always check whether or not the provider takes UHIP. While OHIP is paid for through your provincial taxes, UHIP is not. Fees for UHIP are part of the cost of tuition and fees, and should be covered by the department if you are currently funded. If you are not currently funded and have to pay for UHIP out of pocket, you can apply for [CUPE 3902's UHIP reimbursement fund](https://www.cupe3902.org/unit-1/benefits/ihpaf/).
 
 ## Partners and Families
 
@@ -64,7 +68,9 @@ The U of T offers a variety of on-campus health services, including general fami
 214 College Street; entrance on St. George
 t: 416-978-8030   e: info.hwc@utoronto.ca
 
-* [U of T Health Services online login](https://my.healthandwellness.utoronto.ca/login.html)
+* U of T Health Services allows online booking and lab results through a platform called [Medeo](https://id.medeohealth.com/users/sign_in?return_to=%2Foauth%2Fauthorize%3Fclient_id%3D970840f742279ca101eae604b81430aa496d1b83d6c8ece027ea93c095c936d9%26scope%3Dpublic%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9). You'll need to contact Health and Wellness (and have your U of T email address in hand) in order to set it up ([more details](https://studentlife.utoronto.ca/task/book-appointments-and-view-lab-results-online/)). It can take a few days for your registration to go through, and Health and Wellness are currently running most doctor's appointments remotely through Medeo right now, so don't put it off until the last minute.
+
+[U of T Health Services online login](https://my.healthandwellness.utoronto.ca/login.html)
 
 * [Sexual Education Centre](https://www.utsu.ca/resources/sexual-education-and-peer-support-centre-sec/)
 21 Sussex Ave. 6th Floor, Unit 612
