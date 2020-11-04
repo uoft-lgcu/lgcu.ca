@@ -14,7 +14,7 @@ Our insurance coverage period runs for the academic year (September 1 to August 
 
 * [GSU supplement:](http://www.studentcare.ca/View.aspx?locale=en&uid=IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home&) Additional health and dental benefits are provided by the [U of T Graduate Students' Union](https://www.utgsu.ca/) for all full-time and part-time graduate students. The premium is part of the cost of tuition and fees that you pay each year. Your insurance number for the GSU supplement is: UTG[your student number]-00
 
-* [CUPE top-up:](cupe3902.org/unit-1/unit-1-benefits/) Each year, all students with a CUPE 3901, Unit 1 appointment of at least 50 hours receive a top-up insurance plan to further supplement their GSU insurance. This comes with a $300 spending account for additional healthcare costs. If your contract in the first term is for fewer than 50 hours, coverage is not available to you until you begin a contract that increases your total. However, regardless of when the coverage kicks in, it is retroactive to September 1 of that year. If you are not enrolled in the GSU plan, you will only have access to the $300 spending account. Your insurance number for the CUPE top-up is: UOT[your employee number]-00
+* [CUPE top-up:](https://www.cupe3902.org/unit-1/benefits/) Each year, all students with a CUPE 3901, Unit 1 appointment of at least 50 hours receive a top-up insurance plan to further supplement their GSU insurance. This comes with a $300 spending account for additional healthcare costs. If your contract in the first term is for fewer than 50 hours, coverage is not available to you until you begin a contract that increases your total. However, regardless of when the coverage kicks in, it is retroactive to September 1 of that year. If you are not enrolled in the GSU plan, you will only have access to the $300 spending account. Your insurance number for the CUPE top-up is: UOT[your employee number]-00
 
 ## Benefits
 
@@ -22,7 +22,15 @@ We can receive up to $10,000 in prescription drug costs and $45 per appointment 
 
 * [GSU plan brochure](http://www.ihaveaplan.ca/RTEContent/Document/EN/Brochure/Current_UTGSU.pdf)
 
-* [Coordinated benefits](http://cupe3902.org/wp-content/uploads/2011/05/Copy-of-Copy-of-summary-GSU_3902-1Plan-TO-UNION.pdf)
+* [GSU benefit booklet](http://www.studentcare.ca/RTEContent/Document/EN/Miscellaneous/UTGSU_benefit_booklet.pdf)
+
+* [Top-up plan FAQ](https://www.cupe3902.org/wp-content/uploads/2018/09/Benefits-FAQ.pdf)
+
+* [Maximum allowable amounts](https://www.cupe3902.org/wp-content/uploads/2018/04/GSU_Unit1TopUp_2016-17Coverage_table.pdf)
+
+* [HCSA allowable expenses](https://www.cupe3902.org/wp-content/uploads/2018/04/HCSA-Allowed-Expenses.pdf)
+
+Unfortunately, the descriptions of benefits can sometimes be vague. If you're not certain whether a particular service will be covered, or what amount will be covered, it's a good idea to contact Green Shield Canada directly to verify *before* paying out of pocket. The phone number for Green Shield Canada is 1-888-711-1119; be sure to have the insurance numbers for both your plans at hand when you call. 
 
 Some healthcare providers are able to apply insurance benefits on the spot so you never have to pay the full cost. Discuss this directly with your healthcare provider(s), and see whether they will coordinate benefits with both your GSU and CUPE plans, or with only one (always apply the GSU benefits first). Take your insurance numbers with you to every medical appointment in order to increase the likelihood of using your benefits as you go.
 
@@ -34,15 +42,19 @@ Single claim forms (paper or online submission) can be found on the [Greenshield
 
 ## International Students
 
-International students need to register for a special form of basic health coverage (UHIP). The pool of health providers that take UHIP coverage is more limited than those who take OHIP; when finding a health care provider or trying to get a referral, always check whether or not the provider takes UHIP. While OHIP is free, UHIP is not. Fees for UHIP are part of the cost of tuition and fees, and should be covered by the department if you are currently funded. If you are not currently funded and have to pay for UHIP out of pocket, you can apply for [CUPE 3902's UHIP reimbursement fund](http://cupe3902.org/unit-1/unit-1-benefits/).
+International students need to register for a special form of basic health coverage (UHIP). The pool of health providers that take UHIP coverage is more limited than those who take OHIP; when finding a health care provider or trying to get a referral, always check whether or not the provider takes UHIP. While OHIP is free, UHIP is not. Fees for UHIP are part of the cost of tuition and fees, and should be covered by the department if you are currently funded. If you are not currently funded and have to pay for UHIP out of pocket, you can apply for [CUPE 3902's UHIP reimbursement fund](https://www.cupe3902.org/unit-1/benefits/ihpaf/).
 
 ## Partners and Families
 
-It is possible to extend all insurance plans for which you are eligible to your partner and dependents. To do this, you must sign up for [family coverage](https://www.utgsu.ca/insurance/family-coverage/) on the GSU insurance plan and pay the additional fee(s). Health and dental are dealt with separately. You must opt-in by the deadline, usually the end of September.
+It is possible to extend all insurance plans for which you are eligible to your partner and dependents. To do this, you must sign up for [family coverage](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_CoupleFamilyEnrolments) on the GSU insurance plan and pay the additional fee(s). Health and dental are dealt with separately. You must opt-in by the deadline, usually the end of September.
 
-The CUPE plan is currently linked to the GSU plan. If you are eligible for the CUPE top-up plan, this top-up will be extended to all your partners/dependents who also have GSU insurance. The health care spending account will be shared between all members of the family, with its value increased to $400 total (a bonus of $100).
+The CUPE plan is currently linked to the GSU plan. If you are eligible for the CUPE top-up plan, this top-up will be extended to all your partners/dependents who also have GSU insurance. The health care spending account will be shared between all members of the family; the Family HCSA has an increased value ($600 as of the 2018-19 academic year.)
 
-If you have an alternative source of equivalent (or better) coverage from your partner or family that you prefer to use rather than this insurance system, you can [opt out](https://www.utgsu.ca/insurance/opting-out/) of the GSU plan. You will be opted out of the CUPE plan by extension (though you will still have access to the health care spending account, if you are eligible for it). You must opt-out by the deadline, usually the end of September.
+Any partners/dependents on your plan will have their own individual ID number. This number is the same as the UTG[student number] and UOT[employee number] IDs that you have as an individual, but instead of -00, your partner's/dependents' numbers will end in -01, -02, etc. When submitting a claim, make sure the ID number reflects the family member who received the medical care.
+
+If you enroll family members on your health plan, you may be able to geta percentage of the cost of adding them to the plan reimbursed through the [U.ofT. Family Plan Assistance Fund](https://www.cupe3902.org/unit-1/benefits/ufpaf/). Applications for this fund are usually open in February, check the website to see if you're available.
+
+If you have an alternative source of equivalent (or better) coverage from your partner or family that you prefer to use rather than this insurance system, you can [opt out](https://utgsu.ca/health-and-dental/opting-out-opting-in/) of the GSU plan. You will be opted out of the CUPE plan by extension (though you will still have access to the health care spending account, if you are eligible for it). Opting-out is done online, through the links on the [studentcare](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_OptOuts) page. You must opt-out by the deadline, usually the end of September. 
 
 ## Health Services
 
