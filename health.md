@@ -62,15 +62,17 @@ If you have an alternative source of equivalent (or better) coverage from your p
 
 ## Health Services
 
-The U of T offers a variety of on-campus health services, including general family doctor-type services, mental health care, flu clinics, immunizations, and physiotherapy. You can use the following services or find your own:
+The U of T offers a variety of on-campus health services, including general family doctor-type services, [sexual and reproductive health support](https://studentlife.utoronto.ca/service/sexual-and-reproductive-health-counselling-and-education/), [mental health care](https://studentlife.utoronto.ca/service/mental-health-care/), [disability documentation](https://studentlife.utoronto.ca/service/disability-documentation/), [immunizations](https://studentlife.utoronto.ca/service/immunization-services/), and many more. 
+
+Note: U of T Health and Wellness typically offers flu shots, but will not be doing so for the 2020-21 year. You can still get a free flu shot through [Toronto Public Health](https://www.toronto.ca/311/knowledgebase/kb/docs/articles/public-health/communicable-disease-control/vaccine-preventable-disease/flu-shot-clinics-seasonal-flu-when-and-where-to-get-your-flu-shot.html) as well as [other services](https://studentlife.utoronto.ca/service/flu-clinic-referrals/).
+
+#### For on-campus health care:
 
 * [Health and Wellness Centre](https://studentlife.utoronto.ca/department/health-wellness/)
 214 College Street; entrance on St. George
 t: 416-978-8030   e: info.hwc@utoronto.ca
 
 * U of T Health Services allows online booking and lab results through a platform called [Medeo](https://id.medeohealth.com/users/sign_in?return_to=%2Foauth%2Fauthorize%3Fclient_id%3D970840f742279ca101eae604b81430aa496d1b83d6c8ece027ea93c095c936d9%26scope%3Dpublic%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9). You'll need to contact Health and Wellness (and have your U of T email address in hand) in order to set it up ([more details](https://studentlife.utoronto.ca/task/book-appointments-and-view-lab-results-online/)). It can take a few days for your registration to go through, and Health and Wellness are currently running most doctor's appointments remotely through Medeo right now, so don't put it off until the last minute.
-
-[U of T Health Services online login](https://my.healthandwellness.utoronto.ca/login.html)
 
 * [Sexual Education Centre](https://www.utsu.ca/resources/sexual-education-and-peer-support-centre-sec/)
 21 Sussex Ave. 6th Floor, Unit 612
@@ -80,7 +82,7 @@ t: (416)-978-8732   e: sexed.utoronto@gmail.com
 Goldring Centre for High Performance Sport, 4th floor; entrance on North side of building
 t: 416-978-4678 (press "0" for reception)
 
-For off-campus health care:
+#### For off-campus health care:
 
 * [iamsick.ca](https://www.iamsick.ca/) will help you find a health care provider near you
 
@@ -92,7 +94,20 @@ t:  1-800-445-1822
 
 * [Ontario Virtual Care Clinic](https://www.seethedoctor.ca/en/) will let you talk to an on-call doctor (requires OHIP)
 
-Greenshield has agreements with healthcare providers in the city (and around the country) that will lower the cost of some services. You can also find nearby health providers through the classic method of asking your peers things like, "Do you like your dentist?" or "Where did you get your glasses?" There are also more informal mental wellness resources, like the GSU's [Grad Minds](http://www.gradminds.ca/) or the LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/), which tackles general issues of grad student mental health. You can send them suggestions or get involved yourself!
+#### Studentcare Networks:
+
+Green Shield has agreements with healthcare providers in the city (and around the country) that will lower the cost of some services for plan members. You can find a complete list of in-network providers [here](https://www.studentcare.ca/RTEContent/Document/EN/Network_Listings/ON_3_Studentcare.pdf), or check details of the discounts and providers for each network on the [studentcare website](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home) (on the right-hand side, under "Studentcare Networks". **You do not have to use an in-network provider to get reimbursed**; your coverage applies equally to all qualified providers, being "in the network" just means a provider will offer discounts on some services to plan members.
+
+If you're not sure if the provider you want to see will be covered by your plan, you can check the [GSU benefit booklet](http://www.studentcare.ca/RTEContent/Document/EN/Miscellaneous/UTGSU_benefit_booklet.pdf), or contact Green Shield directly through their [support centre](https://support.greenshield.ca/SupportCentre/GreenShield?culture=en-CA), [online form](https://onlineservices.greenshield.ca/PlanMember/AccessMgmt/Public/AnonymousInquiry.aspx?lang=en-CA) or at 1-888-711-1119. This is primarily an issue with professional services (such as counselling), where providers must have certain qualifications in order to be covered by the plan.
+
+#### Other ways to find resources:
+
+* Your fellow grad students can be a great source of advice and support (even if it's just about what dentist they go to). To get in touch in the age of social distancing, you can: email the LGCU listserv (LGCU-L@listserv.utoronto.ca); contact [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson) to be added to the LGCUers facebook page; or contact [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis) to be added to the LGCU virtual lounge on Zulip.
+
+* The GSU's [Grad Minds](http://www.gradminds.ca/) promotes mental health awareness among grad students at U of T. Check out their workshops and events, or consider volunteering.
+
+* The LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/) 
+Mindsweepers *does not* provide direct support to students, but may be able to point you in the direction of some good resources. You can send them suggestions or get involved yourself.
 
 ## Other Tips
 
