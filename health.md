@@ -44,7 +44,23 @@ Some healthcare providers are able to apply insurance benefits on the spot so yo
 
 Here are some examples of benefits included in our plans (remember to always check the details of coverage before paying out-of-pocket):
 
-* insert examples here
+* Prescription drugs
+
+* Psychotherapy and counselling
+
+* Custom foot orthotics
+
+* Diabetic equipment
+
+* Prescription glasses or contacts
+
+* Laser eye surgery
+
+* Preventative, restorative and emergency dental services
+
+* Registered massage therapy
+
+* Physiotherapy
 
 Many students under-use their health care coverage; this only benefits the insurance company. Make sure you're getting the most out of the benefits you're paying for, and don't put off medical care for financial reasons when you don't have to!
 
