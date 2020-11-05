@@ -172,7 +172,25 @@ Expenses must be incurred between September 1 and August 31 for the year that yo
 During the first few months of the new academic year (usually about **insert dates**), your CUPE top-up plan will be under blackout. It takes a few months for Green Shield to get from U of T and process the full list of who is eligible for the top-up plan (based on number of hours contracted). This means that during this time, you won't be able to get reimbursed for expenses from the CUPE top-up plan (the GSU plan should still work), and claims will come back 'rejected' if you send them in. Save your receipts, and submit the claims **after** the blackout period ends. Even if the GSU plan has already paid a portion of the expense, you can still get reimbursed for the amount that the top-up plan covers later.
 
 #### Graduation:
-If you have graduated, congratulations! If you still need health insurance, you can extend your GSU insurance plan for 12 months at the same rate.
+If you are graduating in the Fall semester (i.e. before January), you will not be charged winter fees and your coverage will automatically end on December 31st. If you are graduating in the Winter or Summer semester (i.e. in or after January), you will already have paid winter fees, so your coverage will end on August 31st.
+
+You do have the option to extend your coverage, however. At the end of the last term you pay fees for, you can purchase a [12-month extension](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_12MonthExtendedCoverage "UTGSU 12-month extended insurance information"). You have to apply for this extended coverage within 30 days of the termination of your UTGSU insurance (i.e. the end of the last term you paid fees for). Fill out [the application form](https://www.studentcare.ca/RTEContent/Document/EN/Enrolment_Forms/UTGSU_12MonthExt.pdf "UTGSU 12-month extended insurance application form (pdf)") and submit the fees by cheque or money order by the deadline.
+
+Other things to note:
+
+* The 12-month extended coverage is typically more expensive than the fees charged to graduate students for the plan (for 2020-21, it was approximately 50% more expensive)
+
+* Partners and dependents can also be enrolled for 12-month extended coverage
+
+* The 12-month extended plan includes the HCSA, which can be claimed back against the premium (see [Claiming the premium](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#claiming-the-premium "Section on 'Claiming the premium' on this page"))
+
+* [Access to the CUPE top-up plan?]
+
+* Former LGCU members who used the extension have **strongly** recommended purchasing it 
+
+#### Going on leave:
+
+* (information to be included)
 
 #### Travel: 
 Before going on any international travel related to your work, the university requires you to have travel insurance. The GSU plan includes [full travel insurance](https://utgsu.ca/health-and-dental/travel-insurance/ "UTGSU travel insurance coverage") for trips of up to 120 days that can cover you for conferences, research trips, many other reasons.
