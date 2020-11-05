@@ -104,13 +104,13 @@ Note: U of T Health and Wellness typically offers flu shots, but will not be doi
 
 #### For University of Toronto resources:
 
-* [Health and Wellness Centre](https://studentlife.utoronto.ca/department/health-wellness/ "U of T Health and Wellness main page")
-214 College Street; entrance on St. George
+* [Health and Wellness Centre](https://studentlife.utoronto.ca/department/health-wellness/ "U of T Health and Wellness main page") \\
+214 College Street; entrance on St. George \\
 t: 416-978-8030   e: info.hwc@utoronto.ca
 
 * U of T Health Services allows online booking and lab results through a platform called [Medeo](https://id.medeohealth.com/users/sign_in?return_to=%2Foauth%2Fauthorize%3Fclient_id%3D970840f742279ca101eae604b81430aa496d1b83d6c8ece027ea93c095c936d9%26scope%3Dpublic%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9 "Direct link to Medeo platform login page"). You'll need to contact Health and Wellness (and have your U of T email address in hand) in order to set it up ([more details](https://studentlife.utoronto.ca/task/book-appointments-and-view-lab-results-online/ "U of T Health and Wellness information on Medeo")). It can take a few days for your registration to go through, and Health and Wellness are currently running most doctor's appointments remotely through Medeo right now, so don't put it off until the last minute.
 
-* [Sexual Education Centre](https://www.utsu.ca/resources/sexual-education-and-peer-support-centre-sec/ "U of T Student Union resources page information about the sexual education centre at the University of Toronto) \\
+* [Sexual Education Centre](https://www.utsu.ca/resources/sexual-education-and-peer-support-centre-sec/ "U of T Student Union resources page information about the sexual education centre at the University of Toronto") \\
 21 Sussex Ave. 6th Floor, Unit 612 \\
 t: (416)-978-8732   e: sexed.utoronto@gmail.com
 
