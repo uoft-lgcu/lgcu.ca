@@ -110,15 +110,15 @@ t: 416-978-8030   e: info.hwc@utoronto.ca
 
 * U of T Health Services allows online booking and lab results through a platform called [Medeo](https://id.medeohealth.com/users/sign_in?return_to=%2Foauth%2Fauthorize%3Fclient_id%3D970840f742279ca101eae604b81430aa496d1b83d6c8ece027ea93c095c936d9%26scope%3Dpublic%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9 "Direct link to Medeo platform login page"). You'll need to contact Health and Wellness (and have your U of T email address in hand) in order to set it up ([more details](https://studentlife.utoronto.ca/task/book-appointments-and-view-lab-results-online/ "U of T Health and Wellness information on Medeo")). It can take a few days for your registration to go through, and Health and Wellness are currently running most doctor's appointments remotely through Medeo right now, so don't put it off until the last minute.
 
-* [Sexual Education Centre](https://www.utsu.ca/resources/sexual-education-and-peer-support-centre-sec/ "U of T Student Union resources page information about the sexual education centre at the University of Toronto)
-21 Sussex Ave. 6th Floor, Unit 612
+* [Sexual Education Centre](https://www.utsu.ca/resources/sexual-education-and-peer-support-centre-sec/ "U of T Student Union resources page information about the sexual education centre at the University of Toronto) \\
+21 Sussex Ave. 6th Floor, Unit 612 \\
 t: (416)-978-8732   e: sexed.utoronto@gmail.com
 
-* [Sport Medicine Clinic](https://kpe.utoronto.ca/david-l-macintosh-sport-medicine-clinic "David L. MacIntosh Sport Medicine Clinic main page")
-Goldring Centre for High Performance Sport, 4th floor; entrance on North side of building
+* [Sport Medicine Clinic](https://kpe.utoronto.ca/david-l-macintosh-sport-medicine-clinic "David L. MacIntosh Sport Medicine Clinic main page") \\
+Goldring Centre for High Performance Sport, 4th floor; entrance on North side of building \\
 t: 416-978-4678 (press "0" for reception)
 
-* [My SSP](https://studentlife.utoronto.ca/service/myssp/ "U of T information on My SSP service") provides free, confidential 24-hour helpline for U of T students. 146 languages supported. 
+* [My SSP](https://studentlife.utoronto.ca/service/myssp/ "U of T information on My SSP service") provides free, confidential 24-hour helpline for U of T students. 146 languages supported. \\
 t: 1-844-451-9700
 
 * [School of Graduate Studies Wellness FAQs](https://www.sgs.utoronto.ca/resources-supports/wellness-portal/wellness-faqs/ "School of Graduate Studies FAQ page on Wellness") has answers to a variety of wellness-related questions for graduate students.
@@ -127,28 +127,28 @@ t: 1-844-451-9700
 
 * [iamsick.ca](https://www.iamsick.ca/ "iamsick.ca main page") will help you find a health care provider near you
 
-* [Telehealth Ontario](https://www.ontario.ca/page/get-medical-advice-telehealth-ontario "Government of Ontario Telehealth Ontario information") will allow you to confidentially talk to a registered nurse 24/7
+* [Telehealth Ontario](https://www.ontario.ca/page/get-medical-advice-telehealth-ontario "Government of Ontario Telehealth Ontario information") will allow you to confidentially talk to a registered nurse 24/7 \\
 t: 1-866-797-0000
 
-* [Health Care Connect](https://hcc3.hcc.moh.gov.on.ca/HCCWeb/faces/layoutHCCSplash.jsp "Government of Ontario Health Care Connect sign-up page") will help you find a doctor or nurse practitioner near you who is accepting new patients (requires OHIP)
+* [Health Care Connect](https://hcc3.hcc.moh.gov.on.ca/HCCWeb/faces/layoutHCCSplash.jsp "Government of Ontario Health Care Connect sign-up page") will help you find a doctor or nurse practitioner near you who is accepting new patients (requires OHIP) \\
 t:  1-800-445-1822
 
 * [Ontario Virtual Care Clinic](https://www.seethedoctor.ca/en/ "Ontario Virtual Care Clinic") will let you talk to an on-call doctor (requires OHIP)
 
 * [Walk-in counselling services](https://utgsu.ca/health-and-dental/walk-in-counselling/ "UTGSU List of local walk-in counselling services") across Toronto can help you without an appointment or fees
 
-* [Good2Talk](https://good2talk.ca/ "Good2Talk (post-secondary student helpline) main page") is a free, confidential 24-hour helpline for post-secondary students' mental health and well-being.
+* [Good2Talk](https://good2talk.ca/ "Good2Talk (post-secondary student helpline) main page") is a free, confidential 24-hour helpline for post-secondary students' mental health and well-being. \\
 t: 1-866-925-5454
 
-* [Talk4Healing](www.talk4healing.com "Talk4Healing (indigenous women helpine) main page") is a free, confidential 24-hour helpline for Indigenous women, by Indigenous women. 14 Indigenous languages supported, as well as English and French.
+* [Talk4Healing](www.talk4healing.com "Talk4Healing (indigenous women helpine) main page") is a free, confidential 24-hour helpline for Indigenous women, by Indigenous women. 14 Indigenous languages supported, as well as English and French. \\
 t: 1-855-554-HEAL (4325) (talk or text)
 
 #### GSU resources:
 
 * The GSU's [Grad Minds](http://www.gradminds.ca/ "GSU Grad Minds main page") promotes mental health awareness among grad students at U of T. Check out their workshops and events, or consider volunteering.
 
-* If you need help with coverage, opt-outs, or enrollments, you can talk to [UTGSU](https://utgsu.ca/health-and-dental/ "UTGSU Health and dental inquirires and contact information") directly.
-UTGSU Health and Dental Insurance Office: 16 Bancroft Ave
+* If you need help with coverage, opt-outs, or enrollments, you can talk to [UTGSU](https://utgsu.ca/health-and-dental/ "UTGSU Health and dental inquirires and contact information") directly. \\
+UTGSU Health and Dental Insurance Office: 16 Bancroft Ave \\
 t: 1-866-358-4436   e: health@utgsu.ca
 
 #### Studentcare Network:
