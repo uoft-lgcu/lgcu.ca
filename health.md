@@ -176,3 +176,14 @@ Those who do not have medical expenses can currently still access their HCSA by 
 (Last updated: November 4th, 2020; Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson"))
 
 [comment]: # (Modify this last sentence to direct broken link reports to a dedicated LGCU website committee email address, once one is set up.)
+
+*[COVID-19]: Coronavirus Disease 2019
+*[LGCU]: Linguistics Graduate Student Union
+*[OHIP]: Ontario Health Insurance Plan
+*[UHIP]: University Health Insurance Plan
+*[GSU]: Graduate Student Union
+*[CUPE]: Canadian Union of Public Employees
+*[HCSA]: Health Care Spending Account
+*[UFPAF]: University of Toronto Family Plan Assistance Fund
+*[IHPAF]: International Health Plan Assistance Fund
+*[My SSP]: My Student Support Program
