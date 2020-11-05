@@ -61,3 +61,11 @@ As the situation evolves with the ongoing COVID-19 pandemic, information and rec
 * [World Health Organization COVID-19 Page](https://www.who.int/emergencies/diseases/novel-coronavirus-2019 "World Health Organization COVID-19 information")
 
 (Last updated: November 5th, 2020; Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson"))
+
+*[COVID-19]: Coronavirus Disease 2019
+*[UTORid]:
+*[LGCU]: Linguistics Graduate Student Union
+*[SS568]: Sidney Smith Hall Room 568
+*[SS569]: Sidney Smith Hall Room 569
+*[CUPE3902]: Canadian Union of Public Employees (Local 3902)
+*[UTGSU]: University of Toronto Graduate Student Union
