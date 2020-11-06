@@ -12,7 +12,6 @@ permalink: /health/
 | Third line      |
 |-----------------|
 | Second body     |
-| 2 line          |
 |-----------------|
 
 | Test Table |
