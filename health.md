@@ -4,9 +4,36 @@ title: Health
 permalink: /health/
 ---
 
-Please note: the current page is under construction, and is being updated on an ongoing basis. The information it contains is accurate, but some sections may be incomplete. Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson").
+<style>
+.heatMap {
+    width: 70%;
+    text-align: center;
+}
+.heatMap th {
+background: grey;
+word-wrap: break-word;
+text-align: center;
+}
+.heatMap tr:nth-child(1) { background: red; }
+.heatMap tr:nth-child(2) { background: orange; }
+.heatMap tr:nth-child(3) { background: green; }
+</style>
 
-Note: Information about the ongoing COVID-19 pandemic (LGCU and Linguistics Department policy, as well as resources) can be found on the [COVID-19](https://uoft-lgcu.github.io/covid-19/ "LGCU COVID-19 Information") page of this website.
+<div class="heatMap">
+
+| Everything | in this table | is Centered |  and the table will only take up 70% of the screen width  | 
+| -- | -- | -- | -- |
+| This | is | a | Red Row |
+| This | is | an | Orange Row |
+| This | is | a | Green Row |
+
+</div>
+
+| The current page is under construction, and is being updated on an ongoing basis. The information it contains is accurate, but some sections may be incomplete. Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson"). |
+| :-- |
+
+| Information about the ongoing COVID-19 pandemic (LGCU and Linguistics Department policy, as well as resources) can be found on the [COVID-19](https://uoft-lgcu.github.io/covid-19/ "LGCU COVID-19 Information") page of this website. |
+| :-- |
 
 ## Insurance Plans
 
