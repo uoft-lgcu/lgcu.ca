@@ -188,7 +188,7 @@ Other things to note:
 
 * Partners and dependents can also be enrolled for 12-month extended coverage
 
-* The 12-month extended plan includes the HCSA, which can be claimed back against the premium (see [Claiming the premium](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#claiming-the-premium "Section on 'Claiming the premium' on this page"))
+* The 12-month extended plan includes the HCSA, which can be claimed back against the premium (see [HCSA details](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#HCSA-details: "Section on 'HCSA details' on this page"))
 
 * (This bullet point under construction - Access to the CUPE top-up plan)
 
