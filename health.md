@@ -8,8 +8,6 @@ permalink: /health/
 | Default aligned |
 |-----------------|
 | First body part |
-| Second line     |
-| Third line      |
 |-----------------|
 
 
