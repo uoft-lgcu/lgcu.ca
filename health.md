@@ -38,11 +38,7 @@ The GSU plan and the CUPE top-up plan together cover a wide variety of health ca
 
 * [HCSA allowable expenses](https://www.cupe3902.org/wp-content/uploads/2018/04/HCSA-Allowed-Expenses.pdf "List of expenses that can be reimbursed from the HCSA (pdf)")
 
-Unfortunately, the descriptions of benefits can sometimes be vague. If you're not certain whether a particular service will be covered, or what amount will be covered, it's a good idea to contact Green Shield Canada directly to verify **before** paying out of pocket. The phone number for Green Shield Canada is 1-888-711-1119; be sure to have the insurance numbers for both your plans at hand when you call. 
-
-Some healthcare providers are able to apply insurance benefits on the spot so you never have to pay the full cost. Discuss this directly with your healthcare provider(s), and see whether they will coordinate benefits with both your GSU and CUPE plans, or with only one (always apply the GSU benefits first). Take your insurance numbers with you to every medical appointment in order to increase the likelihood of using your benefits as you go.
-
-[comment]: # (Should the paragraph above be combined with the information about the pay-direct card for how to use the benefits "at the time"?)
+Unfortunately, the descriptions of benefits can sometimes be vague. If you're not certain whether a particular service will be covered, or what amount will be covered, it's a good idea to contact Green Shield Canada directly to verify **before** paying out of pocket. The phone number for Green Shield Canada is 1-888-711-1119; be sure to have the insurance numbers for both your plans at hand when you call.
 
 ### What kinds of things are covered?
 
@@ -68,7 +64,13 @@ Here are some examples of benefits included in our plans (remember to always che
 
 Many students under-use their health care coverage; this only benefits the insurance company. Make sure you're getting the most out of the benefits you're paying for, and don't put off medical care for financial reasons when you don't have to!
 
-## Filing a Claim
+## Paying direct
+
+Some healthcare providers are able to apply insurance benefits on the spot so you never have to pay the full cost. Discuss this directly with your healthcare provider(s), and see whether they will coordinate benefits with both your GSU and CUPE plans, or with only one (always apply the GSU benefits first). Take your insurance numbers with you to every medical appointment in order to increase the likelihood of using your benefits as you go.
+
+You can also [print your own insurance card](https://www.studentcare.ca/RTEContent/Document/EN/Pay_Direct/UTGSU_PDC.pdf "UTGSU Health and dental plan pay-direct card (pdf)") to carry around. Write your GSU plan number in the box and CUPE plan number below or on the other side. Consider laminating the card, printing it out on cardboard, or using tape.
+
+## Filing a claim
 
 If you have paid for some kind of health service or prescription without accessing your insurance up front, you can likely receive reimbursement for some of the expense. This is done by filing an insurance claim. You can file a joint claim to both supplementary health plans simultaneously, or file independent claims to each plan. Always apply to the GSU plan first. If your medical expense is not fully covered by the combined supplementary and top-up plans, you can also access your health care spending account (HCSA) which may cover the remainder. Where receipts are required, attach receipts, not just invoices. Coordinated forms can be found in the lounge under the light-switches. If these run low, please be a good citizen and photocopy some more.
 
@@ -78,7 +80,7 @@ Single claim forms (paper or online submission) can be found on the [Greenshield
 
 ## Canadian Students from Outside Ontario
 
-* (Information to be added)
+* (Section under construction)
 
 [comment]: # (Add information about using other province's health care coverage in Ontario. Anything special you need to know -e.g. flu shot things?-. How/when to switch to OHIP from another province's coverage. Ways OHIP might be different from the provincial health care you're used to.)
 
@@ -88,17 +90,17 @@ International students need to register for a special form of basic health cover
 
 ## Partners and Families
 
-It is possible to extend all insurance plans for which you are eligible to your partner and dependents. To do this, you must sign up for [family coverage](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_CoupleFamilyEnrolments "How to apply for couple and family enrollment") on the GSU insurance plan and pay the additional fee(s). Health and dental are dealt with separately. You must opt-in by the deadline, usually the end of September.
+It is possible to extend all insurance plans for which you are eligible to your spouse and any dependent children (common-law and same-sex partners are included, and you may only cover one spouse at a time; verify [who's eligible to enroll](https://studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_CoupleFamilyEnrolments_WhosEligible "Studentcare information on couple and family enrollment eligibility"). To do this, you must sign up for [family coverage](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_CoupleFamilyEnrolments "How to apply for couple and family enrollment") on the GSU insurance plan and pay the additional fee(s). Health and dental are dealt with separately. You must opt-in by the deadline, usually the end of September.
 
-The CUPE plan is currently linked to the GSU plan. If you are eligible for the CUPE top-up plan, this top-up will be extended to all your partners/dependents who also have GSU insurance. The health care spending account will be shared between all members of the family; the Family HCSA has an increased value.
+The CUPE plan is currently linked to the GSU plan. If you are eligible for the CUPE top-up plan, this top-up will be extended to all your family members who also have GSU insurance. The health care spending account will be shared between all members of the family; the Family HCSA has an increased value.
 
-Any partners/dependents on your plan will have their own individual ID number. This number is the same as the UTG[student number] and UOT[employee number] IDs that you have as an individual, but instead of -00, your partner's/dependents' numbers will end in -01, -02, etc. When submitting a claim, make sure the ID number reflects the family member who received the medical care.
+Any family members on your plan will have their own individual ID number. This number is the same as the UTG[student number] and UOT[employee number] IDs that you have as an individual, but instead of -00, your family members' numbers will end in -01, -02, etc. When submitting a claim, make sure the ID number reflects the family member who received the medical care.
 
-If you enroll family members on your health plan, you may be able to geta percentage of the cost of adding them to the plan reimbursed through the [U of T Family Plan Assistance Fund](https://www.cupe3902.org/unit-1/benefits/ufpaf/ "CUPE's UofT Family Plan Assistance Fund: who's eligible and how to apply"). Applications for this fund are usually open in February, check the website to see if you're available.
+If you enroll family members on your health plan, you may be able to get a percentage of their premiums reimbursed through the [U of T Family Plan Assistance Fund](https://www.cupe3902.org/unit-1/benefits/ufpaf/ "CUPE's UofT Family Plan Assistance Fund: who's eligible and how to apply"). Applications for this fund are usually open in February, check the website to see if you're eligible.
 
-If you have an alternative source of equivalent (or better) coverage from your partner or family that you prefer to use rather than this insurance system, you can [opt out](https://utgsu.ca/health-and-dental/opting-out-opting-in/ "How to opt-in or opt-out of GSU health care") of the GSU plan. You will be opted out of the CUPE plan by extension (though you will still have access to the health care spending account, if you are eligible for it). Opting-out is done online, through the links on the [studentcare](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_OptOuts "Studentcare information on how to opt-out of the health plan") page. You must opt-out by the deadline, usually the end of September.
+If you have an alternative source of equivalent (or better) coverage from your partner or family that you prefer to use rather than this insurance system, you can [opt-out](https://utgsu.ca/health-and-dental/opting-out-opting-in/ "How to opt-in or opt-out of GSU health care") of the GSU plan. You will be opted out of the CUPE plan by extension (though you will still have access to the health care spending account, if you are eligible for it). Opting-out is done online, through the links on the [studentcare](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_OptOuts "Studentcare information on how to opt-out of the health plan") page. You must opt-out by the deadline, usually the end of September.
 
-[comment]: # (Add information about setting your partner up as being able to fully access/make decisions about your health care plan -on the website-. Who counts as a partner/dependent, and what documentation -if any- you'll be asked to provide.)
+You can also optionally authorize up to four people to contact Green Shield on your behalf to inquire or update about the details of the benefits plan (do so when signed in to the Green Shield online portal, under "My Profile"). Individuals **do not** have to be enrolled on your plan as family members to be authorized this way. You will still have to authorize and/or sign submitted claims as the primary plan holder, however.
 
 ## Health Services
 
@@ -188,13 +190,13 @@ Other things to note:
 
 * The 12-month extended plan includes the HCSA, which can be claimed back against the premium (see [Claiming the premium](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#claiming-the-premium "Section on 'Claiming the premium' on this page"))
 
-* [Access to the CUPE top-up plan?]
+* (This bullet point under construction - Access to the CUPE top-up plan)
 
 * Former LGCU members who used the extension have **strongly** recommended purchasing it 
 
 #### Going on leave:
 
-* (information to be included)
+* This section is still under construction, but here is some information on the [leave provisions in the Unit 1 collective agreement](https://www.cupe3902.org/wp-content/uploads/2018/07/Leaves-Info-2018-2019.pdf "CUPE3902 Unit 1 Leave Provisions information sheet (pdf)")
 
 #### Travel: 
 Before going on any international travel related to your work, the university requires you to have travel insurance. The GSU plan includes [full travel insurance](https://utgsu.ca/health-and-dental/travel-insurance/ "UTGSU travel insurance coverage") for trips of up to 120 days that can cover you for conferences, research trips, many other reasons.
@@ -207,9 +209,6 @@ Due to COVID-19, however, travel advisories and insurance coverage can change qu
 
 #### Claiming the premium:
 Those who do not have medical expenses can currently still access their HCSA by submitting the cost of your GSU health care premium (listed among your fees on ROSI/Acorn) as a health expense to be reimbursed. The HCSA will not cover the full cost, but you may as well access the money since this is possible.
-
-#### Convenience:
-[Print your own insurance card](https://www.studentcare.ca/RTEContent/Document/EN/Pay_Direct/UTGSU_PDC.pdf "UTGSU Health and dental plan pay-direct card (pdf)") to carry around. Write your GSU plan number in the box and CUPE plan number below or on the other side. Consider laminating the card, printing it out on cardboard, or using tape. So crafty!
 
 (Last updated: November 4th, 2020; Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson"))
 
