@@ -36,7 +36,7 @@ The GSU plan and the CUPE top-up plan together cover a wide variety of health ca
 
 * [Summary of Coverage Amounts for Both Plans](https://www.cupe3902.org/wp-content/uploads/2018/04/GSU_Unit1TopUp_2016-17Coverage_table.pdf "Table of maximum amounts that can be claimed for both health plans (pdf)")
 
-* [HCSA allowable expenses](https://www.cupe3902.org/wp-content/uploads/2018/04/HCSA-Allowed-Expenses.pdf "List of expenses that can be reimbursed from the HCSA (pdf)")
+* [HCSA allowable expenses](http://assets.greenshield.ca/greenshield/Plan%20Members/Benefits%20Dictionary/hcsa-eng/Eligible%20HCSA%20Expenses%20(Website).pdf "List of expenses that can be reimbursed from the HCSA (pdf)")
 
 Unfortunately, the descriptions of benefits can sometimes be vague. If you're not certain whether a particular service will be covered, or what amount will be covered, it's a good idea to contact Green Shield Canada directly to verify **before** paying out of pocket. The phone number for Green Shield Canada is 1-888-711-1119; be sure to have the insurance numbers for both your plans at hand when you call.
 
@@ -205,12 +205,13 @@ Due to COVID-19, however, travel advisories and insurance coverage can change qu
 
 #### HCSA details:
 
-[comment]: # (Add information on claiming the premium -reminder not to do so until after the expenses have been incurred, and after you've submitted to the reimbursement fund if it's a family enrollment-. What kinds of expenses can be covered by HCSA. Being able to set up automatic taking from the HCSA for uncovered expenses on the website -and the risks thereof-.)
+The HCSA is a undifferentiated pool of funds associated with your CUPE top-up plan. It can be used to pay for health care not otherwise covered by provincial health care or your plans' benefits. A [wide variety of expenses](http://assets.greenshield.ca/greenshield/Plan%20Members/Benefits%20Dictionary/hcsa-eng/Eligible%20HCSA%20Expenses%20(Website).pdf "Eligible HCSA Expenses (pdf)") can be paid for using the HCSA. Like the rest of your health care benefits, this fund does not roll over into the following year; any amount not used by August 31st of the plan year is lost.
 
-#### Claiming the premium:
-Those who do not have medical expenses can currently still access their HCSA by submitting the cost of your GSU health care premium (listed among your fees on ROSI/Acorn) as a health expense to be reimbursed. The HCSA will not cover the full cost, but you may as well access the money since this is possible.
+You can set your plan to automatically have any unpaid health and dental expenses paid for out of the HCSA. This can be done by logging in to your Green Shield portal top-up plan account and looking under "My Spending Accounts". While this is quite convenient, there are potential downsides. You may not notice if the insurance provider wrongly rejects your valid expense claim, and then takes the money to reimburse you out of the HCSA account instead. Automation may also make it appear to some health care providers running a pre-authorization that you have more coverage than you actually do! If you choose to set up automation, make sure to keep an eye on how those funds are being disbursed.
 
-(Last updated: November 4th, 2020; Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson"))
+You can also directly submit claims for reimbursement to the HCSA. Eligible claims include the cost of you or your family's GSU health care premiums! Your own premium will be listed among your fees on ROSI/Acorn, enrolled family member fees can be found in the email confirmation sent to you when you pay. The HCSA alone will not cover the full cost of premiums, but this is a useful way to make use of any remaining HCSA funds when the end of the year approaches. Remember not to submit any family member's premium costs to the HCSA if you're going to be applying for the [U of T Family Plan Assistance Fund](https://www.cupe3902.org/unit-1/benefits/ufpaf/ "CUPE's UofT Family Plan Assistance Fund: who's eligible and how to apply") (application usually open in February).
+
+(Last updated: November 5th, 2020; Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson"))
 
 [comment]: # (Modify this last sentence to direct broken link reports to a dedicated LGCU website committee email address, once one is set up.)
 
