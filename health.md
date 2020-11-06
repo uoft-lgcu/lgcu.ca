@@ -4,9 +4,18 @@ title: Health
 permalink: /health/
 ---
 
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------+------------+-----------------+----------------|
+|-----------------+------------+-----------------|
+| Default aligned |Left aligned| Center aligned  |
+|-----------------|:-----------|:---------------:|
+| First body part |Second cell | Third cell      |
+| Second line     |foo         | **strong**      |
+| Third line      |quux        | baz             |
+|-----------------+------------+-----------------|
+| Second body     |            |                 |
+| 2 line          |            |                 |
+|=================+============+=================|
+| Footer row      |            |                 |
+|-----------------+------------+-----------------|
 
 | Test Table |
 | - - |
