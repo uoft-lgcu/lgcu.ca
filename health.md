@@ -4,6 +4,8 @@ title: Health
 permalink: /health/
 ---
 
+* Test sentence right here.
+
 |-----------------|
 | Please note:    |
 |-----------------|
@@ -112,7 +114,7 @@ You can also optionally authorize up to four people to contact Green Shield on y
 
 ## Health Services
 
-The U of T offers a variety of on-campus health services, including general family doctor-type services, [sexual and reproductive health support](https://studentlife.utoronto.ca/service/sexual-and-reproductive-health-counselling-and-education/ "U of T Health and Wellness sexual and reproductive health counselling and education"), [mental health care](https://studentlife.utoronto.ca/service/mental-health-care/ "U of T Health and Wellness mental health care"), [disability documentation](https://studentlife.utoronto.ca/service/disability-documentation/ "U of T Health and Wellness disability documentation"), [immunizations](https://studentlife.utoronto.ca/service/immunization-services/ "U of T Health and Wellness immunization services"), and many more. 
+The U of T offers a variety of on-campus health services, including general family doctor-type services, [sexual and reproductive health support](https://studentlife.utoronto.ca/service/sexual-and-reproductive-health-counselling-and-education/ "U of T Health and Wellness sexual and reproductive health counselling and education"), [mental health care](https://studentlife.utoronto.ca/service/mental-health-care/ "U of T Health and Wellness mental health care"), [disability documentation](https://studentlife.utoronto.ca/service/disability-documentation/ "U of T Health and Wellness disability documentation"), [immunizations](https://studentlife.utoronto.ca/service/immunization-services/ "U of T Health and Wellness immunization services"), and many more.
 
 Note: U of T Health and Wellness typically offers flu shots, but will not be doing so for the 2020-21 year. You can still get a free flu shot through [Toronto Public Health](https://www.toronto.ca/311/knowledgebase/kb/docs/articles/public-health/communicable-disease-control/vaccine-preventable-disease/flu-shot-clinics-seasonal-flu-when-and-where-to-get-your-flu-shot.html "City of Toronto: where and when to get your seasonal flu shot") as well as [other services](https://studentlife.utoronto.ca/service/flu-clinic-referrals/ "U of T Health and Wellness information on how and where to get a flu shot").
 
@@ -175,12 +177,12 @@ If you're not sure if the provider you want to see will be covered by your plan,
 
 * Your fellow grad students can be a great source of advice and support (even if it's just about what dentist they go to). To get in touch in the age of social distancing, you can: email the LGCU listserv (LGCU-L@listserv.utoronto.ca); contact [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson") to be added to the LGCUers facebook page; or contact [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis "Linguistics Department People entry for Timothy Gadanidis") to be added to the LGCU virtual lounge on Zulip.
 
-* The LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/ "LGCU Committees page") 
+* The LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/ "LGCU Committees page")
 Mindsweepers **does not** provide direct support to students, but may be able to point you in the direction of some good resources. You can send them suggestions or get involved yourself.
 
 ## Other Tips
 
-#### Timelines: 
+#### Timelines:
 Expenses must be incurred between September 1 and August 31 for the year that you are enrolled in the plan. Expenses for the past year should ideally be submitted for reimbursement before your plan ends on August 31. There is a 30-day "grace period" (i.e. until the end of September after your plan year ends), when you can still submit outstanding expenses, but because Green Shield doesn't consider your top-up plan to be "active" during this time (it's within the blackout dates), submitting claims during the grace period can be more challenging (see [Filing a Claim](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#filing-a-claim "Section on 'Filing a Claim' on this page")). Best course of action: submit whatever expenses you can before August 31, and only send claims in during the grace period if you have to.
 
 During the first few months of the new academic year (for GSU members, usually from September until early November), your CUPE top-up plan will be under blackout. CUPE members are only eligible for the top-up plan after they have reached a certain number of hours, and then it may take some time for Green Shield to receive and process the information about your plan status from U of T. This means that during this time, you won't be able to get reimbursed for expenses from the CUPE top-up plan (the GSU plan should still work), and claims will come back 'denied' if you send them in. Save your receipts, and submit the claims **after** the blackout period ends. Even if the GSU plan has already paid a portion of the expense, you can still get reimbursed for the amount that the top-up plan covers later.
@@ -200,13 +202,13 @@ Other things to note:
 
 * (This bullet point under construction - Access to the CUPE top-up plan)
 
-* Former LGCU members who used the extension have **strongly** recommended purchasing it 
+* Former LGCU members who used the extension have **strongly** recommended purchasing it
 
 #### Going on leave:
 
 * This section is still under construction, but here is some information on the [leave provisions in the Unit 1 collective agreement](https://www.cupe3902.org/wp-content/uploads/2018/07/Leaves-Info-2018-2019.pdf "CUPE3902 Unit 1 Leave Provisions information sheet (pdf)")
 
-#### Travel: 
+#### Travel:
 Before going on any international travel related to your work, the university requires you to have travel insurance. The GSU plan includes [full travel insurance](https://utgsu.ca/health-and-dental/travel-insurance/ "UTGSU travel insurance coverage") for trips of up to 120 days that can cover you for conferences, research trips, many other reasons.
 
 Due to COVID-19, however, travel advisories and insurance coverage can change quickly. For this reason, we are **strongly recommending** that you verify your coverage before travelling outside of Canada. Check with the [Green Shield COVID-19 FAQ](https://support.greenshield.ca/SupportCentre/GreenShield/Home/DocumentsByTopic/region_coronavirus "Green Shield Canada support centre search results for 'Coronavirus (COVID-19)'"), as well as the Government of Canada [official travel advisories](https://travel.gc.ca/travelling/advisories "Government of Canada Travel advice and advisories") and [COVID-19 travel restrictions and advice](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html "Government of Canada Coronavirus disease (COVID-19): Travel restrictions, exemptions and advice") for up-to-date information.
