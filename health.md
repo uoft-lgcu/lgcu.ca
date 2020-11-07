@@ -4,8 +4,6 @@ title: Health
 permalink: /health/
 ---
 
-* Test sentence right here.
-
 |-----------------|
 | Please note:    |
 |-----------------|
