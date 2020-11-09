@@ -24,7 +24,7 @@ Our insurance coverage period runs for the academic year (September 1 to August 
 
 * [GSU supplement:](http://www.studentcare.ca/View.aspx?locale=en&uid=IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home& "UTGSU Health Plan main page at studentcare.ca") Additional health and dental benefits are provided by the [U of T Graduate Students' Union](https://utgsu.ca/health-and-dental/ "UTGSU Health and Dental information") for all full-time and part-time graduate students. The premium is part of the cost of tuition and fees that you pay each year. Your insurance number for the GSU supplement is: UTG[your student number]-00
 
-* [CUPE top-up:](https://www.cupe3902.org/unit-1/benefits/ "CUPE3902 Unit 1 Benefits") Each year, all students with a CUPE 3902, Unit 1 appointment of at least 30 hours receive a top-up insurance plan to further supplement their GSU insurance. This comes with the HCSA for additional healthcare costs. If your contract in the first term is for fewer than 30 hours, coverage is not available to you until you begin a contract that increases your total. However, regardless of when the coverage kicks in, it is retroactive to September 1 of that year. If you are not enrolled in the GSU plan, you will only have access to the HCSA spending account. Your insurance number for the CUPE top-up is: UOT[your employee number]-00
+* [CUPE top-up:](https://www.cupe3902.org/unit-1/benefits/ "CUPE3902 Unit 1 Benefits") Each year, all students with a CUPE 3902, Unit 1 appointment of at least 30 hours receive a top-up insurance plan to further supplement their GSU insurance (CUPE refers to this as "Top-up Plan A"). This comes with the HCSA for additional healthcare costs. If your contract in the first term is for fewer than 30 hours, coverage is not available to you until you begin a contract that increases your total. However, regardless of when the coverage kicks in, it is retroactive to September 1 of that year. If you are not enrolled in the GSU plan, you will only have access to the HCSA spending account (CUPE refers to this as "Top-up Plan B"). Your insurance number for the CUPE top-up is: UOT[your employee number]-00
 
 Both the GSU plan and the CUPE top-up plan are through the same company: Green Shield Canada. The GSU plan is considered your 'primary' plan, and the top-up plan is used to cover costs that aren't fully covered by the GSU plan. For example: If both plans cover prescription drugs at 80%, the GSU plan would cover 80% of the total, and the top-up plan would cover the remaining 20% (since it's 80% of the total, not 80% of the remaining amount).
 
@@ -78,13 +78,53 @@ Some healthcare providers are able to apply insurance benefits on the spot so yo
 
 You can also [print your own insurance card](https://www.studentcare.ca/RTEContent/Document/EN/Pay_Direct/UTGSU_PDC.pdf "UTGSU Health and dental plan pay-direct card (pdf)") to carry around. Write your GSU plan number in the box and CUPE plan number below or on the other side. Consider laminating the card, printing it out on cardboard, or using tape.
 
-## Filing a claim
+## Getting reimbursed
 
-If you have paid for some kind of health service or prescription without accessing your insurance up front, you can likely receive reimbursement for some of the expense. This is done by filing an insurance claim. You can file a joint claim to both supplementary health plans simultaneously, or file independent claims to each plan. Always apply to the GSU plan first. If your medical expense is not fully covered by the combined supplementary and top-up plans, you can also access your health care spending account (HCSA) which may cover the remainder. Where receipts are required, attach receipts, not just invoices. Coordinated forms can be found in the lounge under the light-switches. If these run low, please be a good citizen and photocopy some more.
+If you have paid for some kind of health service or prescription without accessing your insurance up front, you can likely receive reimbursement for some of the expense. This is done by filing an insurance claim. You can file a joint claim to both supplementary health plans simultaneously, or file independent claims to each plan. Always apply to the GSU plan first. If your medical expense is not fully covered by the combined supplementary and top-up plans, you can also access your [health care spending account](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#HCSA-details: "Section on 'HCSA details' on this page") (HCSA) which may cover the remainder.
 
-Single claim forms (paper or online submission) can be found on the [Greenshield online portal](https://onlineservices.greenshield.ca/planmember/AccessMgmt/Public/SignOn.aspx "Green Shield plan member online services login page"). It's convenient to sign up for online login to your Greenshield plans. You will need a different login for each insurance number. There you will be able to view claim history, find blank claim forms, submit some kinds of claims, and sign up for direct deposit. Signing up for direct deposit will allow the insurance provider to deposit the amount into your bank account directly. If you do not sign up for direct deposit, a cheque will be mailed to you. Make sure you submit claims for money you spend on your health! Otherwise the insurance company is simply profiting off you. Our plan is pretty good, so use it.
+### Filing a paper claim
 
-[comment]: # (Add information about accessing the GS online portal, and functionality within it -lots has changed recently-, including filing an HCSA reimbursement claim, deadlines for submitting, and registrationg keys.)
+If you prefer to stick with analog, you can print and fill in a paper claim form and mail it in. The [Health and Vision form](https://www.studentcare.ca/RTEContent/Document/EN/Claim_Forms/Generic/greenshield_health_general_2013.pdf "Green Shield Canada general claim submission form (pdf)") can be used for most claims. There's a separate form for [Dental claims](https://www.studentcare.ca/RTEContent/Document/EN/Claim_Forms/Generic/greenshield_dental_general_2013.pdf "Green Shield Canada dental claim submission form (pdf)") which you should take with you to your dentist so that they can fill it out for you. Travel insurance and Accidental death and dismemberment claims are both submitted differently, so it's best to [check the studentcare website](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_DownloadCentre_ClaimForms "UTGSU Studentcare Claim forms page") for details.
+
+In order to get a claim processed by both health plans at the same time, fill in section 1 of the form with your UTGSU plan ID (UTG[yourstudentnumber]-00) and put down your top-up plan ID (UOT[youremployeenumber]-00) in section 2 (the "mandatory declaration"). Make sure you tick the box in section 2 indicating that you want to coordinate this claim with your other Green Shield coverage, and you should be reimbursed from both plans at once.
+
+Even if the expense being claimed is for a family member, the plan member (i.e. you) will have to sign the form. You'll need to include original receipts along with the form, and sometimes a referral or prescription as well. The second page of the [Health and Vision form](https://www.studentcare.ca/RTEContent/Document/EN/Claim_Forms/Generic/greenshield_health_general_2013.pdf "Green Shield Canada general claim submission form (pdf)") has some guidelines on what to include. It's a good idea to keep copies of your receipts, referrals, and submitted forms until after you've gotten successfully reimbursed. Mail the completed form to one of the addresses at the bottom, whichever one best suits the type of claim you're sending in.
+
+### Filing a claim online
+
+Another way to file a claim is through the [Green Shield online portal](https://onlineservices.greenshield.ca/planmember/AccessMgmt/Public/SignOn.aspx "Green Shield plan member online services login page"). Claims submitted online are often processed faster. You'll need to [get a registration key](https://onlineservices.greenshield.ca/PlanMember/AccessMgmt/Registration/RequestRegistrationKey.aspx "Green Shield Canada request registration key") and then register your plan before being able to sign in to the portal. The two plans will have two different online accounts.
+
+Once you're signed in, you can submit new claims, or check the details of claims that have already been processed. The process for submitting a claim online is usually pretty simple: 1) Select the type of medical service, 2) Fill out the requested information, 3) Attach any documentation (such as receipts or referrals) and submit. If the claim is for a professional service, you'll be asked to fill out some information about your provider, but you can still submit a claim for a provider who isn't in Green Shield's database.
+
+Some types of claims don't require you to submit your full documentation. Even when this happens, however, some proportion of claims submitted will be 'audited'. This doesn't mean you've submitted the claim incorrectly, it's just a random check. When you get the audit notification, it will include information on what supporting documentation they want to see, and how to upload it.
+
+#### Claiming during the 'blackout' period
+
+If your top-up plan is under [blackout](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#timelines "Section on 'Timelines' on this page") (usually between September and early November each year) you can still submit claims to be reimbursed. In theory, these will be reimbursed through your UTGSU plan right away, and then through your top-up plan once it is 'active' again. In practice, there seems to be a higher rate of errors when doing things this way.
+
+If you can afford to wait on reimbursement, it's often easier to hold on to your receipts and send in everything once the blackout period has ended. If you can't wait, submit as you normally would, and just double-check after the blackout ends that everything got reimbursed that should have been. Remember that claims you usually don't submit yourself (i.e. if your provider lets you [pay direct](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#paying-direct "Section on 'Paying direct' on this page")) you'll have to pay the top-up plan covered amount for out of pocket during this time, and send in for reimbursement later.
+
+Very annoyingly, the 'grace period' (i.e. the one month after the end of the policy year where you can still submit claims from that year) overlaps with the 'blackout' period. This complicates the process of submitting, because the system considers you 'inactive', even though you're submitting costs from a time when your plan was 'active'. For instance: A 2nd year PhD on September 5th is still able to get reimbursed for an expense incurred last month on August 10th (during her 1st year), but since she has not yet fulfilled the requirements to be on the top-up plan for her 2nd year, the insurer considers that plan 'inactive', and makes it harder to get reimbursed from it.
+
+You can still get reimbursed! The most reliable way seems to be: 1) Submit online through your UTGSU plan account, 2) Choose the option to 'coordinate' with your other plan, and 3) **Submit your claim 'manually'**[^1] if there is an option to do so. "Submitting the claim manually" means that when you submit a claim, and you select the type of service you're submitting, you need to choose the "Not Listed" option. For instance: if you were submitting a claim for physiotherapy, you would go under the heading "Professional Services", but instead of clicking "Physiotherapy Treatment" you need to choose "Professional Services - Not Listed".
+
+[1]: This is the insurer's name for it. No idea why.
+
+The issue seems to be that while your plan is 'inactive', you need to include more documentation (i.e. all related receipts/referrals/prescriptions). But since you need to send the claim through your UTGSU plan (which is still 'active'), by default it will not give you the option of including the extra documentation. Choosing "Not Listed" prompts the system to ask for documentation. So this weird quirk doesn't apply for claims that always require documentation (e.g. Prescription Drugs).
+
+### Things going wrong
+
+In theory: submitting a claim for a service you have coverage for should get you reimbursed. In practice: the employees at the insurance company are fallible, we are fallible, and the system is designed to make it hard to get your money back. It's not uncommon for something to go wrong.
+
+Your best defence is good record-keeping and follow-up. Always photograph/screenshot/scan your form and receipts before submitting them. Keep track of what you've submitted, so you notice if things get lost. Green Shield will send you an email notification when a claim is processed (for each plan separately); you'll find the details on the [Green Shield online portal](https://onlineservices.greenshield.ca/planmember/AccessMgmt/Public/SignOn.aspx "Green Shield plan member online services login page") and under "My Claim Statements". It's a good idea to verify that your claim was approved, and that you've been reimbursed for the amount you expected.
+
+If things look off, ask! Green Shield has an [online support centre](https://support.greenshield.ca/SupportCentre/GreenShield?culture=en-CA "Green Shield support centre"), but the best way to get things resolved remains talking to an actual human by phone (1-888-711-1119, Mon-Fri 8:30am-8:30pm EST). There are a whole bunch of reasons your claim might have been turned down, and many of them are fixable.
+
+### Other notes
+
+* If you sign up for direct deposit (you can do this through the [Greenshield online portal](https://onlineservices.greenshield.ca/planmember/AccessMgmt/Public/SignOn.aspx "Green Shield plan member online services login page")), your refund will be deposited right into your account. Otherwise, you'll receive a cheque in the mail.
+
+* If you're having trouble with filing a claim, you could always [ask your fellow grad students for help](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#other-ways-to-find-resources "Section on 'Other ways to find resources' on this page"). You're probably not the first person to run into a particular problem.
 
 ## Canadian Students from Outside Ontario
 
@@ -112,7 +152,7 @@ You can also optionally authorize up to four people to contact Green Shield on y
 
 ## Health Services
 
-The U of T offers a variety of on-campus health services, including general family doctor-type services, [sexual and reproductive health support](https://studentlife.utoronto.ca/service/sexual-and-reproductive-health-counselling-and-education/ "U of T Health and Wellness sexual and reproductive health counselling and education"), [mental health care](https://studentlife.utoronto.ca/service/mental-health-care/ "U of T Health and Wellness mental health care"), [disability documentation](https://studentlife.utoronto.ca/service/disability-documentation/ "U of T Health and Wellness disability documentation"), [immunizations](https://studentlife.utoronto.ca/service/immunization-services/ "U of T Health and Wellness immunization services"), and many more. 
+The U of T offers a variety of on-campus health services, including general family doctor-type services, [sexual and reproductive health support](https://studentlife.utoronto.ca/service/sexual-and-reproductive-health-counselling-and-education/ "U of T Health and Wellness sexual and reproductive health counselling and education"), [mental health care](https://studentlife.utoronto.ca/service/mental-health-care/ "U of T Health and Wellness mental health care"), [disability documentation](https://studentlife.utoronto.ca/service/disability-documentation/ "U of T Health and Wellness disability documentation"), [immunizations](https://studentlife.utoronto.ca/service/immunization-services/ "U of T Health and Wellness immunization services"), and many more.
 
 Note: U of T Health and Wellness typically offers flu shots, but will not be doing so for the 2020-21 year. You can still get a free flu shot through [Toronto Public Health](https://www.toronto.ca/311/knowledgebase/kb/docs/articles/public-health/communicable-disease-control/vaccine-preventable-disease/flu-shot-clinics-seasonal-flu-when-and-where-to-get-your-flu-shot.html "City of Toronto: where and when to get your seasonal flu shot") as well as [other services](https://studentlife.utoronto.ca/service/flu-clinic-referrals/ "U of T Health and Wellness information on how and where to get a flu shot").
 
@@ -175,13 +215,15 @@ If you're not sure if the provider you want to see will be covered by your plan,
 
 * Your fellow grad students can be a great source of advice and support (even if it's just about what dentist they go to). To get in touch in the age of social distancing, you can: email the LGCU listserv (LGCU-L@listserv.utoronto.ca); contact [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson") to be added to the LGCUers facebook page; or contact [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis "Linguistics Department People entry for Timothy Gadanidis") to be added to the LGCU virtual lounge on Zulip.
 
-* The LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/ "LGCU Committees page") 
+* The LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/ "LGCU Committees page")
 Mindsweepers **does not** provide direct support to students, but may be able to point you in the direction of some good resources. You can send them suggestions or get involved yourself.
 
 ## Other Tips
 
-#### Timelines: 
-Expenses must be incurred between September 1 and August 31 for the year that you are enrolled in the plan. Expenses for the past year should ideally be submitted for reimbursement before your plan ends on August 31. There is a 30-day "grace period" (i.e. until the end of September after your plan year ends), when you can still submit outstanding expenses, but because Green Shield doesn't consider your top-up plan to be "active" during this time (it's within the blackout dates), submitting claims during the grace period can be more challenging (see [Filing a Claim](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#filing-a-claim "Section on 'Filing a Claim' on this page")). Best course of action: submit whatever expenses you can before August 31, and only send claims in during the grace period if you have to.
+#### Timelines:
+Expenses must be incurred between September 1 and August 31 for the year that you are enrolled in the plan. Expenses for the past year should ideally be submitted for reimbursement before your plan ends on August 31. There is a 30-day "grace period" (i.e. until the end of September after your plan year ends), when you can still submit outstanding expenses[^HCSAfootnote], but because Green Shield doesn't consider your top-up plan to be "active" during this time (it's within the blackout dates), submitting claims during the grace period can be more challenging (see [Filing a Claim](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#filing-a-claim "Section on 'Filing a Claim' on this page")). Best course of action: submit whatever expenses you can before August 31, and only send claims in during the grace period if you have to.
+
+[^HCSAfootnote]: This does not seem to apply to the HCSA, unused amounts of which expire on August 31st of the plan year.
 
 During the first few months of the new academic year (for GSU members, usually from September until early November), your CUPE top-up plan will be under blackout. CUPE members are only eligible for the top-up plan after they have reached a certain number of hours, and then it may take some time for Green Shield to receive and process the information about your plan status from U of T. This means that during this time, you won't be able to get reimbursed for expenses from the CUPE top-up plan (the GSU plan should still work), and claims will come back 'denied' if you send them in. Save your receipts, and submit the claims **after** the blackout period ends. Even if the GSU plan has already paid a portion of the expense, you can still get reimbursed for the amount that the top-up plan covers later.
 
@@ -198,15 +240,23 @@ Other things to note:
 
 * The 12-month extended plan includes the HCSA, which can be claimed back against the premium (see [HCSA details](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#HCSA-details: "Section on 'HCSA details' on this page"))
 
-* (This bullet point under construction - Access to the CUPE top-up plan)
+* If you keep working as a TA after graduating, you'll be eligible for the CUPE top-up plan. If you sign up for the 12-month extension of the UTGSU plan, this will be top-up Plan A (health and dental); if you don't get the extension, this will be top-up Plan B (HCSA only).
 
-* Former LGCU members who used the extension have **strongly** recommended purchasing it 
+* Former LGCU members who used the extension have **strongly** recommended purchasing it
 
 #### Going on leave:
 
 * This section is still under construction, but here is some information on the [leave provisions in the Unit 1 collective agreement](https://www.cupe3902.org/wp-content/uploads/2018/07/Leaves-Info-2018-2019.pdf "CUPE3902 Unit 1 Leave Provisions information sheet (pdf)")
 
-#### Travel: 
+If you have secured and signed a contract before going on approved leave, you can be covered by the CUPE top-up plan. As well as your having gotten a contract, your top-up plan coverage also depends on whether you have a GSU plan or not.
+
+For instance: Say you have completed the 30 hours of TA-ing required to qualify for the CUPE top-up plan. You pay fees for the UTGSU plan in the Fall, but not in the Winter. You would be covered by Top-up Plan A (full health and dental) from September to December, since you've 1) completed 30 hours, and 2) enrolled in the UTGSU health plan during that term. You would be covered by Top-up Plan B (HCSA only) from January to August, since you've 1) completed 30 hours, and 2) **not** enrolled in the UTGSU plan during that term. Taking leave during the Summer would not affect your coverage.
+
+It's a good idea to contact the UTGSU Benefits Administrator (health@utgsu.ca) when going on leave, just to double-check your coverage. They might also require you to submit documentation.
+
+[comment]: # Still checking with UTGSU on this.
+
+#### Travel:
 Before going on any international travel related to your work, the university requires you to have travel insurance. The GSU plan includes [full travel insurance](https://utgsu.ca/health-and-dental/travel-insurance/ "UTGSU travel insurance coverage") for trips of up to 120 days that can cover you for conferences, research trips, many other reasons.
 
 Due to COVID-19, however, travel advisories and insurance coverage can change quickly. For this reason, we are **strongly recommending** that you verify your coverage before travelling outside of Canada. Check with the [Green Shield COVID-19 FAQ](https://support.greenshield.ca/SupportCentre/GreenShield/Home/DocumentsByTopic/region_coronavirus "Green Shield Canada support centre search results for 'Coronavirus (COVID-19)'"), as well as the Government of Canada [official travel advisories](https://travel.gc.ca/travelling/advisories "Government of Canada Travel advice and advisories") and [COVID-19 travel restrictions and advice](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html "Government of Canada Coronavirus disease (COVID-19): Travel restrictions, exemptions and advice") for up-to-date information.
