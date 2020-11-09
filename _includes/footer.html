@@ -1,1 +1,16 @@
-<!-- this footer left intentionally blank -->
+<footer class="site-footer h-card">
+<data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+<div class="wrapper">
+
+    <div class="footer-col-wrapper">
+        <div class="footer-col">
+            {% if page.modified %}
+            <p>This page was last updated on {{ page.modified | date_to_long_string }}.</p>
+            {% endif %}
+            <p>If you notice a problem with the website (like a broken link), you can report it using <a href="https://gitreports.com/issue/uoft-lgcu/uoft-lgcu.github.io">this form</a>.
+        </div>
+    </div>
+</div>
+
+</footer>
