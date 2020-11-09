@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Health
+modified: 2020-11-05
 permalink: /health/
 ---
 
@@ -268,10 +269,6 @@ The HCSA is a undifferentiated pool of funds associated with your CUPE top-up pl
 You can set your plan to automatically have any unpaid health and dental expenses paid for out of the HCSA. This can be done by logging in to your Green Shield portal top-up plan account and looking under "My Spending Accounts". While this is quite convenient, there are potential downsides. You may not notice if the insurance provider wrongly rejects your valid expense claim, and then takes the money to reimburse you out of the HCSA account instead. Automation may also make it appear to some health care providers running a pre-authorization that you have more coverage than you actually do! If you choose to set up automation, make sure to keep an eye on how those funds are being disbursed.
 
 You can also directly submit claims for reimbursement to the HCSA. Eligible claims include the cost of you or your family's GSU health care premiums! Your own premium will be listed among your fees on ROSI/Acorn, enrolled family member fees can be found in the email confirmation sent to you when you pay. The HCSA alone will not cover the full cost of premiums, but this is a useful way to make use of any remaining HCSA funds when the end of the year approaches. Remember not to submit any family member's premium costs to the HCSA if you're going to be applying for the [U of T Family Plan Assistance Fund](https://www.cupe3902.org/unit-1/benefits/ufpaf/ "CUPE's UofT Family Plan Assistance Fund: who's eligible and how to apply") (application usually open in February).
-
-(Last updated: November 5th, 2020; Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson"))
-
-[comment]: # (Modify this last sentence to direct broken link reports to a dedicated LGCU website committee email address, once one is set up.)
 
 *[COVID-19]: Coronavirus Disease 2019
 *[LGCU]: Linguistics Graduate Student Union

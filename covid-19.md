@@ -1,6 +1,7 @@
 ---
 layout: page
 title: COVID-19
+modified: 2020-11-05
 permalink: /covid-19/
 ---
 
@@ -59,8 +60,6 @@ As the situation evolves with the ongoing COVID-19 pandemic, information and rec
 * [Government of Canada COVID-19 Page](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html "Government of Canada COVID-19 information")
 
 * [World Health Organization COVID-19 Page](https://www.who.int/emergencies/diseases/novel-coronavirus-2019 "World Health Organization COVID-19 information")
-
-(Last updated: November 5th, 2020; Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson"))
 
 *[COVID-19]: Coronavirus Disease 2019
 *[UTORid]:
