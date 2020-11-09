@@ -28,4 +28,4 @@ Linguistics (TWPL).
 
 # Contact us
 
-Current LGCU co-presidents: Jessica Yeung and Lex Konnelly.
+Current LGCU co-presidents: [Lex Konnelly](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lex-konnelly) and [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis).
