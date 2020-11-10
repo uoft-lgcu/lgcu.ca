@@ -9,7 +9,8 @@ toc_sticky: true
 
 {::options parse_block_html="true" /}
 
-block inclusion test
+block inclusion test 2
+{: .alert .alert-warning}
 
 |-----------------|
 | Please note:    |
