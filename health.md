@@ -7,24 +7,6 @@ toc: true
 toc_sticky: true
 ---
 
-{::options parse_block_html="true" /}
-
-block inclusion test 2
-{: .alert .alert-warning}
-
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
-
-NOTE DESCRIPTION
-
-</div>
-</div>
-
-<p style="color:green">Test green paragraph.</p>
-
-
 |-----------------|
 | Please note:    |
 |-----------------|
@@ -301,9 +283,3 @@ You can also directly submit claims for reimbursement to the HCSA. Eligible clai
 *[IHPAF]: International Health Plan Assistance Fund
 *[My SSP]: My Student Support Program
 *[UTGSU]: U of T Graduate Student Union
-
-<style>
-.alert-warning {
-  color: rgb(138,109,59) !important;
-}
-</style>
