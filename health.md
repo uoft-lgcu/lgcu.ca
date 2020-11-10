@@ -3,8 +3,6 @@ layout: page
 title: Health
 modified: 2020-11-05
 permalink: /health/
-toc: true
-toc_sticky: true
 ---
 
 |-----------------|

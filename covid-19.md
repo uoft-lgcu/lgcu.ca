@@ -5,6 +5,39 @@ modified: 2020-11-05
 permalink: /covid-19/
 ---
 
+{::options parse_block_html="true" /}
+
+/* The sidebar menu */
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+/* Style page content */
+.main {
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+<!-- Side navigation -->
+<div class="sidenav">
+ <a href="#">About</a>
+ <a href="#">Services</a>
+ <a href="#">Clients</a>
+ <a href="#">Contact</a>
+</div>
+
+<!-- Page content -->
+<div class="main">
+
+
 ## Access to the Department
 
 University and Department guidelines may change at any time; be sure to keep an eye out for email updates. At time of writing (05/11/2020), the Linguistics Department is considered **closed**, but we have approval for occasional/required use of space. If you wish to go in, you must:
@@ -68,3 +101,5 @@ As the situation evolves with the ongoing COVID-19 pandemic, information and rec
 *[SS569]: Sidney Smith Hall Room 569
 *[CUPE3902]: Canadian Union of Public Employees (Local 3902)
 *[UTGSU]: University of Toronto Graduate Student Union
+
+</div>
