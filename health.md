@@ -299,3 +299,9 @@ You can also directly submit claims for reimbursement to the HCSA. Eligible clai
 *[IHPAF]: International Health Plan Assistance Fund
 *[My SSP]: My Student Support Program
 *[UTGSU]: U of T Graduate Student Union
+
+<style>
+.alert-warning {
+  color: rgb(138,109,59) !important;
+}
+</style>
