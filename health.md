@@ -7,6 +7,10 @@ toc: true
 toc_sticky: true
 ---
 
+.blue {
+  color: blue;
+}
+
 |-----------------|
 | Please note:    |
 |-----------------|
@@ -20,6 +24,7 @@ toc_sticky: true
 |-----------------|
 
 ## Insurance Plans
+{: .blue}
 
 Our insurance coverage period runs for the academic year (September 1 to August 31). There are three levels of health insurance:
 
