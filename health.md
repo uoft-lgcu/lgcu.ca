@@ -22,6 +22,8 @@ NOTE DESCRIPTION
 </div>
 </div>
 
+<p style="color:green">Test green paragraph.</p>
+
 
 |-----------------|
 | Please note:    |
