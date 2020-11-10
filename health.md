@@ -5,6 +5,14 @@ modified: 2020-11-05
 permalink: /health/
 ---
 
+{::options parse_block_html="true" /}
+
+<p style="color:green; border: 1px solid">Test green paragraph.</p>
+
+<div style="background-color:coral; color:white; text-align:center; border: 1px solid red; padding:10px">Test blue paragraph.</div>
+
+<div style="background-color:coral; color:white; text-align:center; border:1px solid red; padding:10px">The current page is under construction, and is being updated on an ongoing basis. The information it contains is accurate, but some sections may be incomplete. Please report any broken links using [this form](https://gitreports.com/issue/uoft-lgcu/uoft-lgcu.github.io "LGCU website issues reporting form").</div>
+
 **Contents**
 * TOC
 {:toc}
