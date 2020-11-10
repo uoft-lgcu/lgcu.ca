@@ -8,7 +8,7 @@ permalink: /health/
 |-----------------|
 | Please note:    |
 |-----------------|
-| The current page is under construction, and is being updated on an ongoing basis. The information it contains is accurate, but some sections may be incomplete. Please report any broken links to [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson"). |
+| The current page is under construction, and is being updated on an ongoing basis. The information it contains is accurate, but some sections may be incomplete. Please report any broken links using [this form](https://gitreports.com/issue/uoft-lgcu/uoft-lgcu.github.io "LGCU website issues reporting form"). |
 |-----------------|
 
 |-----------------|
