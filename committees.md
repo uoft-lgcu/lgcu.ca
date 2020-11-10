@@ -62,9 +62,11 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 [//]: # (Jessica Yeung, Radu Craioveanu, Dan Milway, Ross Godfrey, Virgilio Partida Penalva)
 [//]: # (Shop for and set up departmental receptions.)
 
-[//]: # (Book Collection Committee)
-[//]: # (Fiona Wilson, Izzy Erlich, Ross Godfrey, Andrei Munteanu, Cater Chen, Iryna Osadcha)
-[//]: # (Manage the departmental collection of books, journals, etc.)
+### Library Committee
+
+[Liam Donohue](https://www.linguistics.utoronto.ca/people/directories/graduate-students/liam-donohue), [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis)
+
+> Manage the departmental collection of books, journals, etc.
 
 [//]: # (Welcome Workshop Committee)
 [//]: # (Ruth Maddeaux, Erin Hall, Patrick Murphy)
