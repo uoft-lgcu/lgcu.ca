@@ -17,6 +17,10 @@ permalink: /health/
 | Information about the ongoing COVID-19 pandemic (LGCU and Linguistics Department policy, as well as resources) can be found on the [COVID-19](https://uoft-lgcu.github.io/covid-19/ "LGCU COVID-19 Information") page of this website. |
 |-----------------|
 
+**On This Page**
+* This list will be replaced by ToC
+{:toc}
+
 ## Insurance Plans
 
 Our insurance coverage period runs for the academic year (September 1 to August 31). There are three levels of health insurance:
