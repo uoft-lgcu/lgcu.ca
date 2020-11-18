@@ -5,12 +5,12 @@ modified: 2020-11-18
 permalink: /health/
 ---
 
-{::options parse_block_html="true" /}
+|-----------------|
+| COVID-19 Information:    |
+|-----------------|
+| This page discusses the health care plans available to LGCU members. Information about the ongoing COVID-19 pandemic (LGCU and Linguistics Department policy, as well as resources) can be found on the [COVID-19](https://uoft-lgcu.github.io/covid-19/ "LGCU COVID-19 information page") page of this website. |
+|-----------------|
 
-<div style="background-color:coral; color:white; text-align:center; border:1px solid red; padding:10px">This page discusses the health care plans available to LGCU members. Information about the ongoing COVID-19 pandemic (LGCU and Linguistics Department policy, as well as resources) can be found on the <a href="https://uoft-lgcu.github.io/covid-19/" target="_blank" title="LGCU COVID-19 information page">COVID-19</a> page of this website.</div>
-<br>
-
-{::options parse_block_html="false" /}
 
 **On This Page**
 * This list will be replaced by ToC
