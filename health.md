@@ -10,8 +10,8 @@ permalink: /health/
 <div style="background-color:coral; color:white; text-align:center; border:1px solid red; padding:10px">This page discusses the health care plans available to LGCU members. Information about the ongoing COVID-19 pandemic (LGCU and Linguistics Department policy, as well as resources) can be found on the <a href="https://uoft-lgcu.github.io/covid-19/" target="_blank" title="LGCU COVID-19 information page">COVID-19</a> page of this website.</div>
 <br>
 
-**Contents**
-* TOC
+**On This Page**
+* This list will be replaced by ToC
 {:toc}
 
 ## Insurance Plans
@@ -158,7 +158,7 @@ The U of T offers a variety of on-campus health services, including general fami
 
 Note: U of T Health and Wellness typically offers flu shots, but will not be doing so for the 2020-21 year. You can still get a free flu shot through [Toronto Public Health](https://www.toronto.ca/311/knowledgebase/kb/docs/articles/public-health/communicable-disease-control/vaccine-preventable-disease/flu-shot-clinics-seasonal-flu-when-and-where-to-get-your-flu-shot.html "City of Toronto: where and when to get your seasonal flu shot") as well as [other services](https://studentlife.utoronto.ca/service/flu-clinic-referrals/ "U of T Health and Wellness information on how and where to get a flu shot").
 
-#### For University of Toronto resources:
+#### University of Toronto health resources
 
 * [Health and Wellness Centre](https://studentlife.utoronto.ca/department/health-wellness/ "U of T Health and Wellness main page") \\
 214 College Street; entrance on St. George \\
@@ -179,7 +179,7 @@ t: 1-844-451-9700
 
 * [School of Graduate Studies Wellness FAQs](https://www.sgs.utoronto.ca/resources-supports/wellness-portal/wellness-faqs/ "School of Graduate Studies FAQ page on Wellness") has answers to a variety of wellness-related questions for graduate students.
 
-#### For off-campus health care:
+#### Off-campus health resources
 
 * [iamsick.ca](https://www.iamsick.ca/ "iamsick.ca main page") will help you find a health care provider near you
 
@@ -199,7 +199,7 @@ t: 1-866-925-5454
 * [Talk4Healing](www.talk4healing.com "Talk4Healing (indigenous women helpline) main page") is a free, confidential 24-hour helpline for Indigenous women, by Indigenous women. 14 Indigenous languages supported, as well as English and French. \\
 t: 1-855-554-HEAL (4325) (talk or text)
 
-#### GSU resources:
+#### UTGSU resources
 
 * The GSU's [Grad Minds](http://www.gradminds.ca/ "GSU Grad Minds main page") promotes mental health awareness among grad students at U of T. Check out their workshops and events, or consider volunteering.
 
@@ -207,13 +207,13 @@ t: 1-855-554-HEAL (4325) (talk or text)
 UTGSU Health and Dental Insurance Office: 16 Bancroft Ave \\
 t: 1-866-358-4436   e: health@utgsu.ca
 
-#### Studentcare Network:
+#### Studentcare Network
 
 Green Shield has agreements with healthcare providers in the city (and around the country) that will lower the cost of some services for plan members. You can look through the [complete list of in-network providers](https://www.studentcare.ca/RTEContent/Document/EN/Network_Listings/ON_3_Studentcare.pdf "Full list of health plan providers for all networks (pdf)"), or check details of the discounts and providers for each network on the [Studentcare website](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_Home "UTGSU Health plan main page, look in the right-hand column under 'Studentcare networks'") (on the right-hand side, under "Studentcare Networks". **You do not have to use an in-network provider to get reimbursed**; your coverage applies equally to all qualified providers, being "in the network" just means a provider will offer discounts on some services to plan members.
 
 If you're not sure if the provider you want to see will be covered by your plan, you can check the [GSU benefit booklet](http://www.studentcare.ca/RTEContent/Document/EN/Miscellaneous/UTGSU_benefit_booklet.pdf "UTGSU Health plan detailed benefits booklet"), or contact Green Shield directly through their [support centre](https://support.greenshield.ca/SupportCentre/GreenShield?culture=en-CA "Green Shield Canada online support centre, search for existing questions"), [online form](https://onlineservices.greenshield.ca/PlanMember/AccessMgmt/Public/AnonymousInquiry.aspx?lang=en-CA "Green Shield Canada 'contact us' online form") or at 1-888-711-1119. This is primarily an issue with professional services (such as counselling), where providers must have certain qualifications in order to be covered by the plan.
 
-#### Other ways to find resources:
+#### Other ways to find resources
 
 * Your fellow grad students can be a great source of advice and support (even if it's just about what dentist they go to). To get in touch in the age of social distancing, you can: email the LGCU listserv (LGCU-L@listserv.utoronto.ca); contact [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson") to be added to the LGCUers facebook page; or contact [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis "Linguistics Department People entry for Timothy Gadanidis") to be added to the LGCU virtual lounge on Zulip.
 
@@ -222,14 +222,14 @@ Mindsweepers **does not** provide direct support to students, but may be able to
 
 ## Other Tips
 
-#### Timelines:
+#### Timelines
 Expenses must be incurred between September 1 and August 31 for the year that you are enrolled in the plan. Expenses for the past year should ideally be submitted for reimbursement before your plan ends on August 31. There is a 30-day "grace period" (i.e. until the end of September after your plan year ends), when you can still submit outstanding expenses[^HCSAfootnote], but because Green Shield doesn't consider your top-up plan to be "active" during this time (it's within the blackout dates), submitting claims during the grace period can be more challenging (see [Filing a Claim](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#filing-a-claim "Section on 'Filing a Claim' on this page")). Best course of action: submit whatever expenses you can before August 31, and only send claims in during the grace period if you have to.
 
 [^HCSAfootnote]: This does not seem to apply to the HCSA, unused amounts of which expire on August 31st of the plan year.
 
 During the first few months of the new academic year (for GSU members, usually from September until early November), your CUPE top-up plan will be under blackout. CUPE members are only eligible for the top-up plan after they have reached a certain number of hours, and then it may take some time for Green Shield to receive and process the information about your plan status from U of T. This means that during this time, you won't be able to get reimbursed for expenses from the CUPE top-up plan (the GSU plan should still work), and claims will come back 'denied' if you send them in. Save your receipts, and submit the claims **after** the blackout period ends. Even if the GSU plan has already paid a portion of the expense, you can still get reimbursed for the amount that the top-up plan covers later.
 
-#### Graduation:
+#### Graduation
 If you are graduating in the Fall semester (i.e. before January), you will not be charged winter fees and your coverage will automatically end on December 31st. If you are graduating in the Winter or Summer semester (i.e. in or after January), you will already have paid winter fees, so your coverage will end on August 31st.
 
 You do have the option to extend your coverage, however. At the end of the last term you pay fees for, you can purchase a [12-month extension](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_12MonthExtendedCoverage "UTGSU 12-month extended insurance information"). You have to apply for this extended coverage within 30 days of the termination of your UTGSU insurance (i.e. the end of the last term you paid fees for). Fill out [the application form](https://www.studentcare.ca/RTEContent/Document/EN/Enrolment_Forms/UTGSU_12MonthExt.pdf "UTGSU 12-month extended insurance application form (pdf)") and submit the fees by cheque or money order by the deadline.
@@ -246,7 +246,7 @@ Other things to note:
 
 * Former LGCU members who used the extension have strongly recommended purchasing it
 
-#### Going on leave:
+#### Going on leave
 
 By default, students on a leave of absence lose UTGSU health coverage. On leave, students don't pay tuition and incidental fees, which includes health and dental premiums. Without paying the premiums, students are not enrolled in the plan.
 
@@ -266,12 +266,13 @@ For more information on taking a leave of absence, check out:
 
 * [The leave provisions in the CUPE3902 Unit 1 collective agreement](https://www.cupe3902.org/wp-content/uploads/2018/07/Leaves-Info-2018-2019.pdf "CUPE3902 Unit 1 Leave Provisions information sheet (pdf)")
 
-#### Travel:
+#### Travel
+
 Before going on any international travel related to your work, the university requires you to have travel insurance. The GSU plan includes [full travel insurance](https://utgsu.ca/health-and-dental/travel-insurance/ "UTGSU travel insurance coverage") for trips of up to 120 days that can cover you for conferences, research trips, many other reasons.
 
 Due to COVID-19, however, travel advisories and insurance coverage can change quickly. For this reason, we are **strongly recommending** that you verify your coverage before travelling outside of Canada. Check with the [Green Shield COVID-19 FAQ](https://support.greenshield.ca/SupportCentre/GreenShield/Home/DocumentsByTopic/region_coronavirus "Green Shield Canada support centre search results for 'Coronavirus (COVID-19)'"), as well as the Government of Canada [official travel advisories](https://travel.gc.ca/travelling/advisories "Government of Canada Travel advice and advisories") and [COVID-19 travel restrictions and advice](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html "Government of Canada Coronavirus disease (COVID-19): Travel restrictions, exemptions and advice") for up-to-date information.
 
-#### HCSA details:
+#### HCSA details
 
 The HCSA is a undifferentiated pool of funds associated with your CUPE top-up plan. It can be used to pay for health care not otherwise covered by provincial health care or your plans' benefits. A [wide variety of expenses](http://assets.greenshield.ca/greenshield/Plan%20Members/Benefits%20Dictionary/hcsa-eng/Eligible%20HCSA%20Expenses%20(Website).pdf "Eligible HCSA Expenses (pdf)") can be paid for using the HCSA. Like the rest of your health care benefits, this fund does not roll over into the following year; any amount not used by August 31st of the plan year is lost.
 
