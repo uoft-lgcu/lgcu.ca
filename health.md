@@ -1,21 +1,14 @@
 ---
 layout: page
 title: Health
-modified: 2020-11-11
+modified: 2020-11-18
 permalink: /health/
 ---
 
-|-----------------|
-| Please note:    |
-|-----------------|
-| The current page is under construction, and is being updated on an ongoing basis. The information it contains is accurate, but some sections may be incomplete. Please report any broken links using [this form](https://gitreports.com/issue/uoft-lgcu/uoft-lgcu.github.io "LGCU website issues reporting form"). |
-|-----------------|
+{::options parse_block_html="true" /}
 
-|-----------------|
-| Please note:    |
-|-----------------|
-| Information about the ongoing COVID-19 pandemic (LGCU and Linguistics Department policy, as well as resources) can be found on the [COVID-19](https://uoft-lgcu.github.io/covid-19/ "LGCU COVID-19 Information") page of this website. |
-|-----------------|
+<div style="background-color:coral; color:white; text-align:center; border:1px solid red; padding:10px">This page discusses the health care plans available to LGCU members. Information about the ongoing COVID-19 pandemic (LGCU and Linguistics Department policy, as well as resources) can be found on the <a href="https://uoft-lgcu.github.io/covid-19/" target="_blank" title="LGCU COVID-19 information page">COVID-19</a> page of this website.</div>
+<br>
 
 **On This Page**
 * This list will be replaced by ToC
@@ -133,9 +126,13 @@ If things look off, ask! Green Shield has an [online support centre](https://sup
 
 ## Canadian Students from Outside Ontario
 
-* (Section under construction)
+Canadian students from out of province can continue to use their other provincial health coverage (e.g. [MSP](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp "BC Government page on MSP") for students from British Columbia) instead of OHIP. This has no effect on UTGSU or top-up plan coverage. Provincial health care plans sometimes have different coverage, however, so it's a good idea to get familiar with how your provincial coverage differs from OHIP.
 
-[comment]: # (Add information about using other province's health care coverage in Ontario. Anything special you need to know -e.g. flu shot things?-. How/when to switch to OHIP from another province's coverage. Ways OHIP might be different from the provincial health care you're used to.)
+If you continue to use another province's health coverage, you should inform your home province that you are attending educational institution in Ontario. This is so that when you go to a doctor in Ontario, your claim won't be denied.
+
+You can also [switch your provincial health coverage to OHIP](https://www.ontario.ca/page/apply-ohip-and-get-health-card "Ontario Government page on OHIP and how to apply") if you want. There's a three-month waiting period for enrolment, so make sure to co-ordinate the dates with your home province's coverage; you don't want to be left with a gap in coverage! If you move back to your previous province after graduation, you can switch your coverage back too (once again, with a 3-month wait). For most students, it's a good idea to switch if you're planning to stay in Ontario after graduation, but easier to keep the same coverage if you're planning to go back to your home province after graduating.
+
+**Note:** As of March 2020, the 3-month waiting period for applying to OHIP has been waived due to COVID-19.
 
 ## International Students
 
@@ -145,7 +142,7 @@ International students need to register for a special form of basic health cover
 
 It is possible to extend all insurance plans for which you are eligible to your spouse and any dependent children (common-law and same-sex partners are included, and you may only cover one spouse at a time; verify [who's eligible to enroll](https://studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_CoupleFamilyEnrolments_WhosEligible "Studentcare information on couple and family enrollment eligibility"). To do this, you must sign up for [family coverage](https://www.studentcare.ca/rte/en/IHaveAPlan_UniversityofTorontoGraduateStudentsUnionUTGSU_ChangeofCoverage_CoupleFamilyEnrolments "How to apply for couple and family enrollment") on the GSU insurance plan and pay the additional fee(s). Health and dental are dealt with separately. You must opt-in by the deadline, usually the end of September.
 
-The CUPE plan is currently linked to the GSU plan. If you are eligible for the CUPE top-up plan, this top-up will be extended to all your family members who also have GSU insurance. The health care spending account will be shared between all members of the family; the Family HCSA has an increased value.
+The CUPE plan is currently linked to the GSU plan. If you are eligible for the CUPE top-up plan, this top-up will be extended to all your family members who also have GSU insurance. All dependents added under your plan will have their own separate limits on funds (e.g. the amount of coverage for prescription drugs is per person not per family). The exception is the health care spending account, which is one amount shared between all members of the family; if you enroll at least one dependent on your plan, the amount of money in the HCSA is larger (this is all or nothing, it doesn't increase again if you add more than one dependent).
 
 Any family members on your plan will have their own individual ID number. This number is the same as the UTG[student number] and UOT[employee number] IDs that you have as an individual, but instead of -00, your family members' numbers will end in -01, -02, etc. When submitting a claim, make sure the ID number reflects the family member who received the medical care.
 
@@ -251,15 +248,23 @@ Other things to note:
 
 #### Going on leave
 
-* This section is still under construction, but here is some information on the [leave provisions in the Unit 1 collective agreement](https://www.cupe3902.org/wp-content/uploads/2018/07/Leaves-Info-2018-2019.pdf "CUPE3902 Unit 1 Leave Provisions information sheet (pdf)")
+By default, students on a leave of absence lose UTGSU health coverage. On leave, students don't pay tuition and incidental fees, which includes health and dental premiums. Without paying the premiums, students are not enrolled in the plan.
 
-If you have secured and signed a contract before going on approved leave, you can be covered by the CUPE top-up plan. As well as your having gotten a contract, your top-up plan coverage also depends on whether you have a GSU plan or not.
+If you have been accessing medical or psychiatric care through U of T Health and Wellness before going on leave, you can still access treatment this way. This also applies to access to the David L. MacIntosh Sports Medicine Clinic, for those with sport or exercise-related injuries.
+
+However, **it may be possible to continue your UTGSU health and dental plan coverage during your leave of absence.** Extending coverage throughout your leave is something you have to specifically request, and it seems to be done on a case-by-case basis. If you want to do this, [contact the GSU Health Plan administrator](https://utgsu.ca/health-and-dental/benefits/ "UTGSU Benefits page, containing contact information for the health plan administrator") by emailing "health@utgsu.ca". You will need to provide: 1) A request to have the coverage while on leave, 2) An indication of exit and return dates, and 3) An approved Leave of Absence form from SGS.
+
+Once the Health Plan Administrator receives your materials, they advocate on your behalf for you to be enrolled in the health and dental plans while you are on leave. After this gets approved, you'll have to complete an enrolment form, and pay the fees directly to the Broker. Leave of absence coverage continuation has to be applied for during the Change of Coverage period (e.g. for the Fall semester, this would be September 1-30), with no exceptions. The UTGSU Health Plan administrator can help you figure out the details of your own situation.
+
+If you have secured and signed a contract before going on approved leave, you can also be covered by the CUPE top-up plan. As well as your having gotten a contract, your top-up plan coverage also depends on whether you have a GSU plan or not (i.e. CUPE top-up plan coverage will apply while you are enrolled in the UTGSU plan and have a contract, but if you are not enrolled in the UTGSU plan, you will only ever have HCSA coverage through CUPE).
 
 For instance: Say you have completed the 30 hours of TA-ing required to qualify for the CUPE top-up plan. You pay fees for the UTGSU plan in the Fall, but not in the Winter. You would be covered by Top-up Plan A (full health and dental) from September to December, since you've 1) completed 30 hours, and 2) enrolled in the UTGSU health plan during that term. You would be covered by Top-up Plan B (HCSA only) from January to August, since you've 1) completed 30 hours, and 2) **not** enrolled in the UTGSU plan during that term. Taking leave during the Summer would not affect your coverage.
 
-It's a good idea to contact the UTGSU Benefits Administrator (health@utgsu.ca) when going on leave, just to double-check your coverage. They might also require you to submit documentation.
+For more information on taking a leave of absence, check out:
 
-[comment]: # Still checking with UTGSU on this.
+* [The SGS's Leave of Absence Policy](https://www.sgs.utoronto.ca/policies-guidelines/leave-of-absence-policy/ "SGS Leave of Absence Policy")
+
+* [The leave provisions in the CUPE3902 Unit 1 collective agreement](https://www.cupe3902.org/wp-content/uploads/2018/07/Leaves-Info-2018-2019.pdf "CUPE3902 Unit 1 Leave Provisions information sheet (pdf)")
 
 #### Travel
 
@@ -286,3 +291,5 @@ You can also directly submit claims for reimbursement to the HCSA. Eligible clai
 *[IHPAF]: International Health Plan Assistance Fund
 *[My SSP]: My Student Support Program
 *[UTGSU]: U of T Graduate Student Union
+*[MSP]: Medical Services Plan
+*[SGS]: School of Graduate Studies
