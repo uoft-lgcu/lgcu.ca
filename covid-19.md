@@ -68,5 +68,3 @@ As the situation evolves with the ongoing COVID-19 pandemic, information and rec
 *[SS569]: Sidney Smith Hall Room 569
 *[CUPE3902]: Canadian Union of Public Employees (Local 3902)
 *[UTGSU]: University of Toronto Graduate Student Union
-
-</div>
