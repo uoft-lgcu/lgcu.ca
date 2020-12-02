@@ -222,7 +222,7 @@ t:  1-800-445-1822
 * [Good2Talk](https://good2talk.ca/ "Good2Talk (post-secondary student helpline) main page") is a free, confidential 24-hour helpline for post-secondary students' mental health and well-being. \\
 t: 1-866-925-5454
 
-* [Talk4Healing](www.talk4healing.com "Talk4Healing indigenous women helpline main page") is a free, confidential 24-hour helpline for Indigenous women, by Indigenous women. 14 Indigenous languages supported, as well as English and French. \\
+* [Talk4Healing](http://www.talk4healing.com "Talk4Healing indigenous women helpline main page") is a free, confidential 24-hour helpline for Indigenous women, by Indigenous women. 14 Indigenous languages supported, as well as English and French. \\
 t: 1-855-554-HEAL (4325) (talk or text)
 
 ### UTGSU Resources
