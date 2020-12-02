@@ -32,9 +32,9 @@ Both the GSU plan and the CUPE top-up plan are through the same company: Green S
 
 Expenses must be incurred between September 1 and August 31 for the academic year that you are enrolled in the plan. Expenses for the past year should ideally be submitted for reimbursement before your plan ends on August 31. There is a 30-day 'grace period' (i.e. until the end of September after your plan year ends), when you can still submit outstanding expenses[^HCSAfootnote].
 
-The UTGSU plan can be used right away; the CUPE top-up plan, however, is under 'blackout' for the first few months. Because you're not eligible for the top-up plan until after you've worked 30 hours in your contract, Green Shield considers your top-up plan 'inactive' until it's confirmed that you're eligible. The 'blackout' period usually lasts from September until early November for LGCU members. Once it kicks in, the top-up plan then retrospectively covers you from September 1, and you can send in expenses you've already paid for and [get reimbursed](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#Getting-Reimbursed: "Section on 'Getting Reimbursed' on this page").
+The UTGSU plan can be used right away; the CUPE top-up plan, however, is under 'blackout' for the first few months. Because you're not eligible for the top-up plan until after you've worked 30 hours in your contract, Green Shield considers your top-up plan 'inactive' until it's confirmed that you're eligible. The 'blackout' period usually lasts from September until early November for LGCU members. Once it kicks in, the top-up plan then retrospectively covers you from September 1, and you can send in expenses you've already paid for and [get reimbursed](#getting-reimbursed "Section on 'Getting Reimbursed' on this page").
 
-Notice how the 'grace period' from last year will overlap with the 'blackout' period from this year? That can make things complicated (since Green Shield considers the plan you're submitting older receipts for to be inactive). Best course of action: submit whatever expenses you can before August 31, and only send claims in during the grace period if you have to. See [Claiming During the 'Blackout' Period](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#Claiming-During-the-'Blackout'-Period: "Section on 'Claiming During the 'Blackout' Period' on this page") for more information.
+Notice how the 'grace period' from last year will overlap with the 'blackout' period from this year? That can make things complicated (since Green Shield considers the plan you're submitting older receipts for to be inactive). Best course of action: submit whatever expenses you can before August 31, and only send claims in during the grace period if you have to. See [Claiming During the 'Blackout' Period](#claiming-during-the-'blackout'-period "Section on 'Claiming During the 'Blackout' Period' on this page") for more information.
 
 ## Benefits
 
@@ -100,7 +100,7 @@ You can also [print your own insurance card](https://www.studentcare.ca/RTEConte
 
 ### Getting Reimbursed
 
-If you have paid for some kind of health service or prescription without accessing your insurance up front, you can likely receive reimbursement for some of the expense. This is done by filing an insurance claim. You can file a joint claim to both supplementary health plans simultaneously, or file independent claims to each plan. Always apply to the GSU plan first. If your medical expense is not fully covered by the combined supplementary and top-up plans, you can also access your [health care spending account](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#HCSA-details: "Section on 'HCSA details' on this page") (HCSA) which may cover the remainder.
+If you have paid for some kind of health service or prescription without accessing your insurance up front, you can likely receive reimbursement for some of the expense. This is done by filing an insurance claim. You can file a joint claim to both supplementary health plans simultaneously, or file independent claims to each plan. Always apply to the GSU plan first. If your medical expense is not fully covered by the combined supplementary and top-up plans, you can also access your [health care spending account](#hcsa-details "Section on 'HCSA details' on this page") (HCSA) which may cover the remainder.
 
 #### Filing a Paper Claim
 
@@ -144,7 +144,7 @@ If things look off, ask! Green Shield has an [online support centre](https://sup
 
 * If you sign up for direct deposit (you can do this through the [Green Shield online portal](https://onlineservices.greenshield.ca/planmember/AccessMgmt/Public/SignOn.aspx "Green Shield plan member online services login page")), your refund will be deposited right into your account. Otherwise, you'll receive a cheque in the mail.
 
-* If you're having trouble with filing a claim, you could always [ask your fellow grad students for help](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#other-ways-to-find-resources "Section on 'Other ways to find resources' on this page"). You're probably not the first person to run into a particular problem.
+* If you're having trouble with filing a claim, you could always [ask your fellow grad students for help](#other-resources "Section on 'Other resources' on this page"). You're probably not the first person to run into a particular problem.
 
 ## Canadian Students from Outside Ontario
 
@@ -222,7 +222,7 @@ t:  1-800-445-1822
 * [Good2Talk](https://good2talk.ca/ "Good2Talk (post-secondary student helpline) main page") is a free, confidential 24-hour helpline for post-secondary students' mental health and well-being. \\
 t: 1-866-925-5454
 
-* [Talk4Healing](www.talk4healing.com "Talk4Healing (indigenous women helpline) main page") is a free, confidential 24-hour helpline for Indigenous women, by Indigenous women. 14 Indigenous languages supported, as well as English and French. \\
+* [Talk4Healing](www.talk4healing.com "Talk4Healing indigenous women helpline main page") is a free, confidential 24-hour helpline for Indigenous women, by Indigenous women. 14 Indigenous languages supported, as well as English and French. \\
 t: 1-855-554-HEAL (4325) (talk or text)
 
 ### UTGSU Resources
@@ -237,7 +237,7 @@ t: 1-866-358-4436   e: health@utgsu.ca
 
 * Your fellow grad students can be a great source of advice and support (even if it's just about what dentist they go to). To get in touch in the age of social distancing, you can: email the LGCU listserv (LGCU-L@listserv.utoronto.ca); contact [Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson "Linguistics Department People entry for Fiona Wilson") to be added to the LGCUers facebook page; or contact [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis "Linguistics Department People entry for Timothy Gadanidis") to be added to the LGCU virtual lounge on Zulip.
 
-* The LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/ "LGCU Committees page")
+* The LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/#mindsweeper-wellness-committee "LGCU Committees page")
 Mindsweepers **does not** provide direct support to students, but may be able to point you in the direction of some good resources. You can send them suggestions or get involved yourself.
 
 ## Miscellaneous Issues
@@ -253,7 +253,7 @@ Other things to note:
 
 * Partners and dependents can also be enrolled for 12-month extended coverage
 
-* The 12-month extended plan includes the HCSA, which can be claimed back against the premium (see [HCSA details](https://github.com/uoft-lgcu/uoft-lgcu.github.io/blob/main/health.md#HCSA-details: "Section on 'HCSA details' on this page"))
+* The 12-month extended plan includes the HCSA, which can be claimed back against the premium (see [HCSA details](#hcsa-details "Section on 'HCSA details' on this page"))
 
 * If you keep working as a TA after graduating, you'll be eligible for the CUPE top-up plan. If you sign up for the 12-month extension of the UTGSU plan, this will be top-up Plan A (health and dental); if you don't get the extension, this will be top-up Plan B (HCSA only).
 
@@ -265,7 +265,7 @@ By default, students on a leave of absence lose UTGSU health coverage. On leave,
 
 If you have been accessing medical or psychiatric care through U of T Health and Wellness before going on leave, you can still access treatment this way. This also applies to access to the David L. MacIntosh Sports Medicine Clinic, for those with sport or exercise-related injuries.
 
-However, **it may be possible to continue your UTGSU health and dental plan coverage during your leave of absence.** Extending coverage throughout your leave is something you have to specifically request, and it seems to be done on a case-by-case basis. If you want to do this, [contact the GSU Health Plan administrator](https://utgsu.ca/health-and-dental/benefits/ "UTGSU Benefits page, containing contact information for the health plan administrator") by emailing "health@utgsu.ca". You will need to provide: 1) A request to have the coverage while on leave, 2) An indication of exit and return dates, and 3) An approved Leave of Absence form from SGS.
+However, **it may be possible to continue your UTGSU health and dental plan coverage during your leave of absence.** Extending coverage throughout your leave is something you have to specifically request, and it seems to be done on a case-by-case basis. If you want to do this, [contact the GSU Health Plan administrator](https://utgsu.ca/health-and-dental/benefits/ "UTGSU Benefits page, containing contact information for the health plan administrator") by emailing [health@utgsu.ca](mailto:health@utgsu.ca). You will need to provide: 1) A request to have the coverage while on leave, 2) An indication of exit and return dates, and 3) An approved Leave of Absence form from SGS.
 
 Once the Health Plan Administrator receives your materials, they advocate on your behalf for you to be enrolled in the health and dental plans while you are on leave. After this gets approved, you'll have to complete an enrolment form, and pay the fees directly to the Broker. Leave of absence coverage continuation has to be applied for during the Change of Coverage period (e.g. for the Fall semester, this would be September 1-30), with no exceptions. The UTGSU Health Plan administrator can help you figure out the details of your own situation.
 
