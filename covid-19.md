@@ -17,6 +17,20 @@ University and Department guidelines may change at any time; be sure to keep an 
 
 Note: In addition to the department-wide guidelines, the LGCU voted at the most recent AGM to require members to wear a mask or face covering while in grad spaces (SS568 and SS569) ([exceptions as per City of Toronto bylaw](https://www.toronto.ca/wp-content/uploads/2020/07/9836-COVID-19-Guidance-on-face-mask-and-covering-bylaw.pdf "City of Toronto COVID-19 guidance on mask and face covering bylaw (pdf)")), including when only one person is present in the space.
 
+## Workplace Exposure to COVID-19
+
+You're entitled to a safe workplace, and if you are exposed to COVID-19 on campus while performing your work, there is compensation you may be entitled to. Here's what to do:
+
+* If you're exposed to COVID-19 in the workplace, fill out a [Workers' Exposure Incident Form](https://www.wsib.ca/sites/default/files/2020-12/3958a_workerexposureincidentform.pdf "Worker's Exposure Incident Form (pdf)") and submit it to [WSIB Ontario](https://www.wsib.ca/en/upload "WSIB Upload a CLaim Document").
+
+* If you test positive for COVID-19 after exposure in the workplace, fill out a [Form 6](https://www.wsib.ca/sites/default/files/2020-12/0006a_workerreportofinjury.pdf "Worker Report of Injury (Form 6) (pdf)") and submit it to [WSIB](https://www.wsib.ca/en/upload "WSIB Upload a CLaim Document"). Have your doctor fill out a [Form 8](https://www.wsib.ca/sites/default/files/2019-02/0008a_08_11_fs_rv_09_18.pdf "Health Professional's Report (Form 8) (pdf)") with your COVID-19 diagnosis and submit it to WSIB.
+
+* If your WSIB claim has been denied, email your denial letter to [ wsibintake@cupe.ca](mailto:wsibintake@cupe.ca "CUPE WSIB intake email address") (C/O Daniela Greco).
+
+* Your [CUPE union reps](https://uoft-lgcu.github.io/committees/#cupe-stewards "LGCU Committees page section on CUPE stewards") can help you if you're having trouble filing a claim.
+
+You can find more information about WSIB benefits and eligibility be reading [this pamphlet on COVID-19 exposure in the workplace](https://cupe.on.ca/wp-content/uploads/2020/05/Handout_WSIB_COVID-19-FINAL-v2.pdf "Have You Been Exposed to COVID-19 in the Workplace? (pdf)")
+
 ## Links & resources
 
 As the situation evolves with the ongoing COVID-19 pandemic, information and recommendations are constantly changing. Here are some links to help you access accurate and up-to-date information about the pandemic.
@@ -68,3 +82,4 @@ As the situation evolves with the ongoing COVID-19 pandemic, information and rec
 *[SS569]: Sidney Smith Hall Room 569
 *[CUPE3902]: Canadian Union of Public Employees (Local 3902)
 *[UTGSU]: University of Toronto Graduate Student Union
+*[WSIB]: Workplace Safety and Insurance Board
