@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID-19
-modified: 2020-11-05
+modified: 2020-12-07
 permalink: /covid-19/
 ---
 
