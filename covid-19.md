@@ -1,9 +1,15 @@
 ---
 layout: page
 title: COVID-19
-modified: 2020-12-07
+modified: 2020-12-14
 permalink: /covid-19/
 ---
+
+#### Update to Workplace Guidelines on Mask Use
+
+As of December 9th, 2020, the University requires that non-medical masks or face coverings be work in all indoor spaces (both public and restricted access). This applies to labs and research spaces, even while physical distancing.
+
+For more information, check out the [provost and HR guidelines](https://www.provost.utoronto.ca/planning-policy/joint-provostial-and-human-resources-guideline-on-nonmedical-masks-at-the-university-of-toronto/ "Joint Provostial and Human Resources Guideline on Non-Medical Masks") and the [U of T COVID-19 general workplace guidelines](https://ehs.utoronto.ca/wp-content/uploads/2020/05/COVID-19-General-Workplace-Guideline.pdf "U of T COVID-19 General Workplace Guidelines"), or email [ehs.office@utoronto.ca](mailto:ehs.office@utoronto.ca "Link to email ehs.office@utoronto.ca") with questions.
 
 ## Access to the Department
 
