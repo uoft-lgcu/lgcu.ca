@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /jekyll/update/2020/10/30/welcome-to-jekyll.html
+
+Sitemap: https://uoft-lgcu.github.io/sitemap.xml
