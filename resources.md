@@ -5,8 +5,6 @@ modified: 2021-01-22
 permalink: /resources/
 ---
 
-Note: This page is under construction, and may contain broken links or incomplete information.
-
 Are there any resources you've found helpful that aren't listed on this page? Let us know using [the LGCU website issues form](https://gitreports.com/issue/uoft-lgcu/uoft-lgcu.github.io "LGCU website issues form")!
 
 **On This Page**
@@ -42,6 +40,14 @@ Are there any resources you've found helpful that aren't listed on this page? Le
 * [PhD Thesis Proposal Guidelines](https://www.linguistics.utoronto.ca/sites/www.linguistics.utoronto.ca/files/ThesisProposalGuidelines.pdf "PhD Proposal Guidelines (pdf)")
 
 * [May Monitoring Guidelines](https://www.linguistics.utoronto.ca/sites/www.linguistics.utoronto.ca/files/MonitoringProcedures.pdf "May Monitoring Guidelines")
+
+## Financial Assistance
+
+* [SGS Emergency Loan](https://www.sgs.utoronto.ca/awards/sgs-emergency-loan/ "SGS Emergency Loan Information Page")
+
+* [SGS Emergency Grant](https://www.sgs.utoronto.ca/awards/sgs-emergency-grant/ "SGS Emergency Grant Information Page")
+
+* [Financial Support and Funding Opportunities Overview Page](https://www.viceprovoststudents.utoronto.ca/covid-19/funding-opportunity-directory/ "U of T Funding Opportunities Directory")
 
 ## CUPE 3902
 
@@ -85,6 +91,14 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](h
 
 * [Hart House](https://harthouse.ca/ "Hart House Centre")
 
+* [Digital Connections Toolkit](http://blogs.studentlife.utoronto.ca/digitalconnections/ "Digital Connections Toolkit")
+
+* [Ulife Campus Groups](https://ulife.utoronto.ca/organizations "U of T Ulife Campus Groups Search Function")
+
+* [Virtual Hub for U of T Alumni](https://alumni.utoronto.ca/hub?utm_source=DUA&utm_medium=Newsletter&utm_campaign=Stay-at-Home-Hub "Virtual Hub for U of T Alumni")
+
+* [OISE Library Care Package](https://oiselibrarycarepackage.wordpress.com/ "OISE Library Care Package")
+
 * LGCUers Facebook Group (private group, email [Fiona Wilson](mailto:fm.wilson@mail.utoronto.ca "Direct mail link for Fiona Wilson") to be added)
 
 * LGCU Zulip Chat Forum (private group, email [Tim Gadanidis](mailto:timothy.gadanidis@mail.utoronto.ca "Direct mail link for Tim Gadanidis") for an invite)
@@ -101,23 +115,31 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](h
 
 ## Research and Ethics Resources
 
-[Section under review]
+* [My Research Portal Login](https://easi.its.utoronto.ca/administrative-web-services/my-research-mr/ "My Research Portal Login")
 
-* (Digital connections toolkit?)
+* [Human Participant Ethics Protocol Worksheet (for Drafting)](https://research.utoronto.ca/media/196/download "Human Participants Ethics Protocol Worksheet (download link)")
 
-* [Student support during the pandemic page](https://www.sgs.utoronto.ca/lookingahead/pandemic-student-supports/?utm_source=mailpoet&utm_medium=email&utm_campaign=December+2020+Dean+Letter) (fix link)
+* [Centre for Research and Innovation Support](https://cris.utoronto.ca/ "Centre for Research and Innovation Support")
 
-* [Research and innovation page](https://research.utoronto.ca/?utm_source=mailpoet&utm_medium=email&utm_campaign=December+2020+Dean+Letter) (fix link)
+### Research During COVID-19
 
-* [Research page 2](https://research.utoronto.ca/implication-lock-down-measures-toronto-peel-research-activities?utm_source=mailpoet&utm_medium=email&utm_campaign=December+2020+Dean+Letter)
+* [Guidance for the Recovery of Human Research During the COVID-19 Pandemic](https://research.utoronto.ca/covid-19-research-innovation-updates/u-t-guidance-recovery-human-research-during-covid-19-pandemic "U of T Guidance for the Recovery of Human Research During the COVID-19 Pandemic")
 
-* [Research page 3](https://research.utoronto.ca/covid-19-research-innovation-updates/u-t-guidance-recovery-human-research-during-covid-19-pandemic?utm_source=mailpoet&utm_medium=email&utm_campaign=December+2020+Dean+Letter)
+* [Coronavirus Research FAQ](https://research.utoronto.ca/covid-19 "Coronavirus Research FAQ")
 
-* [Research page 4](https://research.utoronto.ca/implication-lock-down-measures-toronto-peel-research-activities?utm_source=mailpoet&utm_medium=email&utm_campaign=December+2020+Dean+Letter)
+* [Guidelines for Graduate Students](https://www.sgs.utoronto.ca/lookingahead/reengagement/#section_0 "Guidelines for Graduate Students Engaged in Research Towards Degree Completion")
 
 ## COVID-19
 
 For more information about COVID-19 guidelines and resources, see the [COVID-19 page](https://uoft-lgcu.github.io/covid-19/ "COVID-19 page of the LGCU site") on this site.
+
+### Tuition Fee Exemption
+
+* [Registering with a Tuition Fee Exemption](https://www.sgs.utoronto.ca/admissions/graduate-fees/#section_13 "Information and Criteria for Registering with a Tuition Fee Exemption")
+
+* [Tuition Fee Exemption Form](https://www.sgs.utoronto.ca/wp-content/uploads/sites/253/2020/06/Registration-with-Tuition-Fee-Exemption-Form-revisions_v2_final-fillable-1.pdf "SGS Tuition Fee Exemption Form (pdf)")
+
+### General Information and Resources
 
 * [Linguistics Department COVID-19 Resources for Graduate Students](https://www.linguistics.utoronto.ca/covid-19-resources "Department of Linguistics COVID-19 resources")
 
@@ -153,7 +175,7 @@ For more information about COVID-19 guidelines and resources, see the [COVID-19 
 
 For more information about LGCU health care, see the [health page](https://uoft-lgcu.github.io/health/ "Health page of the LGCU site") on this site.
 
-### Health Benefits resources
+### Health Benefits Resources
 
 * [GSU plan brochure](http://www.ihaveaplan.ca/RTEContent/Document/EN/Brochure/Current_UTGSU.pdf "UTGSU Health and Dental Brochure (pdf)")
 
@@ -199,7 +221,7 @@ For more information about LGCU health care, see the [health page](https://uoft-
 
 * [GSU Grad Minds](http://www.gradminds.ca/ "GSU Grad Minds main page")
 
-### Health forms
+### Health Forms
 
 * [General Claim Form](https://www.studentcare.ca/RTEContent/Document/EN/Claim_Forms/Generic/greenshield_health_general_2013.pdf "GSC General Claim form (pdf)")
 
@@ -222,3 +244,12 @@ For more information about LGCU health care, see the [health page](https://uoft-
 * [Green Shield Contact-Us Online Form](https://onlineservices.greenshield.ca/PlanMember/AccessMgmt/Public/AnonymousInquiry.aspx?lang=en-CA "GSC Contact-Us online form")
 
 * [Medeo Health Portal](https://id.medeohealth.com/users/sign_in?return_to=%2Foauth%2Fauthorize%3Fclient_id%3D970840f742279ca101eae604b81430aa496d1b83d6c8ece027ea93c095c936d9%26scope%3Dpublic%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9 "Medeo Health sign-in page")
+
+*[COVID-19]: Coronavirus Disease 2019
+*[LGCU]: Linguistics Graduate Student Union
+*[GSU]: Graduate Student Union
+*[CUPE]: Canadian Union of Public Employees
+*[HCSA]: Health Care Spending Account
+*[My SSP]: My Student Support Program
+*[UTGSU]: U of T Graduate Student Union
+*[SGS]: School of Graduate Studies
