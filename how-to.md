@@ -21,7 +21,7 @@ The [calendar](https://uoft-lgcu.github.io/calendar/ "LGCU Website Events Page")
 
 It's possible to check and edit the calendars just by signing in to the gmail account directly, but this is not recommended. Gmail gets upset after too many sign-ins from different devices and will refuse to sign you in without access to the recovery email. This means no one can access the account until we track down who is the current recovery email for the account (usually a member of the LGCU executive) and get them to open things up again. It's super annoying. Therefore, don't habitually use the gradroom568 account for booking, etc., but instead sign in once and share the calendars you want with your own gmail account, so you can access them that way.
 
-To share the calendar with yourself:
+### To share the calendar with yourself
 
 * Sign in to gmail using the "gradroom568@gmail.com" account (and the password you've sourced already)
 
