@@ -9,6 +9,8 @@ Note: This page is currently under construction. If there is something specific 
 using the LGCU resources described in the [support and community resources section of the website](https://uoft-lgcu.github.io/resources/#support-and-community-resources
 "Support and community resources section of the LGCU website resources page").
 
+If you have any suggestions for information/guides that should be added to this page, be sure to let us know using the [LGCU Website 'issues' form](https://gitreports.com/issue/uoft-lgcu/uoft-lgcu.github.io "LGCU website issue reporting form").
+
 # How to...
 
 ## Print at the Department
