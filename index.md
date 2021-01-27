@@ -7,10 +7,10 @@ layout: page
 exclude: true
 ---
 
-President 1 = {{ site.data.members[president1] }}
+President 1 = {{ site.data.members[president1].name }}
 President 2 = {{ site.data.members.president2 }}
 
-Test 2 does this show up?
+Test 3 does this show up?
 
 # About the LGCU
 
