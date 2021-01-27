@@ -5,12 +5,12 @@
 title: Linguistics Graduate Course Union
 layout: page
 exclude: true
+author: president1
 ---
 
-President 1 = {{ site.data.members[president1].name }}
-President 2 = {{ site.data.members.president2 }}
+{% assign president1 = site.data.members[page.author] %}
 
-Test 3 does this show up?
+The answer is = {{ author.name }}
 
 # About the LGCU
 
