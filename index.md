@@ -10,7 +10,7 @@ author: dave
 
 {% assign dave = site.data.people[page.author] %}
 
-Title = "{{ author.name }}"
+{% comment %}Title = "{{ author.name }}"{% endcomment %}
 
 # About the LGCU
 
