@@ -5,12 +5,12 @@
 title: Linguistics Graduate Course Union
 layout: page
 exclude: true
-author: president1
+author: dave
 ---
 
-{% assign president1 = site.data.members[page.author] %}
+{% assign dave = site.data.people[page.author] %}
 
-The answer is = {{ author.name }}
+Title = "{{ author.name }}"
 
 # About the LGCU
 
