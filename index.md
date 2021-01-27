@@ -7,6 +7,9 @@ layout: page
 exclude: true
 ---
 
+President 1 = {{ site.data.members.president1 }}
+President 2 = {{ site.data.members.president2 }}
+
 # About the LGCU
 
 All of the students enrolled in graduate programs offered by the Department of
