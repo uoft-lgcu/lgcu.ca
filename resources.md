@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-modified: 2021-01-22
+modified: 2021-01-29
 permalink: /resources/
 ---
 
@@ -55,7 +55,7 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](h
 
 * [CUPE 3902](https://www.cupe3902.org/ "CUPE 3902 Main page")
 
-* [CUPE 3902 Unit 1 Collective Agreement](https://www.cupe3902.org/wp-content/uploads/2019/12/FINAL-CUPE-3902-Unit-1-Collective-Agreement-2018-2020-SEPTEMBER-2019-Website.pdf "CUPE 3902 Unit 1 Collective Agreement") \\ Note: Bargaining is currently ongoing for the union (as of January 2021)
+* [CUPE 3902 Unit 1 Collective Agreement](https://www.cupe3902.org/wp-content/uploads/2019/12/FINAL-CUPE-3902-Unit-1-Collective-Agreement-2018-2020-SEPTEMBER-2019-Website.pdf "CUPE 3902 Unit 1 Collective Agreement") \ Note: Bargaining is currently ongoing for the union (as of January 2021)
 
 * [Leave provisions in the CUPE3902 Unit 1 collective agreement](https://www.cupe3902.org/wp-content/uploads/2018/07/Leaves-Info-2018-2019.pdf "CUPE3902 Unit 1 Leave Provisions information sheet (pdf)")
 
@@ -65,7 +65,7 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](h
 
 ## UTGSU
 
-* [[UTGSU Main page](https://utgsu.ca/ "UTGSU Main page")
+* [UTGSU Main page](https://utgsu.ca/ "UTGSU Main page")
 
 * [UTGSU Health and dental inquiries and contact information](https://utgsu.ca/health-and-dental/ "UTGSU Health and dental inquiries and contact information")
 
@@ -73,7 +73,7 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](h
 
 * [UTGSU Advocacy Services](https://utgsu.ca/services-2/advocacy/ "UTGSU Advocacy Description and Contact Information")
 
-* [Downtown Legal Services](https://www.law.utoronto.ca/programs-centres/legal-clinics/downtown-legal-services "U of T Faculty of Law Downtown Legal Services)
+* [Downtown Legal Services](https://www.law.utoronto.ca/programs-centres/legal-clinics/downtown-legal-services "U of T Faculty of Law Downtown Legal Services")
 
 * [Ombudsperson](https://governingcouncil.utoronto.ca/ombudsperson "U of T Office of the Ombudsperson")
 
@@ -109,7 +109,7 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](h
 
 * [LGCU writing support committee](https://uoft-lgcu.github.io/committees/#writing-support "LGCU Writing Support Committee entry on this site")
 
-* [Teaching Assistants' Training Program](https://tatp.utoronto.ca/ "U of T Teaching Assistants' Training Program Main page") \\ [Teaching Fundamentals Certificate](https://tatp.utoronto.ca/certificate-program/tf-certificate/ "Teaching Fundamentals Certificate information page") \\ [Advanced University Teaching Preparation Certificate](https://tatp.utoronto.ca/certificate-program/autp-certificate/ "Advanced University Teaching Preparation Certificate information page")
+* [Teaching Assistants' Training Program](https://tatp.utoronto.ca/ "U of T Teaching Assistants' Training Program Main page") \ [Teaching Fundamentals Certificate](https://tatp.utoronto.ca/certificate-program/tf-certificate/ "Teaching Fundamentals Certificate information page") \ [Advanced University Teaching Preparation Certificate](https://tatp.utoronto.ca/certificate-program/autp-certificate/ "Advanced University Teaching Preparation Certificate information page")
 
 * [SGS Centre for Graduate Professional Development](https://www.sgs.utoronto.ca/resources-supports/cgpd/ "SGS Centre for Graduate Professional Development page")
 
