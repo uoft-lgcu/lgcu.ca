@@ -3,3 +3,5 @@ president1:
   
 president2:
   name: Tim Gadanidis
+
+{% assign name3 = "Tim Gadanidis" %}
