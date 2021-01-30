@@ -11,6 +11,12 @@ exclude: true
 
 Title1 = {{ name }}
 
+Title2 = {{ site.name2 }}
+
+Title3 = {{ site.data.people.name3 }}
+
+Title4 = {{ site.data.people[name3] }}
+
 {% assign dave = site.data.people[page.author] %}
 
 # About the LGCU
