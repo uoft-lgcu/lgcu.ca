@@ -19,6 +19,8 @@ Title4 = {{ site.data.people[name3] }}
 
 {% assign dave = site.data.people[page.author] %}
 
+# Test heading
+
 # About the LGCU
 
 All of the students enrolled in graduate programs offered by the Department of
