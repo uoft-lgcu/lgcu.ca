@@ -5,12 +5,13 @@
 title: Linguistics Graduate Course Union
 layout: page
 exclude: true
-author: dave
 ---
 
-{% assign dave = site.data.people[page.author] %}
+{% assign name = "Lex Konnelly" %}
 
-{% comment %}Title = "{{ author.name }}"{% endcomment %}
+Title1 = {{ name }}
+
+{% assign dave = site.data.people[page.author] %}
 
 # About the LGCU
 
