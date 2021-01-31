@@ -55,6 +55,8 @@ Are there any resources you've found helpful that aren't listed on this page? Le
 
 ### Tax Form Information Pages
 
+Check out the [LGCU website How-to page](https://uoft-lgcu.github.io/how-to/#get-your-tax-documents "LGCU website How-to page, section on tax documents") for more details about downloading your tax forms, and what deductions to check out.
+
 * [T2202 FAQ](https://studentaccount.utoronto.ca/tax-information/t2202-tuition-and-enrolment-certificate/ "U of T T2202 Info Page")
 
 * [T4A FAQ](https://studentaccount.utoronto.ca/tax-information/t4a-statement-of-pension-retiremnet-annuity-and-other-income/ "U of T T4A Info Page")
