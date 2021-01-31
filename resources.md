@@ -23,6 +23,10 @@ Are there any resources you've found helpful that aren't listed on this page? Le
 
 * [SGS Grad Hub](https://www.sgs.utoronto.ca/gradhub/ "SGS Grad Hub")
 
+* [Employee Self-Service](https://easi.its.utoronto.ca/administrative-web-services/employee-self-service-ess/ "U of T Employee Self-Service Portal")
+
+* [ACORN]((https://acorn.utoronto.ca/sws/#/ "U of T Accessible Campus Online Resource Network (ACORN) portal")
+
 ## Department Links
 
 * [Department of Linguistics](https://www.linguistics.utoronto.ca/ "U of T Department of Linguistics")
@@ -48,6 +52,12 @@ Are there any resources you've found helpful that aren't listed on this page? Le
 * [SGS Emergency Grant](https://www.sgs.utoronto.ca/awards/sgs-emergency-grant/ "SGS Emergency Grant Information Page")
 
 * [Financial Support and Funding Opportunities Overview Page](https://www.viceprovoststudents.utoronto.ca/covid-19/funding-opportunity-directory/ "U of T Funding Opportunities Directory")
+
+### Tax Form Information Pages
+
+* [T2202 FAQ](https://studentaccount.utoronto.ca/tax-information/t2202-tuition-and-enrolment-certificate/ "U of T T2202 Info Page")
+
+* [T4A FAQ](https://studentaccount.utoronto.ca/tax-information/t4a-statement-of-pension-retiremnet-annuity-and-other-income/ "U of T T4A Info Page")
 
 ## CUPE 3902
 
