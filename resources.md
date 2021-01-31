@@ -59,6 +59,8 @@ Are there any resources you've found helpful that aren't listed on this page? Le
 
 * [T4A FAQ](https://studentaccount.utoronto.ca/tax-information/t4a-statement-of-pension-retiremnet-annuity-and-other-income/ "U of T T4A Info Page")
 
+* [Claiming Work From Home Expense Deductions FAQ](https://www.cupe3902.org/wp-content/uploads/2021/01/Claiming-WFH-Deductions.pdf "CUPE 3902 Claiming WFH Expense Deductions FAQ (pdf)")
+
 ## CUPE 3902
 
 For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](https://uoft-lgcu.github.io/cupe/ "CUPE3902 Page on this site") of this site.
