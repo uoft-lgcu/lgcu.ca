@@ -45,7 +45,7 @@ Since we're both employees and students, the University supplies us with a varie
 
 * T2202 (previously the T2202A) - Tuition and Enrolment Certificate \ This form is for students who've paid tuition fees that are eligible to be claimed \ [T2202 FAQ](https://studentaccount.utoronto.ca/tax-information/t2202-tuition-and-enrolment-certificate/ "U of T T2202 FAQ page")
 
-* T4A - Statement of Pension, Retirement, Annuity, and Other Income \ This is a catchall for reporting income types not included on other forms (including scholarships, bursaries, and fellowships) \ [T4A FAQ](https://studentaccount.utoronto.ca/tax-information/t4a-statement-of-pension-retiremnet-annuity-and-other-income/ "U of T T4A FAQ page") 
+* T4A - Statement of Pension, Retirement, Annuity, and Other Income \ This is a catchall for reporting income types not included on other forms (including scholarships, bursaries, and fellowships) \ [T4A FAQ](https://studentaccount.utoronto.ca/tax-information/t4a-statement-of-pension-retiremnet-annuity-and-other-income/ "U of T T4A FAQ page")
 
 * T4 - Statement of Remuneration Paid \ This is a summary of your employment earnings and deductions for the year (e.g. for TA income)
 
@@ -84,3 +84,9 @@ It's possible to check and edit the calendars just by signing in to the gmail ac
 6. Repeat the last three steps for any other grad calendars you want access to.
 
 ## Report Building Problems
+
+Minor problems can be reported to Caretaking Services (416-978-6252 or email [caretaking.service@utoronto.ca](mailto:caretaking.service@utoronto.ca "Direct email link to caretaking.service@utoronto.ca")). This would include issues like a burnt out light bulbs, etc. Note that Caretaking staff cannot open locked doors for people unless they know for certain that the person locked out occupies the room (e.g. they see you leave the locked room, and immediately ask to be let back inside).
+
+For more major concerns, and things that have to be dealt with right away, contact Facilities and Services (416-978-3000). This would include issues like electricity supply flooding, elevator problems, etc. Problems can also be reported through the [Service Request Portal](https://www.fs.utoronto.ca/financial-it-services/service-request-form/ "Facilities and Services Services Request Form Portal") (Note: you'll need a utorID, and it only works on the Chrome browser).
+
+If your concern is more security-oriented in nature, you can contact Campus Police (416-978-2222) or call 911 if it's an emergency.
