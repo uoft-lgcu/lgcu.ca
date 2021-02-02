@@ -13,8 +13,6 @@ Title2 = {{site.test2}}
 
 Title3 = {{site.test3}}
 
-# Test heading
-
 # About the LGCU
 
 All of the students enrolled in graduate programs offered by the Department of
