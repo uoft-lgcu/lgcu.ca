@@ -7,17 +7,11 @@ layout: page
 exclude: true
 ---
 
-{% assign name = "Lex Konnelly" %}
+Title1 = {{site.test1}}
 
-Title1 = {{ name }}
+Title2 = {{site.test2}}
 
-Title2 = {{ site.name2 }}
-
-Title3 = {{ site.data.people.name3 }}
-
-Title4 = {{ site.data.people[name3] }}
-
-{% assign dave = site.data.people[page.author] %}
+Title3 = {{site.test3}}
 
 # Test heading
 
