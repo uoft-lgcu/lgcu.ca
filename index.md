@@ -7,12 +7,6 @@ layout: page
 exclude: true
 ---
 
-Title1 = {{site.test1}}
-
-Title2 = {{site.test2}}
-
-Title3 = {{site.test3}}
-
 # About the LGCU
 
 All of the students enrolled in graduate programs offered by the Department of
@@ -34,4 +28,4 @@ Linguistics (TWPL).
 
 # Contact us
 
-Current LGCU co-presidents: [Lex Konnelly](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lex-konnelly) and [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis).
+Current LGCU co-presidents: {{site.president1}} and {{site.president2}}.
