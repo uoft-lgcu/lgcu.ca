@@ -24,6 +24,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# This is a test area for adding variable names
+test1: oliphaunt
+test2: birdman
+test3: maru
+
 # Build settings
 markdown: kramdown
 theme: minima
