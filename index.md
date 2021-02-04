@@ -7,6 +7,12 @@ layout: page
 exclude: true
 ---
 
+Test1 = {{site.president1}}
+
+Test2 = {{site.data.members.test1.name}}
+
+Test3 = {{site.data.members.test2}}
+
 # About the LGCU
 
 All of the students enrolled in graduate programs offered by the Department of
