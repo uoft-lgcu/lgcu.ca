@@ -19,6 +19,8 @@ Test5 = {{site.data.members.[test2]}}
 
 Test6 = {{data.members.test2}}
 
+Test7 = {{site.data.members.test3}}
+
 # About the LGCU
 
 All of the students enrolled in graduate programs offered by the Department of
