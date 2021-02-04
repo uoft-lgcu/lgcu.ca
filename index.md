@@ -13,6 +13,12 @@ Test2 = {{site.data.members.test1.name}}
 
 Test3 = {{site.data.members.test2}}
 
+Test4 = {{site.data.members.test1[name]}}
+
+Test5 = {{site.data.members.[test2]}}
+
+Test6 = {{data.members.test2}}
+
 # About the LGCU
 
 All of the students enrolled in graduate programs offered by the Department of
