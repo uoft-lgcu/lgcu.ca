@@ -7,17 +7,9 @@ layout: page
 exclude: true
 ---
 
-Test1 = {{site.president1}}
-
 Test2 = {{site.data.members.test1.name}}
 
 Test3 = {{site.data.members.test2}}
-
-Test4 = {{site.data.members.test1[name]}}
-
-Test5 = {{site.data.members.[test2]}}
-
-Test6 = {{data.members.test2}}
 
 Test7 = {{site.data.members.test3}}
 
