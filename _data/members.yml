@@ -3,5 +3,122 @@ test1:
   
 test2: BumberBill Balloon
 
+# LGCU Executive Positions
 president1: Lex Konnelly
 president2: Tim Gadanidis
+treasurer: Shabri Kapoor
+secretary: Kaz Bamba
+gsu_rep: Robert Prazeres
+
+# CUPE Representatives
+cupe_stg: Vidhya Elango
+cupe_utsc: Andrew Peters
+cupe_utm: Tim Gadanidis
+
+# LGCU Departmental Committees (note: committee1 should always be contact person, referenced in-text if only one member is)
+
+# Curriculum committee
+curriculum1: Radu Craioveanu
+curriculum2: Lisa Sullivan
+
+# WHITL blog committee
+whitl1: Will Williams
+
+# Library committee
+library1: Liam Donohue
+library2: Tim Gadanidis
+
+# Toronto working papers in linguistics
+twpl_chair: Pocholo Umbal
+twpl1: Pocholo Umbal
+twpl2: Angelika Kiss
+twpl3: Alec Kienzle
+twpl4: Lauren Bigelow
+twpl5: Shabri Kapoor
+twpl6: Koorosh Ariyaee
+twpl7: Kiranpreet Nara
+twpl8: Lisa Schlegl
+twpl9: Emilia Melara
+twpl10: Heather Yawney
+twpl11: Justin Leung
+twpl12: Andrew Peters
+twpl13: Nadia Takhtaganova
+twpl14: Kaleigh Woolford
+
+# Fall campus day
+fall_campus1: Talia Tahtadjian
+fall_campus2: Laurestine Bradford
+fall_campus3: Anissa Baird
+
+# March break open house
+march_open1: Talia Tahtadjian
+march_open2: Marjorie Leduc
+march_open3: Crystal Chen
+
+# SIG representatives
+sig_fall: Kaleigh Woolford
+sig_winter: Virgilio Partida Peñalva
+
+# Equity committee
+equity1: Bruno Andreotti
+
+# Departmental website committee
+department_website1: Ana Tona Messina
+
+# Plants and beautification committee
+plant1: Liam Donohue
+plant2: Lex Konnelly
+plant3: Vidhya Elango
+plant4: Lisa Schlegl
+plant5: Koorosh Ariyaee
+
+# Welcoming committee
+welcoming1: Pocholo Umbal
+welcoming2: Shabri Kapoor
+welcoming3: Liam Donohue
+welcoming4: Zhanao Fu
+
+# Job Application Workshop Series (JAWS) committee
+jaws1: Lauren Bigelow
+jaws2: Katharina Pabst
+
+# Computer committee
+computer1: Fiona Wilson
+computer2: Tim Gadanidis
+
+# Space committee
+space1: Kelly-Ann Blake
+space2: Shabri Kapoor
+space3: Ilia Nicoll
+
+# TA evaluations
+ta_eval1: Nadia Takhtaganova
+
+# Tutoring coordinator
+tutoring1: Kaz Bamba
+
+# Writing support
+writing1: Christopher Legerme
+writing2: Nadia Takhtaganova
+writing3: Marjorie Leduc
+
+# Mindsweeper wellness committee
+mindsweeper1: Nicki Butler
+mindsweeper2: Angelika Kiss
+mindsweeper3: Jessica Yeung
+mindsweeper4: Heather Yawney
+
+# Social committee
+social1: Fiona Wilson
+social2: Kaleigh Woolford
+
+# Downstairs Grad Space Fridge/Small Appliance Committee
+downstairs_appliance1: Pocholo Umbal
+
+
+# Members with specific responsibilities
+printer: Radu Craioveanu
+facebook: Fiona Wilson
+zulip: Tim Gadanidis
+
+departmental_officer: Mary Hsu
