@@ -115,9 +115,9 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](h
 
 * [OISE Library Care Package](https://oiselibrarycarepackage.wordpress.com/ "OISE Library Care Package")
 
-* LGCUers Facebook Group (private group, email [Fiona Wilson](mailto:fm.wilson@mail.utoronto.ca "Direct mail link for Fiona Wilson") to be added)
+* LGCUers Facebook Group (private group, email {{site.data.members.facebook}} to be added)
 
-* LGCU Zulip Chat Forum (private group, email [Tim Gadanidis](mailto:timothy.gadanidis@mail.utoronto.ca "Direct mail link for Tim Gadanidis") for an invite)
+* LGCU Zulip Chat Forum (private group, email {{site.data.members.zulip}} for an invite)
 
 ## Writing and Teaching Resources
 
