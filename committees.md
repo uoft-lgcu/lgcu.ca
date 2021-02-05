@@ -212,43 +212,41 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 \*{{site.data.members.downstairs_appliance1}}
 
-[](https://www.linguistics.utoronto.ca/people/directories/graduate-students/pocholo-umbal)
-
 > Like the upstairs committees for the same things, but at a lower altitude.
 
 ### Buddy Program Committee
 
-[Sahar Taghipour](https://www.linguistics.utoronto.ca/people/directories/graduate-students/sahar-taghipour), [Koorosh Ariyaee](https://www.linguistics.utoronto.ca/people/directories/graduate-students/koorosh-ariyaee)
+\*{{site.data.members.buddy1}}, {{site.data.members.buddy2}}
 
 > Develop plans to pair more-experienced graduate students with newer ones.
 
 ### LGCU Website Committee
 
-[Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson), [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis), [Will Williams](https://www.linguistics.utoronto.ca/people/directories/graduate-students/will-williams), [Laurestine Bradford](https://www.linguistics.utoronto.ca/people/directories/graduate-students/laurestine-bradford), [Justin Leung](https://www.linguistics.utoronto.ca/people/directories/graduate-students/justin-leung)
+\*{{site.data.members.website1}}, {{site.data.members.website2}}, {{site.data.members.website3}}, {{site.data.members.website4}}, {{site.data.members.website5}}
 
 > Develop and maintain the LGCU website.
 
 ### TA Supervision Excellence Award Committee (TASEA)
 
-[Lisa Schlegl](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lisa-schlegl), [Lisa Sullivan](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lisa-sullivan), [Koorosh Ariyaee](https://www.linguistics.utoronto.ca/people/directories/graduate-students/koorosh-ariyaee), [Kaz Bamba](https://www.linguistics.utoronto.ca/people/directories/graduate-students/kazuya-bamba)
+\*{{site.data.members.tasea1}}, {{site.data.members.tasea2}}, {{site.data.members.tasea3}}, {{site.data.members.tasea4}}
 
 > Create and maintain the LGCU program to recognize excellence in supervision of TAs.
 
 ### Outreach Committee
 
-[Greg Antono](https://www.linguistics.utoronto.ca/people/directories/graduate-students/gregory-antono), [Talia Tahtadjian](https://www.linguistics.utoronto.ca/people/directories/graduate-students/talia-tahtadjian), [Laurestine Bradford](https://www.linguistics.utoronto.ca/people/directories/graduate-students/laurestine-bradford)
+\*{{site.data.members.outreach1}}, {{site.data.members.outreach2}}, {{site.data.members.outreach3}}
 
 > Tasked with community outreach efforts to foster a greater sense of understanding of linguistics and inclusion of the greater community by involving linguistics graduate students in service towards the greater community.
 
 ### Anti-Harassment Taskforce
 
-[Lex Konnelly](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lex-konnelly), [Lisa Schlegl](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lisa-schlegl), [Lauren Bigelow](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lauren-bigelow), [Pocholo Umbal](https://www.linguistics.utoronto.ca/people/directories/graduate-students/pocholo-umbal), [Vidhya Elango](https://www.linguistics.utoronto.ca/people/directories/graduate-students/vidhya-elango)
+\*{{site.data.members.aht1}}, {{site.data.members.aht2}}, {{site.data.members.aht3}}, {{site.data.members.aht4}}, {{site.data.members.aht5}}
 
 > Jobs include updating code of conduct, making a value statement, checking the pub emails, establishing the points of contact to bring concerns, etc.
 
 ### Swag Committee
 
-[Crystal Chen](https://www.linguistics.utoronto.ca/people/directories/graduate-students/crystal-chen), [Marjorie Leduc](https://www.linguistics.utoronto.ca/people/directories/graduate-students/marjorie-leduc), [Radu Craioveanu](https://www.linguistics.utoronto.ca/people/directories/graduate-students/radu-craioveanu)
+\*{{site.data.members.swag1}}, {{site.data.members.swag2}}, {{site.data.members.swag3}}
 
 > In charge of distributing LGCU t-shirts and developing additional LGCU fandom opportunities.
 
