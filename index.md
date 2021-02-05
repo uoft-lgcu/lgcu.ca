@@ -42,3 +42,6 @@ Test10 = {{site.members.data.president2 | downcase | replace: " ", "-"}}
 
 Test11 = {{site.members.data.president2 | slugify}}
 
+Test12 = {{site.members.data.president2}}
+
+Test13 = {{{{site.members.data.president2}} | slugify}}
