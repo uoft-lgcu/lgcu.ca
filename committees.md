@@ -148,7 +148,7 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Plants and Beautification Committee
 
-\*{{site.data.member.plant1}}, {{site.data.member.plant2}}, {{site.data.member.plant3}}, {{site.data.member.plant4}}, {{site.data.member.plant5}}
+\*{{site.data.members.plant1}}, {{site.data.members.plant2}}, {{site.data.members.plant3}}, {{site.data.members.plant4}}, {{site.data.members.plant5}}
 
 > Plant plants, and do other things to make the departmental space aesthetically appealing.
 
