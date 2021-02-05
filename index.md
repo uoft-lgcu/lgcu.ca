@@ -39,3 +39,6 @@ Test7 = {{"Lex Konnelly" | downcase | replace: " ", "-"}}
 Test9 = {{"Lex Konnelly" | slugify}}
 
 Test10 = {{site.members.data.president2 | downcase | replace: " ", "-"}}
+
+Test11 = {{site.members.data.president2 | slugify}}
+
