@@ -39,3 +39,7 @@ Test3 = [{{site.data.members.president1a.name}}]({{site.data.members.president1a
 Test4 = [{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1a.link2}})
 
 Test5 = [{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1 | handleize}} "Department directory entry for {{site.data.members.president1}}")
+
+Test6 = {{Lex Konnelly | handleize}}
+
+Test7 = {{"Lex Konnelly" | handleize}}
