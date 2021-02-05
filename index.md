@@ -29,3 +29,13 @@ Linguistics (TWPL).
 # Contact us
 
 Current LGCU co-presidents: {{site.data.members.president1}} and {{site.data.members.president2}}.
+
+Test1 = [Lex Konnelly](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lex-konnelly)
+
+Test2 = [{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lex-konnelly)
+
+Test3 = [{{site.data.members.president1a.name}}]({{site.data.members.president1a.link1}})
+
+Test4 = [{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1a.link2}})
+
+Test5 = {{site.data.members.president1b}}
