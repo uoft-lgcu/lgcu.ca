@@ -7,10 +7,6 @@ layout: page
 exclude: true
 ---
 
-Test2 = {{site.data.members.test1.name}}
-
-Test3 = {{site.data.members.test2}}
-
 # About the LGCU
 
 All of the students enrolled in graduate programs offered by the Department of
@@ -32,4 +28,4 @@ Linguistics (TWPL).
 
 # Contact us
 
-Current LGCU co-presidents: {{site.president1}} and {{site.president2}}.
+Current LGCU co-presidents: {{site.data.members.president1}} and {{site.data.members.president2}}.
