@@ -38,10 +38,10 @@ Test7 = {{"Lex Konnelly" | downcase | replace: " ", "-"}}
 
 Test9 = {{"Lex Konnelly" | slugify}}
 
-Test10 = {{site.members.data.president2 | downcase | replace: " ", "-"}}
+Test10 = {{site.data.members.president2 | downcase | replace: " ", "-"}}
 
-Test11 = {{site.members.data.president2 | slugify}}
+Test11 = {{site.data.members.president2 | slugify}}
 
-Test12 = {{site.members.data.president2}}
+Test12 = {{site.data.members.president2}}
 
-Test13 = {{{{site.members.data.president2}} | slugify}}
+Test13 = {{{{site.data.members.president2}} | slugify}}
