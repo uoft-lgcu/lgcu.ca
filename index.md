@@ -30,6 +30,12 @@ Linguistics (TWPL).
 
 Current LGCU co-presidents: {{site.data.members.president1}} and {{site.data.members.president2}}.
 
+Test1 = {{site.data.members.president1}}, {{site.data.members.president1 | handleize}}
+
+Test2 = [{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1 | handleize}})
+
 Test3 = [{{site.data.members.president1a.name}}]({{site.data.members.president1a.link1}})
 
 Test4 = [{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1a.link2}})
+
+Test5 = [{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1 | handleize}} "Department directory entry for {{site.data.members.president1}}")
