@@ -43,3 +43,7 @@ Test5 = [{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/p
 Test6 = {{Lex Konnelly | downcase | replace: " ", "-"}}
 
 Test7 = {{"Lex Konnelly" | downcase | replace: " ", "-"}}
+
+Test8 = {{Lex Konnelly | slugify}}
+
+Test9 = {{"Lex Konnelly" | slugify}}
