@@ -34,14 +34,6 @@ Test2 = [{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/p
 
 Test5 = [{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1 | slugify}} "Department directory entry for {{site.data.members.president1}}")
 
-Test7 = {{"Lex Konnelly" | downcase | replace: " ", "-"}}
-
-Test9 = {{"Lex Konnelly" | slugify}}
-
 Test10 = {{site.data.members.president2 | downcase | replace: " ", "-"}}
 
 Test11 = {{site.data.members.president2 | slugify}}
-
-Test12 = {{site.data.members.president2}}
-
-Test13 = {{{{site.data.members.president2}} | slugify}}
