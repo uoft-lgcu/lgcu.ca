@@ -4,7 +4,7 @@ test1:
 test2: BumberBill Balloon
 
 # LGCU Executive Positions
-president1: Lex Konnelly
+president1: "Lex Konnelly"
 president1a:
   name: Lex Konnelly
   link1: https://www.linguistics.utoronto.ca/people/directories/graduate-students/lex-konnelly
