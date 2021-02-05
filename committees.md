@@ -10,25 +10,25 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Presidents
 
-[Lex Konnelly](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lex-konnelly), [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis)
+{{site.data.members.president1}}, {{site.data.members.president2}}
 
 > Represent the LGCU to the department; attend department meetings; organize LGCU meetings; various other duties.
 
 ### Treasurer
 
-[Shabri Kapoor](https://www.linguistics.utoronto.ca/people/directories/graduate-students/shabri-kapoor)
+{{site.data.members.treasurer}}
 
 > Manages the LGCU's finances.
 
 ### Secretary
 
-[Kaz Bamba](https://www.linguistics.utoronto.ca/people/directories/graduate-students/kazuya-bamba)
+{{site.data.members.secretary}}
 
 > Takes minutes at meetings and provides related support.
 
 ### GSU Representatives
 
-[Robert Prazeres](https://www.linguistics.utoronto.ca/people/directories/graduate-students/robert-prazeres)
+{{site.data.members.gsu_rep}}
 
 > Attend monthly GSU council meetings.
 
@@ -36,21 +36,23 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### CUPE Stewards
 
-[Vidhya Elango](https://www.linguistics.utoronto.ca/people/directories/graduate-students/vidhya-elango), [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis) (UTM), [Andrew Peters](https://www.linguistics.utoronto.ca/people/directories/graduate-students/andrew-peters) (UTSC)
+{{site.data.members.cupe_stg}}, {{site.data.members.cupe_utm}} (UTM), {{site.data.members.cupe_utsc}} (UTSC)
 
 > Represent the department in CUPE3902; attend Steward Council meetings. Elected by the CUPE members of the LGCU (those who have a TA appointment for 50 hours or more).
 
 ## Departmental committees
 
+(\* denotes the contact person for each committee)
+
 ### Curriculum Committee
 
-[Radu Craioveanu](https://www.linguistics.utoronto.ca/people/directories/graduate-students/radu-craioveanu), [Lisa Sullivan](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lisa-sullivan)
+\*{{site.data.members.curriculum1}}, {{site.data.members.curriculum2}}
 
 > Attend departmental curriculum committee meetings; convey information to graduate students.
 
 ### WHITL (Blog) Committee
 
-[Will Williams](https://www.linguistics.utoronto.ca/people/directories/graduate-students/will-williams)
+\*{{site.data.members.whitl1}}
 
 > Write posts for the departmental blog, do interviews, take photographs, etc.
 
@@ -64,7 +66,7 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Library Committee
 
-[Liam Donohue](https://www.linguistics.utoronto.ca/people/directories/graduate-students/liam-donohue), [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis)
+\*{{site.data.members.library1}}, {{site.data.members.library2}}
 
 > Manage the departmental collection of books, journals, etc.
 
@@ -74,43 +76,43 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### TWPL Chair
 
-[Pocholo Umbal](https://www.linguistics.utoronto.ca/people/directories/graduate-students/pocholo-umbal)
+\*{{site.data.members.twpl_chair}}
 
 > Oversees the departmental journal, Toronto Working Papers in Linguistics.
 
 ### TWPL Editors
 
-[Pocholo Umbal](https://www.linguistics.utoronto.ca/people/directories/graduate-students/pocholo-umbal), [Angelika Kiss](https://www.linguistics.utoronto.ca/people/directories/graduate-students/angelika-kiss), [Alec Kienzle](https://www.linguistics.utoronto.ca/people/directories/graduate-students/alec-kienzle), [Lauren Bigelow](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lauren-bigelow), [Shabri Kapoor](https://www.linguistics.utoronto.ca/people/directories/graduate-students/shabri-kapoor), [Koorosh Ariyaee](https://www.linguistics.utoronto.ca/people/directories/graduate-students/koorosh-ariyaee), [Kiranpreet Nara](https://www.linguistics.utoronto.ca/people/directories/graduate-students/kiranpreet-nara), [Lisa Schlegl](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lisa-schlegl), [Emilia Melara](https://www.linguistics.utoronto.ca/people/directories/graduate-students/emilia-melara), [Heather Yawney](https://www.linguistics.utoronto.ca/people/directories/graduate-students/heather-yawney), [Justin Leung](https://www.linguistics.utoronto.ca/people/directories/graduate-students/justin-leung), [Andrew Peters](https://www.linguistics.utoronto.ca/people/directories/graduate-students/andrew-peters), [Nadia Takhtaganova](https://www.linguistics.utoronto.ca/people/directories/graduate-students/nadia-takhtaganova), [Kaleigh Woolford](https://www.linguistics.utoronto.ca/people/directories/graduate-students/kaleigh-woolford)
+{{site.data.members.twpl1}}, {{site.data.members.twpl2}}, {{site.data.members.twpl3}}, {{site.data.members.twpl4}}, {{site.data.members.twpl5}}, {{site.data.members.twpl6}}, {{site.data.members.twpl7}}, {{site.data.members.twpl8}}, {{site.data.members.twpl9}}, {{site.data.members.twpl10}}, {{site.data.members.twpl11}}, {{site.data.members.twpl12}}, {{site.data.members.twpl13}}, {{site.data.members.twpl14}}
 
 > Edit articles to appear in TWPL.
 
 ### Fall Campus Day
 
-[Talia Tahtadjian](https://www.linguistics.utoronto.ca/people/directories/graduate-students/talia-tahtadjian), [Laurestine Bradford](https://www.linguistics.utoronto.ca/people/directories/graduate-students/laurestine-bradford), [Anissa Baird](https://www.linguistics.utoronto.ca/people/directories/graduate-students/anissa-baird)
+\*{{site.data.members.fall_campus1}}, {{site.data.members.fall_campus2}}, {{site.data.members.fall_campus3}}
 
 > Be present at the Department of Linguistics booth for around 3 hours in order to answer questions from high-school students and their parents.
 
 ### March Break Open House
 
-[Talia Tahtadjian](https://www.linguistics.utoronto.ca/people/directories/graduate-students/talia-tahtadjian), [Marjorie Leduc](https://www.linguistics.utoronto.ca/people/directories/graduate-students/marjorie-leduc), [Crystal Chen](https://www.linguistics.utoronto.ca/people/directories/graduate-students/crystal-chen)
+\*{{site.data.members.march_open1}}, {{site.data.members.march_open2}}, {{site.data.members.march_open3}}
 
 > Be present at the Department of Linguistics booth for around 3 hours in order to answer questions from high-school students and their parents.
 
 ### SIG Representatives
 
-[Kaleigh Woolford](https://www.linguistics.utoronto.ca/people/directories/graduate-students/kaleigh-woolford) (fall), [Virgilio Partida Peñalva](https://www.linguistics.utoronto.ca/people/directories/graduate-students/virgilio-partida-peñalva) (winter)
+{{site.data.members.sig_fall}} (fall), {{site.data.members.sig_winter}} (winter)
 
 > Represent the graduate students on the departmental SSHRC Institutional Grant Program committee.
 
 ### Equity Committee
 
-[Bruno Andreotti](https://www.linguistics.utoronto.ca/people/directories/graduate-students/bruno-andreotti)
+\*{{site.data.members.equity1}}
 
 > Promote inclusion, equality, and anti-oppressive measures within the department.
 
 ### Departmental Website Committee
 
-[Ana Tona Messina](https://www.linguistics.utoronto.ca/people/directories/graduate-students/ana-tona-messina)
+\*{{site.data.members.department_website1}}
 
 > Provide input into the development and content of the department website.
 
@@ -146,7 +148,7 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Plants and Beautification Committee
 
-[Liam Donohue](https://www.linguistics.utoronto.ca/people/directories/graduate-students/liam-donohue), [Lex Konnelly](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lex-konnelly), [Vidhya Elango](https://www.linguistics.utoronto.ca/people/directories/graduate-students/vidhya-elango), [Lisa Schlegl](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lisa-schlegl), [Koorosh Ariyaee](https://www.linguistics.utoronto.ca/people/directories/graduate-students/koorosh-ariyaee)
+\*{{site.data.member.plant1}}, {{site.data.member.plant2}}, {{site.data.member.plant3}}, {{site.data.member.plant4}}, {{site.data.member.plant5}}
 
 > Plant plants, and do other things to make the departmental space aesthetically appealing.
 
@@ -154,61 +156,63 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Welcoming Committee
 
-[Pocholo Umbal](https://www.linguistics.utoronto.ca/people/directories/graduate-students/pocholo-umbal), [Shabri Kapoor](https://www.linguistics.utoronto.ca/people/directories/graduate-students/shabri-kapoor), [Liam Donohue](https://www.linguistics.utoronto.ca/people/directories/graduate-students/liam-donohue), [Zhanao Fu](https://www.linguistics.utoronto.ca/people/directories/graduate-students/zhanao-fu)
+\*{{site.data.members.welcoming1}}, {{site.data.members.welcoming2}}, {{site.data.members.welcoming3}}, {{site.data.members.welcoming4}}
 
 > Answer questions from incoming students; arrange welcome lunch and tour in September.
 
 ### Job Application Workshop Series (JAWS) Committee
 
-[Lauren Bigelow](https://www.linguistics.utoronto.ca/people/directories/graduate-students/lauren-bigelow), [Katharina Pabst](https://www.linguistics.utoronto.ca/people/directories/graduate-students/katharina-pabst)
+\*{{site.data.members.jaws1}}, {{site.data.members.jaws2}}
 
 > Organizes JAWS events (approximately one per term).
 
 ### Computer Committee
 
-[Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson), [Tim Gadanidis](https://www.linguistics.utoronto.ca/people/directories/graduate-students/timothy-gadanidis)
+\*{{site.data.members.computer1}}, {{site.data.members.computer2}}
 
 > Help maintain the machines in the grad student computer lab.
 
 ### Space Assignment/Management/Safety Committee
 
-[Kelly-Ann Blake](https://www.linguistics.utoronto.ca/people/directories/graduate-students/kelly-ann-blake), [Shabri Kapoor](https://www.linguistics.utoronto.ca/people/directories/graduate-students/shabri-kapoor), [Ilia Nicoll](https://www.linguistics.utoronto.ca/people/directories/graduate-students/ilia-nicoll)
+\*{{site.data.members.space1}}, {{site.data.members.space2}}, {{site.data.members.space3}}
 
 > Handle grad space desk assignments and complaints about space usage.
 
 ### TA Evaluations
 
-[Nadia Takhtaganova](https://www.linguistics.utoronto.ca/people/directories/graduate-students/nadia-takhtaganova)
+\*{{site.data.members.ta_eval1}}
 
 > Receives and holds onto TA evaluations; distributes these to TAs after they have finished all grading for courses.
 
 ### Tutoring Coordinator
 
-[Kaz Bamba](https://www.linguistics.utoronto.ca/people/directories/graduate-students/kazuya-bamba)
+\*{{site.data.members.tutoring1}}
 
 > Checks email for tutoring requests; announces available positions to the tutoring list.
 
 ### Writing Support
 
-[Christopher Legerme](https://www.linguistics.utoronto.ca/people/directories/graduate-students/christopher-legerme), [Nadia Takhtaganova](https://www.linguistics.utoronto.ca/people/directories/graduate-students/nadia-takhtaganova), [Marjorie Leduc](https://www.linguistics.utoronto.ca/people/directories/graduate-students/marjorie-leduc)
+\*{{site.data.members.writing1}}, {{site.data.members.writing2}}, {{site.data.members.writing3}}
 
 > Provide feedback to grad students seeking support with their academic writing.
 
 ### Mindsweeper Wellness Committee
 
-[Nicki Butler](https://www.linguistics.utoronto.ca/people/directories/graduate-students/nicoline-butler), [Angelika Kiss](https://www.linguistics.utoronto.ca/people/directories/graduate-students/angelika-kiss), [Jessica Yeung](https://www.linguistics.utoronto.ca/people/directories/graduate-students/jessica-yeung), [Heather Yawney](https://www.linguistics.utoronto.ca/people/directories/graduate-students/heather-yawney)
+\*{{site.data.members.mindsweeper1}}, {{site.data.members.mindsweeper2}}, {{site.data.members.mindsweeper3}}, {{site.data.members.mindsweeper4}}
 
 > Create and maintain a positive and healthy work environment for all graduate students in our department.
 
 ### Social Coordinators
 
-[Fiona Wilson](https://www.linguistics.utoronto.ca/people/directories/graduate-students/fiona-wilson), [Kaleigh Woolford](https://www.linguistics.utoronto.ca/people/directories/graduate-students/kaleigh-woolford)
+\*{{site.data.members.social1}}, {{site.data.members.social2}}
 
 > Organize social activities.
 
 ### Downstairs Grad Space Fridge/Small Appliance Committee
 
-[Pocholo Umbal](https://www.linguistics.utoronto.ca/people/directories/graduate-students/pocholo-umbal)
+\*{{site.data.members.downstairs_appliance1}}
+
+[](https://www.linguistics.utoronto.ca/people/directories/graduate-students/pocholo-umbal)
 
 > Like the upstairs committees for the same things, but at a lower altitude.
 
