@@ -43,3 +43,7 @@ One is less than two.
 {% if site.data.members.president1 %}}
 There is a president.
 {% endif %}
+
+{% if site.data.members.president1 contains " " %}
+There is a space in the president's name.
+{% endif %}
