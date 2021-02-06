@@ -35,3 +35,7 @@ This is a test. Please work.
 Hello {{site.data.members.test2}}
 
 Hello {{site.data.members.test1.name}}
+
+{% if 1 < 2 %}
+One is less than two.
+{% endif %}
