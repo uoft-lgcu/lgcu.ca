@@ -28,39 +28,4 @@ Linguistics (TWPL).
 
 # Contact us
 
-Current LGCU co-presidents: [{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1 | slugify}} "Department directory entry for {{site.data.members.president1}}") and [{{site.data.members.president2}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president2 | slugify}} "Department directory entry for {{site.data.members.president2}}").
-
-This is a test. Please work.
-
-Hello {{site.data.members.test2}}
-
-Hello {{site.data.members.test1.name}}
-
-{% if 1 < 2 %}
-One is less than two.
-{% endif %}
-
-{% if site.data.members.president1 %}
-There is a president.
-{% endif %}
-
-{% if site.data.members.president1 contains " " %}
-There is a space in the president's name.
-{% endif %}
-
-{% if site.data.members.test1.name %}
-There is a tester.
-{% endif %}
-
-{% if site.data.members.president3.fullname %}
-{{site.data.members.president3.fullname}}
-{% else %}
-{{site.data.members.president3}}
-{% endif %}
-
-
-{% if site.data.members.president1.fullname %}
-{{site.data.members.president3.fullname}}
-{% else %}
-{{site.data.members.president1}}
-{% endif %}
+Current LGCU co-presidents: {% if site.data.members.president1.fullname %}[{{site.data.members.president1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1.fullname | slugify}} "Department directory entry for {{site.data.members.president1.name}}"){% else %}[{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1 | slugify}} "Department directory entry for {{site.data.members.president1}}"){% endif %} and {% if site.data.members.president2.fullname %}[{{site.data.members.president2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president2.fullname | slugify}} "Department directory entry for {{site.data.members.president2.name}}"){% else %}[{{site.data.members.president2}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president2 | slugify}} "Department directory entry for {{site.data.members.president2}}"){% endif %}.
