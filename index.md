@@ -29,5 +29,3 @@ Linguistics (TWPL).
 # Contact us
 
 Current LGCU co-presidents: {% if site.data.members.president1.fullname %}[{{site.data.members.president1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1.fullname | slugify}} "Department directory entry for {{site.data.members.president1.name}}"){% else %}[{{site.data.members.president1}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1 | slugify}} "Department directory entry for {{site.data.members.president1}}"){% endif %} and {% if site.data.members.president2.fullname %}[{{site.data.members.president2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president2.fullname | slugify}} "Department directory entry for {{site.data.members.president2.name}}"){% else %}[{{site.data.members.president2}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president2 | slugify}} "Department directory entry for {{site.data.members.president2}}"){% endif %}.
-
-Testing.
