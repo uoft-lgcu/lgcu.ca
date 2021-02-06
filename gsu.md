@@ -10,7 +10,7 @@ Members can participate in the General Council, and act as a Course Union Repres
 
 In addition to advocating for increased student representation and funding, the UTGSU provides graduate students with health insurance and various types of funding support (conference bursaries, Course Union grants, etc.).
 
-The UTGSU building is located at 16 Bancroft Avenue, and contains the union and Health and Dental Insurance Offices, a gym available for booking by graduate students, and the Harvest Noon Café. 16 Bancroft Avenue is also home to the GSU pub, where we of the LGCU hold our weekly pub-night (in years without pandemics).
+The UTGSU building is located at 16 Bancroft Avenue, and contains the union and Health and Dental Insurance Offices, a gym available for booking by graduate students, and the Harvest Noon Café. 16 Bancroft Avenue is also home to the GSU pub, where we of the LGCU hold our weekly pub-night (though this has currently moved online due to COVID-19).
 
 ## UTGSU activities
 
