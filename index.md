@@ -51,3 +51,9 @@ There is a space in the president's name.
 {% if site.data.members.test1.name %}
 There is a tester.
 {% endif %}
+
+{% if site.data.members.president3.fullname %}
+{{site.data.members.president3.fullname}}
+{% else %}
+{{site.data.members.president3}}
+{% endif %}
