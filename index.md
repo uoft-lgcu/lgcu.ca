@@ -33,3 +33,5 @@ Current LGCU co-presidents: [{{site.data.members.president1}}](https://www.lingu
 This is a test. Please work.
 
 Hello {{site.data.members.test2}}
+
+Hello {{site.data.members.test1.name}}
