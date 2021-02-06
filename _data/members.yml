@@ -1,8 +1,12 @@
-test1:
-  name: Coddleswap Kitchen
-  link1: coddeswap-kitchen
-  
-test2: BumberBill Balloon
+# How to make an entry:
+# If the name used on the department website entry for the LGCU member is their preferred name, use the format:
+role1: "Firstname Lastname"
+# If the member's preferred name is *different* from the one used on their department website entry (for any reason), use the format:
+role2:
+  name: "Preferred Name"
+  fullname: "Departmentwebsite Name"
+# This formatting will make it so that the member's preferred name appears in text and metatext on the LGCU website, but the links to their contact inforamtion on the
+# Department website remain functional.
 
 # Note: when updating, if the number of individuals who have a role changes (increasing or decreasing), updates will also have to be made to the "committees" page.
 # New additions will not otherwise be listed on the committees page. Decreasing the number will probably just result in some excess commas.
@@ -11,8 +15,7 @@ test2: BumberBill Balloon
 
 # LGCU Executive Positions
 president1: "Lex Konnelly"
-president2: "Tim Gadanidis"
-president3:
+president2: 
   name: "Tim Gadanidis"
   fullname: "Timothy Gadanidis"
 treasurer: "Shabri Kapoor"
@@ -22,7 +25,9 @@ gsu_rep: "Robert Prazeres"
 # CUPE Representatives
 cupe_stg: "Vidhya Elango"
 cupe_utsc: "Andrew Peters"
-cupe_utm: "Tim Gadanidis"
+cupe_utm:
+  name: "Tim Gadanidis"
+  fullname: "Timothy Gadanidis"
 
 # LGCU Departmental Committees (note: committee1 should always be contact person, referenced in-text if only one member is)
 
@@ -35,7 +40,9 @@ whitl1: "Will Williams"
 
 # Library committee
 library1: "Liam Donohue"
-library2: "Tim Gadanidis"
+library2:
+  name: "Tim Gadanidis"
+  fullname: "Timothy Gadanidis"
 
 # Toronto working papers in linguistics
 twpl_chair: "Pocholo Umbal"
@@ -93,7 +100,9 @@ jaws2: "Katharina Pabst"
 
 # Computer committee
 computer1: "Fiona Wilson"
-computer2: "Tim Gadanidis"
+computer2:
+  name: "Tim Gadanidis"
+  fullname: "Timothy Gadanidis"
 
 # Space committee
 space1: "Kelly-Ann Blake"
@@ -130,7 +139,9 @@ buddy2: "Koorosh Ariyaee"
 
 # LGCU website committee
 website1: "Fiona Wilson"
-website2: "Tim Gadanidis"
+website2:
+  name: "Tim Gadanidis"
+  fullname: "Timothy Gadanidis"
 website3: "Will Williams"
 website4: "Laurestine Bradford"
 website5: "Justin Leung"
@@ -161,7 +172,9 @@ swag3: "Radu Craioveanu"
 # Members with specific responsibilities
 printer: "Radu Craioveanu"
 facebook: "Fiona Wilson"
-zulip: "Tim Gadanidis"
+zulip:
+  name: "Tim Gadanidis"
+  fullname: "Timothy Gadanidis"
 
 # Non-members referenced on the website (typically linguistics faculty or staff)
 departmental_officer: "Mary Hsu"
