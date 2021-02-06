@@ -39,3 +39,7 @@ Hello {{site.data.members.test1.name}}
 {% if 1 < 2 %}
 One is less than two.
 {% endif %}
+
+{% if site.data.members.president1 %}}
+There is a president.
+{% endif %}
