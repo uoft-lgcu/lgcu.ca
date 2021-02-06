@@ -57,3 +57,10 @@ There is a tester.
 {% else %}
 {{site.data.members.president3}}
 {% endif %}
+
+
+{% if site.data.members.president1.fullname %}
+{{site.data.members.president3.fullname}}
+{% else %}
+{{site.data.members.president1}}
+{% endif %}
