@@ -21,7 +21,9 @@ president2:
   name: "Tim Gadanidis"
   fullname: "Timothy Gadanidis"
 treasurer: "Shabri Kapoor"
-secretary: "Kaz Bamba"
+secretary:
+  name: "Kaz Bamba"
+  fullname: "Kazuya Bamba"
 gsu_rep: "Robert Prazeres"
 
 # CUPE Representatives
@@ -115,7 +117,9 @@ space3: "Ilia Nicoll"
 ta_eval1: "Nadia Takhtaganova"
 
 # Tutoring coordinator
-tutoring1: "Kaz Bamba"
+tutoring1:
+  name: "Kaz Bamba"
+  fullname: "Kazuya Bamba"
 
 # Writing support
 writing1: "Christopher Legerme"
@@ -152,10 +156,14 @@ website5: "Justin Leung"
 tasea1: "Lisa Schlegl"
 tasea2: "Lisa Sullivan"
 tasea3: "Koorosh Ariyaee"
-tasea4: "Kaz Bamba"
+tasea4:
+  name: "Kaz Bamba"
+  fullname: "Kazuya Bamba"
 
 # Outreach committee
-outreach1: "Greg Antono"
+outreach1:
+  name: "Greg Antono"
+  fullname: "Gregory Antono"
 outreach2: "Talia Tahtadjian"
 outreach3: "Laurestine Bradford"
 
