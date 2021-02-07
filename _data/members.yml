@@ -10,9 +10,6 @@ role2:
 
 # Note: when updating, if the number of individuals who have a role changes (increasing or decreasing), updates will also have to be made to the "committees" page.
 # New additions will not otherwise be listed on the committees page. Decreasing the number will probably just result in some excess commas.
-
-test_var: {% if 1 < 2 %}One is less than two.{% endif %}
-
 # Note: where relevant, the contact person for each committee should be listed in the "role1" variable
 
 # LGCU Executive Positions
