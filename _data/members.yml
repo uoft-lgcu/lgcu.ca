@@ -82,13 +82,6 @@ equity1: "Bruno Andreotti"
 # Departmental website committee
 department_website1: "Ana Tona Messina"
 
-# Plants and beautification committee
-plant1: "Liam Donohue"
-plant2: "Lex Konnelly"
-plant3: "Vidhya Elango"
-plant4: "Lisa Schlegl"
-plant5: "Koorosh Ariyaee"
-
 # Welcoming committee
 welcoming1: "Pocholo Umbal"
 welcoming2: "Shabri Kapoor"
@@ -175,6 +168,34 @@ aht5: "Vidhya Elango"
 swag1: "Crystal Chen"
 swag2: "Marjorie Leduc"
 swag3: "Radu Craioveanu"
+
+# Welcome Workshop committee **Note:** Membership updates at the mid-year meeting for this committee
+welcome1: "Liam Donohue"
+
+# Currently defunct Departmental committees (due to COVID-19)
+# Guest speaker committee
+# Reception committee
+
+# Lounge committees
+
+# Plants and beautification committee
+plant1: "Liam Donohue"
+plant2: "Lex Konnelly"
+plant3: "Vidhya Elango"
+plant4: "Lisa Schlegl"
+plant5: "Koorosh Ariyaee"
+
+# Currently defunct Lounge committees (due to COVID-19)
+# Fridge cleaning committee
+# Small appliance maintenance committee
+# Dish towel rotation
+# Milk persons
+# Pop committee
+# Coffee Mates
+# CommitTea
+
+# Ad-Hoc committees
+# [needs to be updated]
 
 # Members with specific responsibilities
 printer: "Radu Craioveanu"
