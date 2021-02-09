@@ -72,7 +72,7 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Welcome Workshop Committee
 
-\*{{site.data.members.welcome1}}
+\*{{site.data.members.welcomeworkshop1}}, {{site.data.members.welcomeworkshop2}}, {{site.data.members.welcomeworkshop3}}, {{site.data.members.welcomeworkshop4}}
 
 > Organize the annual LGCU Welcome Workshop held in the fall for new graduate students. 
 
