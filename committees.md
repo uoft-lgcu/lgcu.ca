@@ -57,11 +57,11 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 > Write posts for the departmental blog, do interviews, take photographs, etc.
 
 [//]: # (Guest Speaker Committee)
-[//]: # (Becky Tollan, Tomohiro Yokoyama)
+[//]: # (Unassigned)
 [//]: # (Plan and make arrangements for visiting guest speakers.)
 
 [//]: # (Reception Committee)
-[//]: # (Jessica Yeung, Radu Craioveanu, Dan Milway, Ross Godfrey, Virgilio Partida Penalva)
+[//]: # (Unassigned)
 [//]: # (Shop for and set up departmental receptions.)
 
 ### Library Committee
@@ -70,9 +70,11 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 > Manage the departmental collection of books, journals, etc.
 
-[//]: # (Welcome Workshop Committee)
-[//]: # (Ruth Maddeaux, Erin Hall, Patrick Murphy)
-[//]: # (Organize the annual LGCU Welcome Workshop held in the fall for new graduate students.)
+### Welcome Workshop Committee
+
+\*{{site.data.members.welcome1}}
+
+> Organize the annual LGCU Welcome Workshop held in the fall for new graduate students. 
 
 ### TWPL Chair
 
@@ -119,32 +121,36 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 [//]: # (Lounge committees)
 
 [//]: # (Fridge Cleaning Committee)
-[//]: # (Kinza Mahoon, Izzy Erlich, Brea Lutton)
+[//]: # (Unassigned)
 [//]: # (Purge/clean the lounge fridge once per term.)
 
 [//]: # (Small Appliance Maintenance Committee)
-[//]: # (Frederick Gietz, Cater Chen)
+[//]: # (Unassigned)
 [//]: # (Clean the microwave/toaster oven/espresso machine occasionally.)
 
 [//]: # (Dish-Towel Rotation)
-[//]: # (Izzy Erlich, Robert Prazeres, Melanie Röthlisberger)
+[//]: # (Unassigned)
 [//]: # (Occasionally take home the lounge dish towels and wash them.)
 
 [//]: # (Pop Committee)
-[//]: # (Erin Hall, Izzy Erlich, Ross Godfrey, Tomohiro Yokoyama)
+[//]: # (Unassigned)
 [//]: # (Purchase pop and restock the lounge pop fridge.)
 
 [//]: # (Milkpersons)
-[//]: # (Becky Tollan, Ilia Nicoll, Andrei Munteanu)
+[//]: # (Unassigned)
 [//]: # (Purchase milk for lounge coffee.)
 
 [//]: # (Coffee Mates)
-[//]: # (Ross Godfrey, Frederick Gietz)
+[//]: # (Unassigned)
 [//]: # (Order coffee when it runs out; handle finances.)
 
 [//]: # (CommitTEA)
-[//]: # (Fiona Wilson, Clarissa Forbes, Na-Young Ryu, Jessica Yeung)
+[//]: # (Unassigned)
 [//]: # (Coordinate TEAm membership. (Buying exotic teas is their specialTEA.))
+
+[//]: # (Downstairs Grad Space Fridge/Small Appliance Committee)
+[//]: # (Pocholo Umbal)
+[//]: # (Like the upstairs committees for the same things, but at a lower altitude.)
 
 ### Plants and Beautification Committee
 
@@ -207,12 +213,6 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 \*{{site.data.members.social1}}, {{site.data.members.social2}}
 
 > Organize social activities.
-
-### Downstairs Grad Space Fridge/Small Appliance Committee
-
-\*{{site.data.members.downstairs_appliance1}}
-
-> Like the upstairs committees for the same things, but at a lower altitude.
 
 ### Buddy Program Committee
 
