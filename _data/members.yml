@@ -15,19 +15,27 @@ role2:
 # LGCU Executive Positions
 president1: 
   name: "Lex Konnelly"
-  fullname: {{site.data.members.president1.name}}
+  fullname: "Lex Konnelly"
 president2: 
   name: "Tim Gadanidis"
   fullname: "Timothy Gadanidis"
-treasurer: "Shabri Kapoor"
+treasurer: 
+  name: "Shabri Kapoor"
+  fullname: "Shabri Kapoor"
 secretary:
   name: "Kaz Bamba"
   fullname: "Kazuya Bamba"
-gsu_rep: "Robert Prazeres"
+gsu_rep: 
+  name: "Robert Prazeres"
+  fullname: "Robert Prazeres"
 
 # CUPE Representatives
-cupe_stg: "Vidhya Elango"
-cupe_utsc: "Andrew Peters"
+cupe_stg: 
+  name: "Vidhya Elango"
+  fullname: "Vidhya Elango"
+cupe_utsc: 
+  name: "Andrew Peters"
+  fullname: "Andrew Peters"
 cupe_utm:
   name: "Tim Gadanidis"
   fullname: "Timothy Gadanidis"
@@ -35,78 +43,158 @@ cupe_utm:
 # LGCU Departmental Committees (note: committee1 should always be contact person, referenced in-text if only one member is)
 
 # Curriculum committee
-curriculum1: "Radu Craioveanu"
-curriculum2: "Lisa Sullivan"
+curriculum1: 
+  name: "Radu Craioveanu"
+  fullname: "Radu Craioveanu"
+curriculum2: 
+  name: "Lisa Sullivan"
+  fullname: "Lisa Sullivan"
 
 # WHITL blog committee
-whitl1: "Will Williams"
+whitl1: 
+  name: "Will Williams"
+  fullname: "Will Williams"
 
 # Library committee
-library1: "Liam Donohue"
+library1: 
+  name: "Liam Donohue"
+  fullname: "Liam Donohue"
 library2:
   name: "Tim Gadanidis"
   fullname: "Timothy Gadanidis"
 
 # Toronto working papers in linguistics
-twpl_chair: "Pocholo Umbal"
-twpl1: "Pocholo Umbal"
-twpl2: "Angelika Kiss"
-twpl3: "Alec Kienzle"
-twpl4: "Lauren Bigelow"
-twpl5: "Shabri Kapoor"
-twpl6: "Koorosh Ariyaee"
-twpl7: "Kiranpreet Nara"
-twpl8: "Lisa Schlegl"
-twpl9: "Emilia Melara"
-twpl10: "Heather Yawney"
-twpl11: "Justin Leung"
-twpl12: "Andrew Peters"
-twpl13: "Nadia Takhtaganova"
-twpl14: "Kaleigh Woolford"
+twpl_chair: 
+  name: "Pocholo Umbal"
+  fullname: "Pocholo Umbal"
+twpl1: 
+  name: "Pocholo Umbal"
+  fullname: "Pocholo Umbal"
+twpl2: 
+  name: "Angelika Kiss"
+  fullname: "Angelika Kiss"
+twpl3: 
+  name: "Alec Kienzle"
+  fullname: "Alec Kienzle"
+twpl4: 
+  name: "Lauren Bigelow"
+  fullname: "Lauren Bigelow"
+twpl5:
+  name: "Shabri Kapoor"
+  fullname: "Shabri Kapoor"
+twpl6:
+  name: "Koorosh Ariyaee"
+  fullname: "Koorosh Ariyaee"
+twpl7:
+  name: "Kiranpreet Nara"
+  fullname: "Kiranpreet Nara"
+twpl8:
+  name: "Lisa Schlegl"
+  fullname: "Lisa Schlegl"
+twpl9:
+  name: "Emilia Melara"
+  fullname: "Emilia Melara"
+twpl10:
+  name: "Heather Yawney"
+  fullname: "Heather Yawney"
+twpl11:
+  name: "Justin Leung"
+  fullname: "Justin Leung"
+twpl12:
+  name: "Andrew Peters"
+  fullname: "Andrew Peters"
+twpl13:
+  name: "Nadia Takhtaganova"
+  fullname: "Nadia Takhtaganova"
+twpl14:
+  name: "Kaleigh Woolford"
+  fullname: "Kaleigh Woolford"
 
 # Fall campus day
-fall_campus1: "Talia Tahtadjian"
-fall_campus2: "Laurestine Bradford"
-fall_campus3: "Anissa Baird"
+fall_campus1:
+  name: "Talia Tahtadjian"
+  fullname: "Talia Tahtadjian"
+fall_campus2:
+  name: "Laurestine Bradford"
+  fullname: "Laurestine Bradford"
+fall_campus3:
+  name: "Anissa Baird"
+  fullname: "Anissa Baird"
 
 # March break open house
-march_open1: "Talia Tahtadjian"
-march_open2: "Marjorie Leduc"
-march_open3: "Crystal Chen"
+march_open1:
+  name: "Talia Tahtadjian"
+  fullname: "Talia Tahtadjian"
+march_open2:
+  name: "Marjorie Leduc"
+  fullname: "Marjorie Leduc"
+march_open3:
+  name: "Crystal Chen"
+  fullname: "Crystal Chen"
 
 # SIG representatives
-sig_fall: "Kaleigh Woolford"
-sig_winter: "Virgilio Partida Peñalva"
+sig_fall:
+  name: "Kaleigh Woolford"
+  fullname: "Kaleigh Woolford"
+sig_winter:
+  name: "Virgilio Partida Peñalva"
+  fullname: "Virgilio Partida Peñalva"
 
 # Equity committee
-equity1: "Bruno Andreotti"
+equity1:
+  name: "Bruno Andreotti"
+  fullname: "Bruno Andreotti"
 
 # Departmental website committee
-department_website1: "Ana Tona Messina"
+department_website1:
+  name: "Ana Tona Messina"
+  fullname: "Ana Tona Messina"
 
 # Welcoming committee
-welcoming1: "Pocholo Umbal"
-welcoming2: "Shabri Kapoor"
-welcoming3: "Liam Donohue"
-welcoming4: "Zhanao Fu"
+welcoming1:
+  name: "Pocholo Umbal"
+  fullname: "Pocholo Umbal"
+welcoming2:
+  name: "Shabri Kapoor"
+  fullname: "Shabri Kapoor"
+welcoming3:
+  name: "Liam Donohue"
+  fullname: "Liam Donohue"
+welcoming4:
+  name: "Zhanao Fu"
+  fullname: "Zhanao Fu"
 
 # Job Application Workshop Series (JAWS) committee
-jaws1: "Lauren Bigelow"
-jaws2: "Katharina Pabst"
+jaws1:
+  name: "Lauren Bigelow"
+  fullname: "Lauren Bigelow"
+jaws2:
+  name: "Katharina Pabst"
+  fullname: "Katharina Pabst"
 
 # Computer committee
-computer1: "Fiona Wilson"
+computer1:
+  name: "Fiona Wilson"
+  fullname: "Fiona Wilson"
 computer2:
   name: "Tim Gadanidis"
   fullname: "Timothy Gadanidis"
 
 # Space committee
-space1: "Kelly-Ann Blake"
-space2: "Shabri Kapoor"
-space3: "Ilia Nicoll"
+space1:
+  name: "Kelly-Ann Blake"
+  fullname: "Kelly-Ann Blake"
+space2:
+  name: "Shabri Kapoor"
+  fullname: "Shabri Kapoor"
+space3:
+  name: "Ilia Nicoll"
+  fullname: "Ilia Nicoll"
 
 # TA evaluations
-ta_eval1: "Nadia Takhtaganova"
+ta_eval1:
+  name: "Nadia Takhtaganova"
+  fullname: "Nadia Takhtaganova"
 
 # Tutoring coordinator
 tutoring1:
@@ -114,40 +202,78 @@ tutoring1:
   fullname: "Kazuya Bamba"
 
 # Writing support
-writing1: "Christopher Legerme"
-writing2: "Nadia Takhtaganova"
-writing3: "Marjorie Leduc"
+writing1:
+  name: "Christopher Legerme"
+  fullname: "Christopher Legerme"
+writing2:
+  name: "Nadia Takhtaganova"
+  fullname: "Nadia Takhtaganova"
+writing3:
+  name: "Marjorie Leduc"
+  fullname: "Marjorie Leduc"
 
 # Mindsweeper wellness committee
-mindsweeper1: "Nicki Butler"
-mindsweeper2: "Angelika Kiss"
-mindsweeper3: "Jessica Yeung"
-mindsweeper4: "Heather Yawney"
+mindsweeper1:
+  name: "Nicki Butler"
+  fullname: "Nicki Butler"
+mindsweeper2:
+  name: "Angelika Kiss"
+  fullname: "Angelika Kiss"
+mindsweeper3:
+  name: "Jessica Yeung"
+  fullname: "Jessica Yeung"
+mindsweeper4:
+  name: "Heather Yawney"
+  fullname: "Heather Yawney"
 
 # Social committee
-social1: "Fiona Wilson"
-social2: "Kaleigh Woolford"
+social1:
+  name: "Fiona Wilson"
+  fullname: "Fiona Wilson"
+social2:
+  name: "Kaleigh Woolford"
+  fullname: "Kaleigh Woolford"
 
 # Downstairs Grad Space Fridge/Small Appliance Committee
-downstairs_appliance1: "Pocholo Umbal"
+downstairs_appliance1:
+  name: "Pocholo Umbal"
+  fullname: "Pocholo Umbal"
 
 # Buddy program committee
-buddy1: "Sahar Taghipour"
-buddy2: "Koorosh Ariyaee"
+buddy1:
+  name: "Sahar Taghipour"
+  fullname: "Sahar Taghipour"
+buddy2:
+  name: "Koorosh Ariyaee"
+  fullname: "Koorosh Ariyaee"
 
 # LGCU website committee
-website1: "Fiona Wilson"
+website1:
+  name: "Fiona Wilson"
+  fullname: "Fiona Wilson"
 website2:
   name: "Tim Gadanidis"
   fullname: "Timothy Gadanidis"
-website3: "Will Williams"
-website4: "Laurestine Bradford"
-website5: "Justin Leung"
+website3:
+  name: "Will Williams"
+  fullname: "Will Williams"
+website4:
+  name: "Laurestine Bradford"
+  fullname: "Laurestine Bradford"
+website5:
+  name: "Justin Leung"
+  fullname: "Justin Leung"
 
 # TA Supervision Excellence Award Committee (TASEA)
-tasea1: "Lisa Schlegl"
-tasea2: "Lisa Sullivan"
-tasea3: "Koorosh Ariyaee"
+tasea1:
+  name: "Lisa Schlegl"
+  fullname: "Lisa Schlegl"
+tasea2:
+  name: "Lisa Sullivan"
+  fullname: "Lisa Sullivan"
+tasea3:
+  name: "Koorosh Ariyaee"
+  fullname: "Koorosh Ariyaee"
 tasea4:
   name: "Kaz Bamba"
   fullname: "Kazuya Bamba"
@@ -156,26 +282,54 @@ tasea4:
 outreach1:
   name: "Greg Antono"
   fullname: "Gregory Antono"
-outreach2: "Talia Tahtadjian"
-outreach3: "Laurestine Bradford"
+outreach2:
+  name: "Talia Tahtadjian"
+  fullname: "Talia Tahtadjian"
+outreach3:
+  name: "Laurestine Bradford"
+  fullname: "Laurestine Bradford"
 
 # Anti-Harassment Taskforce
-aht1: "Lex Konnelly"
-aht2: "Lisa Schlegl"
-aht3: "Lauren Bigelow"
-aht4: "Pocholo Umbal"
-aht5: "Vidhya Elango"
+aht1:
+  name: "Lex Konnelly"
+  fullname: "Lex Konnelly"
+aht2:
+  name: "Lisa Schlegl"
+  fullname: "Lisa Schlegl"
+aht3:
+  name: "Lauren Bigelow"
+  fullname: "Lauren Bigelow"
+aht4:
+  name: "Pocholo Umbal"
+  fullname: "Pocholo Umbal"
+aht5:
+  name: "Vidhya Elango"
+  fullname: "Vidhya Elango"
 
 # Swag committee
-swag1: "Crystal Chen"
-swag2: "Marjorie Leduc"
-swag3: "Radu Craioveanu"
+swag1:
+  name: "Crystal Chen"
+  fullname: "Crystal Chen"
+swag2:
+  name: "Marjorie Leduc"
+  fullname: "Marjorie Leduc"
+swag3:
+  name: "Radu Craioveanu"
+  fullname: "Radu Craioveanu"
 
 # Welcome Workshop committee **Note:** Membership updates at the mid-year meeting for this committee
-welcomeworkshop1: "Liam Donohue"
-welcomeworkshop2: "Pocholo Umbal"
-welcomeworkshop3: "Shabri Kapoor"
-welcomeworkshop4: "Zhanao Fu"
+welcomeworkshop1:
+  name: "Liam Donohue"
+  fullname: "Liam Donohue"
+welcomeworkshop2:
+  name: "Pocholo Umbal"
+  fullname: "Pocholo Umbal"
+welcomeworkshop3:
+  name: "Shabri Kapoor"
+  fullname: "Shabri Kapoor"
+welcomeworkshop4:
+  name: "Zhanao Fu"
+  fullname: "Zhanao Fu"
 
 # Currently defunct Departmental committees (due to COVID-19)
 # Guest speaker committee
@@ -184,11 +338,21 @@ welcomeworkshop4: "Zhanao Fu"
 # Lounge committees
 
 # Plants and beautification committee
-plant1: "Liam Donohue"
-plant2: "Lex Konnelly"
-plant3: "Vidhya Elango"
-plant4: "Lisa Schlegl"
-plant5: "Koorosh Ariyaee"
+plant1:
+  name: "Liam Donohue"
+  fullname: "Liam Donohue"
+plant2:
+  name: "Lex Konnelly"
+  fullname: "Lex Konnelly"
+plant3:
+  name: "Vidhya Elango"
+  fullname: "Vidhya Elango"
+plant4:
+  name: "Lisa Schlegl"
+  fullname: "Lisa Schlegl"
+plant5:
+  name: "Koorosh Ariyaee"
+  fullname: "Koorosh Ariyaee"
 
 # Currently defunct Lounge committees (due to COVID-19)
 # Fridge cleaning committee
@@ -203,11 +367,17 @@ plant5: "Koorosh Ariyaee"
 # [needs to be updated]
 
 # Members with specific responsibilities
-printer: "Radu Craioveanu"
-facebook: "Fiona Wilson"
+printer:
+  name: "Radu Craioveanu"
+  fullname: "Radu Craioveanu"
+facebook:
+  name: "Fiona Wilson"
+  fullname: "Fiona Wilson"
 zulip:
   name: "Tim Gadanidis"
   fullname: "Timothy Gadanidis"
 
 # Non-members referenced on the website (typically linguistics faculty or staff)
-departmental_officer: "Mary Hsu"
+departmental_officer:
+  name: "Mary Hsu"
+  fullname: "Mary Hsu"
