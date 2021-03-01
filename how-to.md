@@ -35,7 +35,7 @@ Click on the Print tab; you will be able to browse for a file and submit it for 
 
 3. If you want to set up printing for both printers, you should be able to just add a new network printer through your control panel / settings (giving it the other IP address) and have it find the necessary drivers.
 
-Still having trouble after following these steps? Contact {{site.data.members.printer}} for help.
+Still having trouble after following these steps? Contact [{{site.data.members.printer.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.printer.fullname | slugify}} "Department directory entry for {{site.data.members.printer.name}}") for help.
 
 ## Book a Room
 
@@ -51,7 +51,7 @@ Since we're both employees and students, the University supplies us with a varie
 
 These documents usually become available sometime in February. The T4 will be available through [Employee Self-Service](https://easi.its.utoronto.ca/administrative-web-services/employee-self-service-ess/ "U of T Employee Self-Service Portal"). The T2202 will be available through [ACORN](https://acorn.utoronto.ca/sws/#/ "U of T Accessible Campus Online Resource Network (ACORN) portal"). Depending on the source of your income, you might have two T4As from the University, one available through [Employee Self-Service](https://easi.its.utoronto.ca/administrative-web-services/employee-self-service-ess/ "U of T Employee Self-Service Portal") and one through [ACORN](https://acorn.utoronto.ca/sws/#/ "U of T Accessible Campus Online Resource Network (ACORN) portal"), so be sure to check both places.
 
-If you're having trouble finding your tax forms after the release date (usually late February), or you have other questions about these documents, a good person to talk to is {{departmental_officer}}.
+If you're having trouble finding your tax forms after the release date (usually late February), or you have other questions about these documents, a good person to talk to is [{{site.data.members.departmental_officer.name}}](https://www.linguistics.utoronto.ca/people/directories/staff/{{site.data.members.departmental_officer.fullname | slugify}} "Department directory entry for {{site.data.members.departmental_officer.name}}").
 
 ### Other Tax Write-Offs
 
