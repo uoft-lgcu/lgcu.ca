@@ -239,7 +239,7 @@ t: 1-866-358-4436   e: health@utgsu.ca
 
 ### Other Resources
 
-* Your fellow grad students can be a great source of advice and support (even if it's just about what dentist they go to). To get in touch in the age of social distancing, you can: email the LGCU listserv (LGCU-L@listserv.utoronto.ca); contact {{site.data.members.facebook}} to be added to the LGCUers facebook page; or contact {{site.data.members.zulip}} to be added to the LGCU virtual lounge on Zulip.
+* Your fellow grad students can be a great source of advice and support (even if it's just about what dentist they go to). To get in touch in the age of social distancing, you can: email the LGCU listserv (LGCU-L@listserv.utoronto.ca); contact [{{site.data.members.facebook.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.facebook.fullname | slugify}} "Department directory entry for {{site.data.members.facebook.name}}") to be added to the LGCUers facebook page; or contact [{{site.data.members.zulip.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.zulip.fullname | slugify}} "Department directory entry for {{site.data.members.zulip.name}}") to be added to the LGCU virtual lounge on Zulip.
 
 * The LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/#mindsweeper-wellness-committee "LGCU Committees page")
 Mindsweepers **does not** provide direct support to students, but may be able to point you in the direction of some good resources. You can send them suggestions or get involved yourself.
