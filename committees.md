@@ -10,25 +10,25 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Presidents
 
-{{site.data.members.president1}}, {{site.data.members.president2}}
+[{{site.data.members.president1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president1.fullname | slugify}} "Department directory entry for {{site.data.members.president1.name}}"), [{{site.data.members.president2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.president2.fullname | slugify}} "Department directory entry for {{site.data.members.president2.name}}")
 
 > Represent the LGCU to the department; attend department meetings; organize LGCU meetings; various other duties.
 
 ### Treasurer
 
-{{site.data.members.treasurer}}
+[{{site.data.members.treasurer.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.treasurer.fullname | slugify}} "Department directory entry for {{site.data.members.treasurer.name}}")
 
 > Manages the LGCU's finances.
 
 ### Secretary
 
-{{site.data.members.secretary}}
+[{{site.data.members.secretary.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.secretary.fullname | slugify}} "Department directory entry for {{site.data.members.secretary.name}}")
 
 > Takes minutes at meetings and provides related support.
 
 ### GSU Representatives
 
-{{site.data.members.gsu_rep}}
+[{{site.data.members.gsu_rep.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.gsu_rep.fullname | slugify}} "Department directory entry for {{site.data.members.gsu_rep.name}}")
 
 > Attend monthly GSU council meetings.
 
@@ -36,7 +36,7 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### CUPE Stewards
 
-{{site.data.members.cupe_stg}}, {{site.data.members.cupe_utm}} (UTM), {{site.data.members.cupe_utsc}} (UTSC)
+[{{site.data.members.cupe_stg.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_stg.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_stg.name}}"), [{{site.data.members.cupe_utm.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_utm.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_utm.name}}") (UTM), [{{site.data.members.cupe_utsc.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_utsc.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_utsc.name}}") (UTSC)
 
 > Represent the department in CUPE3902; attend Steward Council meetings. Elected by the CUPE members of the LGCU (those who have a TA appointment for 50 hours or more).
 
