@@ -378,6 +378,11 @@ zulip:
   fullname: "Timothy Gadanidis"
 
 # Non-members referenced on the website (typically linguistics faculty or staff)
+# Note: link will have to be different for these individuals, because the link as written refers to the grad student part of the page
+
 departmental_officer:
   name: "Mary Hsu"
   fullname: "Mary Hsu"
+department_chair:
+  name: "Sali Tagliamonte"
+  fullname: "Sali Tagliamonte"
