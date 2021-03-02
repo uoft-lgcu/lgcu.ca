@@ -39,6 +39,7 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 [{{site.data.members.cupe_stg.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_stg.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_stg.name}}"), [{{site.data.members.cupe_utm.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_utm.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_utm.name}}") (UTM), [{{site.data.members.cupe_utsc.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_utsc.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_utsc.name}}") (UTSC)
 
 > Represent the department in CUPE3902; attend Steward Council meetings. Elected by the CUPE members of the LGCU (those who have a TA appointment for 50 hours or more).
+> 
 
 ## Departmental committees
 
@@ -46,13 +47,13 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Curriculum Committee
 
-\*{{site.data.members.curriculum1}}, {{site.data.members.curriculum2}}
+\*[{{site.data.members.curriculum1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.curriculum1.fullname | slugify}} "Department directory entry for {{site.data.members.curriculum1.name}}"), [{{site.data.members.curriculum2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.curriculum2.fullname | slugify}} "Department directory entry for {{site.data.members.curriculum2.name}}")
 
 > Attend departmental curriculum committee meetings; convey information to graduate students.
 
 ### WHITL (Blog) Committee
 
-\*{{site.data.members.whitl1}}
+\*[{{site.data.members.whitl1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.whitl1.fullname | slugify}} "Department directory entry for {{site.data.members.whitl1.name}}")
 
 > Write posts for the departmental blog, do interviews, take photographs, etc.
 
@@ -66,55 +67,55 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Library Committee
 
-\*{{site.data.members.library1}}, {{site.data.members.library2}}
+\*[{{site.data.members.library1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.library1.fullname | slugify}} "Department directory entry for {{site.data.members.library1.name}}"), [{{site.data.members.library2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.library2.fullname | slugify}} "Department directory entry for {{site.data.members.library2.name}}")
 
 > Manage the departmental collection of books, journals, etc.
 
 ### Welcome Workshop Committee
 
-\*{{site.data.members.welcomeworkshop1}}, {{site.data.members.welcomeworkshop2}}, {{site.data.members.welcomeworkshop3}}, {{site.data.members.welcomeworkshop4}}
+\*[{{site.data.members.welcomeworkshop1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.welcomeworkshop1.fullname | slugify}} "Department directory entry for {{site.data.members.welcomeworkshop1.name}}"), [{{site.data.members.welcomeworkshop2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.welcomeworkshop2.fullname | slugify}} "Department directory entry for {{site.data.members.welcomeworkshop2.name}}"), [{{site.data.members.welcomeworkshop3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.welcomeworkshop3.fullname | slugify}} "Department directory entry for {{site.data.members.welcomeworkshop3.name}}"), [{{site.data.members.welcomeworkshop4.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.welcomeworkshop4.fullname | slugify}} "Department directory entry for {{site.data.members.welcomeworkshop4.name}}")
 
 > Organize the annual LGCU Welcome Workshop held in the fall for new graduate students. 
 
 ### TWPL Chair
 
-\*{{site.data.members.twpl_chair}}
+\*[{{site.data.members.twpl_chair.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl_chair.fullname | slugify}} "Department directory entry for {{site.data.members.twpl_chair.name}}")
 
 > Oversees the departmental journal, Toronto Working Papers in Linguistics.
 
 ### TWPL Editors
 
-{{site.data.members.twpl1}}, {{site.data.members.twpl2}}, {{site.data.members.twpl3}}, {{site.data.members.twpl4}}, {{site.data.members.twpl5}}, {{site.data.members.twpl6}}, {{site.data.members.twpl7}}, {{site.data.members.twpl8}}, {{site.data.members.twpl9}}, {{site.data.members.twpl10}}, {{site.data.members.twpl11}}, {{site.data.members.twpl12}}, {{site.data.members.twpl13}}, {{site.data.members.twpl14}}
+[{{site.data.members.twpl1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl1.fullname | slugify}} "Department directory entry for {{site.data.members.twpl1.name}}"), [{{site.data.members.twpl2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl2.fullname | slugify}} "Department directory entry for {{site.data.members.twpl2.name}}"), [{{site.data.members.twpl3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl3.fullname | slugify}} "Department directory entry for {{site.data.members.twpl3.name}}"), [{{site.data.members.twpl4.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl4.fullname | slugify}} "Department directory entry for {{site.data.members.twpl4.name}}"), [{{site.data.members.twpl5.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl5.fullname | slugify}} "Department directory entry for {{site.data.members.twpl5.name}}"), [{{site.data.members.twpl6.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl6.fullname | slugify}} "Department directory entry for {{site.data.members.twpl6.name}}"), [{{site.data.members.twpl7.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl7.fullname | slugify}} "Department directory entry for {{site.data.members.twpl7.name}}"), [{{site.data.members.twpl8.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl8.fullname | slugify}} "Department directory entry for {{site.data.members.twpl8.name}}"), [{{site.data.members.twpl9.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl9.fullname | slugify}} "Department directory entry for {{site.data.members.twpl9.name}}"), [{{site.data.members.twpl10.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl10.fullname | slugify}} "Department directory entry for {{site.data.members.twpl10.name}}"), [{{site.data.members.twpl11.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl11.fullname | slugify}} "Department directory entry for {{site.data.members.twpl11.name}}"), [{{site.data.members.twpl12.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl12.fullname | slugify}} "Department directory entry for {{site.data.members.twpl12.name}}"), [{{site.data.members.twpl13.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl13.fullname | slugify}} "Department directory entry for {{site.data.members.twpl13.name}}"), [{{site.data.members.twpl14.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.twpl14.fullname | slugify}} "Department directory entry for {{site.data.members.twpl14.name}}")
 
 > Edit articles to appear in TWPL.
 
 ### Fall Campus Day
 
-\*{{site.data.members.fall_campus1}}, {{site.data.members.fall_campus2}}, {{site.data.members.fall_campus3}}
+\*[{{site.data.members.fall_campus1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.fall_campus1.fullname | slugify}} "Department directory entry for {{site.data.members.fall_campus1.name}}"), [{{site.data.members.fall_campus2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.fall_campus2.fullname | slugify}} "Department directory entry for {{site.data.members.fall_campus2.name}}"), [{{site.data.members.fall_campus3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.fall_campus3.fullname | slugify}} "Department directory entry for {{site.data.members.fall_campus3.name}}")
 
 > Be present at the Department of Linguistics booth for around 3 hours in order to answer questions from high-school students and their parents.
 
 ### March Break Open House
 
-\*{{site.data.members.march_open1}}, {{site.data.members.march_open2}}, {{site.data.members.march_open3}}
+\*[{{site.data.members.march_open1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.march_open1.fullname | slugify}} "Department directory entry for {{site.data.members.march_open1.name}}"), [{{site.data.members.march_open2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.march_open2.fullname | slugify}} "Department directory entry for {{site.data.members.march_open2.name}}"), [{{site.data.members.march_open3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.march_open3.fullname | slugify}} "Department directory entry for {{site.data.members.march_open3.name}}")
 
 > Be present at the Department of Linguistics booth for around 3 hours in order to answer questions from high-school students and their parents.
 
 ### SIG Representatives
 
-{{site.data.members.sig_fall}} (fall), {{site.data.members.sig_winter}} (winter)
+[{{site.data.members.sig_fall.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.sig_fall.fullname | slugify}} "Department directory entry for {{site.data.members.sig_fall.name}}") (fall), [{{site.data.members.sig_winter.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.sig_winter.fullname | slugify}} "Department directory entry for {{site.data.members.sig_winter.name}}") (winter)
 
 > Represent the graduate students on the departmental SSHRC Institutional Grant Program committee.
 
 ### Equity Committee
 
-\*{{site.data.members.equity1}}
+\*[{{site.data.members.equity1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.equity1.fullname | slugify}} "Department directory entry for {{site.data.members.equity1.name}}")
 
 > Promote inclusion, equality, and anti-oppressive measures within the department.
 
 ### Departmental Website Committee
 
-\*{{site.data.members.department_website1}}
+\*[{{site.data.members.department_website1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.department_website1.fullname | slugify}} "Department directory entry for {{site.data.members.department_website1.name}}")
 
 > Provide input into the development and content of the department website.
 
@@ -154,7 +155,7 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Plants and Beautification Committee
 
-\*{{site.data.members.plant1}}, {{site.data.members.plant2}}, {{site.data.members.plant3}}, {{site.data.members.plant4}}, {{site.data.members.plant5}}
+\*[{{site.data.members.plan1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.plant1.fullname | slugify}} "Department directory entry for {{site.data.members.plant1.name}}"), [{{site.data.members.plant2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.plant2.fullname | slugify}} "Department directory entry for {{site.data.members.plant2.name}}"), [{{site.data.members.plant3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.plant3.fullname | slugify}} "Department directory entry for {{site.data.members.plant3.name}}"), [{{site.data.members.plant4.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.plant4.fullname | slugify}} "Department directory entry for {{site.data.members.plant4.name}}"), [{{site.data.members.plant5.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.plant5.fullname | slugify}} "Department directory entry for {{site.data.members.plant5.name}}")
 
 > Plant plants, and do other things to make the departmental space aesthetically appealing.
 
@@ -162,43 +163,43 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Welcoming Committee
 
-\*{{site.data.members.welcoming1}}, {{site.data.members.welcoming2}}, {{site.data.members.welcoming3}}, {{site.data.members.welcoming4}}
+\*[{{site.data.members.welcoming1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.welcoming1.fullname | slugify}} "Department directory entry for {{site.data.members.welcoming1.name}}"), [{{site.data.members.welcoming2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.welcoming2.fullname | slugify}} "Department directory entry for {{site.data.members.welcoming2.name}}"), [{{site.data.members.welcoming3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.welcoming3.fullname | slugify}} "Department directory entry for {{site.data.members.welcoming3.name}}"), [{{site.data.members.welcoming4.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.welcoming4.fullname | slugify}} "Department directory entry for {{site.data.members.welcoming4.name}}")
 
 > Answer questions from incoming students; arrange welcome lunch and tour in September.
 
 ### Job Application Workshop Series (JAWS) Committee
 
-\*{{site.data.members.jaws1}}, {{site.data.members.jaws2}}
+\*[{{site.data.members.jaws1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.jaws1.fullname | slugify}} "Department directory entry for {{site.data.members.jaws1.name}}"), [{{site.data.members.jaws2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.jaws2.fullname | slugify}} "Department directory entry for {{site.data.members.jaws2.name}}")
 
 > Organizes JAWS events (approximately one per term).
 
 ### Computer Committee
 
-\*{{site.data.members.computer1}}, {{site.data.members.computer2}}
+\*[{{site.data.members.computer1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.computer1.fullname | slugify}} "Department directory entry for {{site.data.members.computer1.name}}"), [{{site.data.members.computer2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.computer2.fullname | slugify}} "Department directory entry for {{site.data.members.computer2.name}}")
 
 > Help maintain the machines in the grad student computer lab.
 
 ### Space Assignment/Management/Safety Committee
 
-\*{{site.data.members.space1}}, {{site.data.members.space2}}, {{site.data.members.space3}}
+\*[{{site.data.members.space1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.space1.fullname | slugify}} "Department directory entry for {{site.data.members.space1.name}}"), [{{site.data.members.space2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.space2.fullname | slugify}} "Department directory entry for {{site.data.members.space2.name}}"), [{{site.data.members.space3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.space3.fullname | slugify}} "Department directory entry for {{site.data.members.space3.name}}")
 
 > Handle grad space desk assignments and complaints about space usage.
 
 ### TA Evaluations
 
-\*{{site.data.members.ta_eval1}}
+\*[{{site.data.members.ta_eval1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.ta_eval1.fullname | slugify}} "Department directory entry for {{site.data.members.ta_eval1.name}}")
 
 > Receives and holds onto TA evaluations; distributes these to TAs after they have finished all grading for courses.
 
 ### Tutoring Coordinator
 
-\*{{site.data.members.tutoring1}}
+\*[{{site.data.members.tutoring1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.tutoring1.fullname | slugify}} "Department directory entry for {{site.data.members.tutoring1.name}}")
 
 > Checks email for tutoring requests; announces available positions to the tutoring list.
 
 ### Writing Support
 
-\*{{site.data.members.writing1}}, {{site.data.members.writing2}}, {{site.data.members.writing3}}
+\*[{{site.data.members.writing1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.writing1.fullname | slugify}} "Department directory entry for {{site.data.members.writing1.name}}"), [{{site.data.members.writing2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.writing2.fullname | slugify}} "Department directory entry for {{site.data.members.writing2.name}}"), [{{site.data.members.writing3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.writing3.fullname | slugify}} "Department directory entry for {{site.data.members.writing3.name}}")
 
 > Provide feedback to grad students seeking support with their academic writing.
 
