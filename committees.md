@@ -205,49 +205,49 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### Mindsweeper Wellness Committee
 
-\*{{site.data.members.mindsweeper1}}, {{site.data.members.mindsweeper2}}, {{site.data.members.mindsweeper3}}, {{site.data.members.mindsweeper4}}
+\*[{{site.data.members.mindsweeper1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.mindsweeper1.fullname | slugify}} "Department directory entry for {{site.data.members.mindsweeper1.name}}"), [{{site.data.members.mindsweeper2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.mindsweeper2.fullname | slugify}} "Department directory entry for {{site.data.members.mindsweeper2.name}}"), [{{site.data.members.mindsweeper3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.mindsweeper3.fullname | slugify}} "Department directory entry for {{site.data.members.mindsweeper3.name}}"), [{{site.data.members.mindsweeper4.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.mindsweeper4.fullname | slugify}} "Department directory entry for {{site.data.members.mindsweeper4.name}}")
 
 > Create and maintain a positive and healthy work environment for all graduate students in our department.
 
 ### Social Coordinators
 
-\*{{site.data.members.social1}}, {{site.data.members.social2}}
+\*[{{site.data.members.social1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.social1.fullname | slugify}} "Department directory entry for {{site.data.members.social1.name}}"), [{{site.data.members.social2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.social2.fullname | slugify}} "Department directory entry for {{site.data.members.social2.name}}")
 
 > Organize social activities.
 
 ### Buddy Program Committee
 
-\*{{site.data.members.buddy1}}, {{site.data.members.buddy2}}
+\*[{{site.data.members.buddy1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.buddy1.fullname | slugify}} "Department directory entry for {{site.data.members.buddy1.name}}"), [{{site.data.members.buddy2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.buddy2.fullname | slugify}} "Department directory entry for {{site.data.members.buddy2.name}}")
 
 > Develop plans to pair more-experienced graduate students with newer ones.
 
 ### LGCU Website Committee
 
-\*{{site.data.members.website1}}, {{site.data.members.website2}}, {{site.data.members.website3}}, {{site.data.members.website4}}, {{site.data.members.website5}}
+\*[{{site.data.members.website1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.website1.fullname | slugify}} "Department directory entry for {{site.data.members.website1.name}}"), [{{site.data.members.website2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.website2.fullname | slugify}} "Department directory entry for {{site.data.members.website2.name}}"), [{{site.data.members.website3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.website3.fullname | slugify}} "Department directory entry for {{site.data.members.website3.name}}"), [{{site.data.members.website4.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.website4.fullname | slugify}} "Department directory entry for {{site.data.members.website4.name}}"), [{{site.data.members.website5.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.website5.fullname | slugify}} "Department directory entry for {{site.data.members.website5.name}}")
 
 > Develop and maintain the LGCU website.
 
 ### TA Supervision Excellence Award Committee (TASEA)
 
-\*{{site.data.members.tasea1}}, {{site.data.members.tasea2}}, {{site.data.members.tasea3}}, {{site.data.members.tasea4}}
+\*[{{site.data.members.tasea1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.tasea1.fullname | slugify}} "Department directory entry for {{site.data.members.tasea1.name}}"), [{{site.data.members.tasea2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.tasea2.fullname | slugify}} "Department directory entry for {{site.data.members.tasea2.name}}"), [{{site.data.members.tasea3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.tasea3.fullname | slugify}} "Department directory entry for {{site.data.members.tasea3.name}}"), [{{site.data.members.tasea4.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.tasea4.fullname | slugify}} "Department directory entry for {{site.data.members.tasea4.name}}")
 
 > Create and maintain the LGCU program to recognize excellence in supervision of TAs.
 
 ### Outreach Committee
 
-\*{{site.data.members.outreach1}}, {{site.data.members.outreach2}}, {{site.data.members.outreach3}}
+\*[{{site.data.members.outreach1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.outreach1.fullname | slugify}} "Department directory entry for {{site.data.members.outreach1.name}}"), [{{site.data.members.outreach2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.outreach2.fullname | slugify}} "Department directory entry for {{site.data.members.outreach2.name}}"), [{{site.data.members.outreach3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.outreach3.fullname | slugify}} "Department directory entry for {{site.data.members.outreach3.name}}")
 
 > Tasked with community outreach efforts to foster a greater sense of understanding of linguistics and inclusion of the greater community by involving linguistics graduate students in service towards the greater community.
 
 ### Anti-Harassment Taskforce
 
-\*{{site.data.members.aht1}}, {{site.data.members.aht2}}, {{site.data.members.aht3}}, {{site.data.members.aht4}}, {{site.data.members.aht5}}
+\*[{{site.data.members.aht1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.aht1.fullname | slugify}} "Department directory entry for {{site.data.members.aht1.name}}"), [{{site.data.members.aht2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.aht2.fullname | slugify}} "Department directory entry for {{site.data.members.aht2.name}}"), [{{site.data.members.aht3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.aht3.fullname | slugify}} "Department directory entry for {{site.data.members.aht3.name}}"), [{{site.data.members.aht4.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.aht4.fullname | slugify}} "Department directory entry for {{site.data.members.aht4.name}}"), [{{site.data.members.aht5.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.aht5.fullname | slugify}} "Department directory entry for {{site.data.members.aht5.name}}")
 
 > Jobs include updating code of conduct, making a value statement, checking the pub emails, establishing the points of contact to bring concerns, etc.
 
 ### Swag Committee
 
-\*{{site.data.members.swag1}}, {{site.data.members.swag2}}, {{site.data.members.swag3}}
+\*[{{site.data.members.swag1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.swag1.fullname | slugify}} "Department directory entry for {{site.data.members.swag1.name}}"), [{{site.data.members.swag2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.swag2.fullname | slugify}} "Department directory entry for {{site.data.members.swag2.name}}"), [{{site.data.members.swag3.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.swag3.fullname | slugify}} "Department directory entry for {{site.data.members.swag3.name}}")
 
 > In charge of distributing LGCU t-shirts and developing additional LGCU fandom opportunities.
 
