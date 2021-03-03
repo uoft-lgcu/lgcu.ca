@@ -1,12 +1,12 @@
 # How to make an entry:
-# If the name used on the department website entry for the LGCU member is their preferred name, use the format:
-role1: "Firstname Lastname"
-# If the member's preferred name is *different* from the one used on their department website entry (for any reason), use the format:
-role2:
+# Use the format:
+role1:
   name: "Preferred Name"
   fullname: "Departmentwebsite Name"
-# This formatting will make it so that the member's preferred name appears in text and metatext on the LGCU website, but the links to their contact inforamtion on the
-# Department website remain functional.
+# Place the member's preferred name in the "name:" location (this is what will appear in text and metatext on the LGCU website)
+# Place the member's name as it appears on the department website in the "fullname:" location (this will ensure that links to their contact information 
+# function appropriately)
+# If the member's preferred name is the name that appears on the department website, use the same name in both locations.
 
 # Note: when updating, if the number of individuals who have a role changes (increasing or decreasing), updates will also have to be made to the "committees" page.
 # New additions will not otherwise be listed on the committees page. Decreasing the number will probably just result in some excess commas.
