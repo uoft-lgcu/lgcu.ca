@@ -65,6 +65,12 @@ Check out the [LGCU website How-to page](https://uoft-lgcu.github.io/how-to/#get
 
 * [Claiming Work From Home Expense Deductions FAQ](https://www.cupe3902.org/wp-content/uploads/2021/01/Claiming-WFH-Deductions.pdf "CUPE 3902 Claiming WFH Expense Deductions FAQ (pdf)")
 
+## Resources to Help with Food Insecurity and Related Needs
+
+* [U of T Emergency Food Bank](https://utfoodbank.tech "U of T Emergency Food Bank Registration Page") (Provides free food boxes to students; first-come, first-served; sign up opens on Sundays at noon)
+
+* [University of Toronto Environmental Student Resource Network](https://www.instagram.com/utern.uoft/ "Instagram page for UTERN") (Provides free food boxes or grocery gift cards for students; sign up forms go live Mondays at noon; may require following on facebook or instagram to sign up)
+
 ## CUPE 3902
 
 For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](https://uoft-lgcu.github.io/cupe/ "CUPE3902 Page on this site") of this site.
