@@ -377,6 +377,31 @@ zulip:
   name: "Tim Gadanidis"
   fullname: "Timothy Gadanidis"
 
+# People running/responsible for a listserv
+
+lgcu-l:
+  name: "Radu Craioveanu"
+  fullname: "Radu Craioveanu"
+lingdept-l:
+  name: "Graduate Administrator (Currently Unfilled)"
+fieldling:
+  name: "Greg Antono"
+  fullname: "Gregory Antono"
+syntax:
+  name: "Sahar Taghipour"
+  fullname: "Sahar Taghipour"
+sem-prag:
+  name: "Heather Stephens"
+  fullname: "Heather Stephens"
+phon:
+  name: "Andrei Munteanu"
+  fullname: "Andrei Munteanu"
+lvc:
+  name: "Kaleigh Woolford"
+  fullname: "Kaleigh Woolford"
+
+
+
 # Non-members referenced on the website (typically linguistics faculty or staff)
 # Note: link will have to be different for these individuals, because the link as written refers to the grad student part of the page
 
