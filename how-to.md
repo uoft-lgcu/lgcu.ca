@@ -63,6 +63,21 @@ While the Canadian tax system in general is a topic way beyond the scope of this
 
 * Rent \ While you can't **directly** claim your rental costs, they count towards the [Ontario Energy and Property Tax Credit](https://www.ontario.ca/page/ontario-trillium-benefit#section-2 "Ontario government trillium benefits page section on the OEPTC") which is part of the [Ontario Trillium Benefit](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/provincial-territorial-programs/ontario-trillium-benefit-questions-answers.html "Ontario government OTB FAQ page")
 
+## Get Added to an Email List
+
+A lot of information for grad students comes through email listservs (collections of email addresses that can be sent to in one go). A lot of the time, you'll be automatically added based on your status as a grad student and your research interests, but if you find you're not on a list you'd like to be on (or you're not receiving emails you'd expect to), contact the person who currently runs the list.
+
+* Linguistics Department Listserv (LINGDEPT-L) - This sends to everyone in the department at once (Currently run by {{site.data.members.lingdept-l.name}})
+* LGCU Listserv (LGCU-L) - This sends to current LGCU members (fellow graduate students) ((Currently run by [{{site.data.members.lgcu-l.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.lgcu-l.fullname | slugify}} "Department directory entry for {{site.data.members.lgcu-l.name}}")
+
+### Department Research Groups
+
+* Language Variation and Change (LVC) - Currently run by [{{site.data.members.lvc.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.lvc.fullname | slugify}} "Department directory entry for {{site.data.members.lvc.name}}")
+* Phon Group (Phonetics & Phonology) - Currently run by [{{site.data.members.phon.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.phon.fullname | slugify}} "Department directory entry for {{site.data.members.phon.name}}")
+* Syntax Project Group - Currently run by [{{site.data.members.syntax.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.syntax.fullname | slugify}} "Department directory entry for {{site.data.members.syntax.name}}")
+* Fieldwork Group - Currently run by [{{site.data.members.fieldling.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.fieldling.fullname | slugify}} "Department directory entry for {{site.data.members.fieldling.name}}")
+* Semantics-Pragmatics Research Group - Currently run by [{{site.data.members.sem-prag.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.sem-prag.fullname | slugify}} "Department directory entry for {{site.data.members.sem-prag.name}}")
+
 ## Access the Grad Calendars
 
 The [calendar](https://uoft-lgcu.github.io/calendar/ "LGCU Website Events Page") takes its information from the current grad student calendars. These are stored in the gmail account gradroom568@gmail.com (ask another grad student for password).
