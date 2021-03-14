@@ -43,11 +43,16 @@ Still having trouble after following these steps? Contact [{{site.data.members.p
 
 Since we're both employees and students, the University supplies us with a variety of fun and engaging tax documents, including:
 
-* T2202 (previously the T2202A) - Tuition and Enrolment Certificate \ This form is for students who've paid tuition fees that are eligible to be claimed \ [T2202 FAQ](https://studentaccount.utoronto.ca/tax-information/t2202-tuition-and-enrolment-certificate/ "U of T T2202 FAQ page")
+* T2202 (previously the T2202A) - Tuition and Enrolment Certificate \\ 
+This form is for students who've paid tuition fees that are eligible to be claimed \\ 
+[T2202 FAQ](https://studentaccount.utoronto.ca/tax-information/t2202-tuition-and-enrolment-certificate/ "U of T T2202 FAQ page")
 
-* T4A - Statement of Pension, Retirement, Annuity, and Other Income \ This is a catchall for reporting income types not included on other forms (including scholarships, bursaries, and fellowships) \ [T4A FAQ](https://studentaccount.utoronto.ca/tax-information/t4a-statement-of-pension-retiremnet-annuity-and-other-income/ "U of T T4A FAQ page")
+* T4A - Statement of Pension, Retirement, Annuity, and Other Income \\
+This is a catchall for reporting income types not included on other forms (including scholarships, bursaries, and fellowships) \\
+[T4A FAQ](https://studentaccount.utoronto.ca/tax-information/t4a-statement-of-pension-retiremnet-annuity-and-other-income/ "U of T T4A FAQ page")
 
-* T4 - Statement of Remuneration Paid \ This is a summary of your employment earnings and deductions for the year (e.g. for TA income)
+* T4 - Statement of Remuneration Paid \\
+This is a summary of your employment earnings and deductions for the year (e.g. for TA income)
 
 These documents usually become available sometime in February. The T4 will be available through [Employee Self-Service](https://easi.its.utoronto.ca/administrative-web-services/employee-self-service-ess/ "U of T Employee Self-Service Portal"). The T2202 will be available through [ACORN](https://acorn.utoronto.ca/sws/#/ "U of T Accessible Campus Online Resource Network (ACORN) portal"). Depending on the source of your income, you might have two T4As from the University, one available through [Employee Self-Service](https://easi.its.utoronto.ca/administrative-web-services/employee-self-service-ess/ "U of T Employee Self-Service Portal") and one through [ACORN](https://acorn.utoronto.ca/sws/#/ "U of T Accessible Campus Online Resource Network (ACORN) portal"), so be sure to check both places.
 
@@ -57,11 +62,15 @@ If you're having trouble finding your tax forms after the release date (usually 
 
 While the Canadian tax system in general is a topic way beyond the scope of this page, here are some write-offs that grad students commonly make use of, which it may be worth looking into (and making sure you keep the receipts for). Reminder: verify your eligibility through reputable sources.
 
-* Work from Home Expenses \ This one is new this year (thanks COVID), and allows you to deduct some of your work from home expenses. **Note:** There are two methods for claiming these expenses, and for the detailed method (required for expenses over $400 in total), you'll need to request a T2202S form from the University **before February 16, 2021 at 5pm**. \ Check out the [CUPE 3902 Claiming Work From Home Expense Deductions FAQ](https://www.cupe3902.org/wp-content/uploads/2021/01/Claiming-WFH-Deductions.pdf "CUPE 3902 Claiming WFH Expense Deductions FAQ (pdf)") page or the [USW Working from Home Tax Changes](https://mcusercontent.com/9831487ef7acc8a9399134d82/files/96510a7a-5f44-4eb3-9e0e-993654b7552e/Working_from_Home_Tax_Changes_2020_2021_01_25_.01.pdf "USW Working from Home Tax Changes information page (pdf)") page for more information.
+* Work from Home Expenses \\
+This one is new this year (thanks COVID), and allows you to deduct some of your work from home expenses. **Note:** There are two methods for claiming these expenses, and for the detailed method (required for expenses over $400 in total), you'll need to request a T2202S form from the University **before February 16, 2021 at 5pm**. \\
+Check out the [CUPE 3902 Claiming Work From Home Expense Deductions FAQ](https://www.cupe3902.org/wp-content/uploads/2021/01/Claiming-WFH-Deductions.pdf "CUPE 3902 Claiming WFH Expense Deductions FAQ (pdf)") page or the [USW Working from Home Tax Changes](https://mcusercontent.com/9831487ef7acc8a9399134d82/files/96510a7a-5f44-4eb3-9e0e-993654b7552e/Working_from_Home_Tax_Changes_2020_2021_01_25_.01.pdf "USW Working from Home Tax Changes information page (pdf)") page for more information.
 
-* Medical Expenses (including premiums paid to a private insurance plan) \ Links to get you started: [Deducting premiums paid for a private health insurance plan](https://turbotax.intuit.ca/tips/deducting-premiums-paid-for-a-private-health-insurance-plan-366 "Turbo tax info page on private health insurance plan deductions"); [Medical Expense Tax Credit](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-1-health-medical/income-tax-folio-s1-f1-c1-medical-expense-tax-credit.html "CRA page on the medical expense tax credit"); [Which medical expenses can you claim?](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html#mdcl_xpns "CRA info page on claiming medical expenses")
+* Medical Expenses (including premiums paid to a private insurance plan) \\
+Links to get you started: [Deducting premiums paid for a private health insurance plan](https://turbotax.intuit.ca/tips/deducting-premiums-paid-for-a-private-health-insurance-plan-366 "Turbo tax info page on private health insurance plan deductions"); [Medical Expense Tax Credit](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-1-health-medical/income-tax-folio-s1-f1-c1-medical-expense-tax-credit.html "CRA page on the medical expense tax credit"); [Which medical expenses can you claim?](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html#mdcl_xpns "CRA info page on claiming medical expenses")
 
-* Rent \ While you can't **directly** claim your rental costs, they count towards the [Ontario Energy and Property Tax Credit](https://www.ontario.ca/page/ontario-trillium-benefit#section-2 "Ontario government trillium benefits page section on the OEPTC") which is part of the [Ontario Trillium Benefit](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/provincial-territorial-programs/ontario-trillium-benefit-questions-answers.html "Ontario government OTB FAQ page")
+* Rent \\
+While you can't **directly** claim your rental costs, they count towards the [Ontario Energy and Property Tax Credit](https://www.ontario.ca/page/ontario-trillium-benefit#section-2 "Ontario government trillium benefits page section on the OEPTC") which is part of the [Ontario Trillium Benefit](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/provincial-territorial-programs/ontario-trillium-benefit-questions-answers.html "Ontario government OTB FAQ page")
 
 ## Get Added to an Email List
 
