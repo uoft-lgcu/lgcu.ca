@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How To
-modified: 2021-01-27
+modified: 2021-03-14
 permalink: /how-to/
 ---
 
@@ -43,8 +43,8 @@ Still having trouble after following these steps? Contact [{{site.data.members.p
 
 Since we're both employees and students, the University supplies us with a variety of fun and engaging tax documents, including:
 
-* T2202 (previously the T2202A) - Tuition and Enrolment Certificate \\ 
-This form is for students who've paid tuition fees that are eligible to be claimed \\ 
+* T2202 (previously the T2202A) - Tuition and Enrolment Certificate \\
+This form is for students who've paid tuition fees that are eligible to be claimed \\
 [T2202 FAQ](https://studentaccount.utoronto.ca/tax-information/t2202-tuition-and-enrolment-certificate/ "U of T T2202 FAQ page")
 
 * T4A - Statement of Pension, Retirement, Annuity, and Other Income \\
