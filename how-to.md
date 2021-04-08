@@ -56,6 +56,8 @@ This is a summary of your employment earnings and deductions for the year (e.g. 
 
 These documents usually become available sometime in February. The T4 will be available through [Employee Self-Service](https://easi.its.utoronto.ca/administrative-web-services/employee-self-service-ess/ "U of T Employee Self-Service Portal"). The T2202 will be available through [ACORN](https://acorn.utoronto.ca/sws/#/ "U of T Accessible Campus Online Resource Network (ACORN) portal"). Depending on the source of your income, you might have two T4As from the University, one available through [Employee Self-Service](https://easi.its.utoronto.ca/administrative-web-services/employee-self-service-ess/ "U of T Employee Self-Service Portal") and one through [ACORN](https://acorn.utoronto.ca/sws/#/ "U of T Accessible Campus Online Resource Network (ACORN) portal"), so be sure to check both places.
 
+**Note:** Some specialized tax documents (like the T2200S form) can be tricky to find through Employee Self Service. When you sign in, make sure you click "Pay and Benefits Information" to find all your tax forms, instead of "Tax Slip" under "Most Frequently Used" (the latter will only display your T4).
+
 If you're having trouble finding your tax forms after the release date (usually late February), or you have other questions about these documents, a good person to talk to is [{{site.data.members.departmental_officer.name}}](https://www.linguistics.utoronto.ca/people/directories/staff/{{site.data.members.departmental_officer.fullname | slugify}} "Department directory entry for {{site.data.members.departmental_officer.name}}").
 
 ### Other Tax Write-Offs
