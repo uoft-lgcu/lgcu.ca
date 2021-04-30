@@ -322,17 +322,17 @@ swag3:
 
 # Welcome Workshop committee **Note:** Membership updates at the mid-year meeting for this committee
 welcomeworkshop1:
-  name: "Liam Donohue"
-  fullname: "Liam Donohue"
-welcomeworkshop2:
-  name: "Pocholo Umbal"
-  fullname: "Pocholo Umbal"
-welcomeworkshop3:
   name: "Shabri Kapoor"
   fullname: "Shabri Kapoor"
+welcomeworkshop2:
+  name: "Lisa Schlegl"
+  fullname: "Lisa Schlegl"
+welcomeworkshop3:
+  name: "Lisa Sullivan"
+  fullname: "Lisa Sullivan"
 welcomeworkshop4:
-  name: "Zhanao Fu"
-  fullname: "Zhanao Fu"
+  name: "Lex Konnelly"
+  fullname: "Lex Konnelly"
 
 # Currently defunct Departmental committees (due to COVID-19)
 # Guest speaker committee
