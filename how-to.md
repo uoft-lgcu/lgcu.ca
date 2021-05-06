@@ -17,7 +17,7 @@ If you have any suggestions for information/guides that should be added to this 
 
 There are two general-use printers in the department. PiSheng is upstairs in the mail room; Alcuin is downstairs in room 568. Neither printer has user codes set up, this means that you can print remotely from any device, as long as you have the IP addresses and appropriate drivers installed. (If you don't have the IP addresses, ask one of your fellow grad students).
 
-**Note:** You can also print files from a USB device. Only printer-ready files (like pdfs) cab be printed this way. Just plug in your USB to the port on the front of the printer, and follow the on-screen instructions.
+**Note:** You can also print files from a USB device. Only printer-ready files (like pdfs) can be printed this way. Just plug in your USB to the port on the front of the printer, and follow the on-screen instructions.
 
 ### Accessing the Printers Through a Browser
 
