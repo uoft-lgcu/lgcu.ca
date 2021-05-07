@@ -30,15 +30,22 @@ gsu_rep:
   fullname: "Robert Prazeres"
 
 # CUPE Representatives
-cupe_stg: 
+cupe_stg1: 
   name: "Vidhya Elango"
   fullname: "Vidhya Elango"
-cupe_utsc: 
+  nonuoft_email: "vidhya.elango@hotmail.com"
+cupe_stg2: 
   name: "Andrew Peters"
   fullname: "Andrew Peters"
+  nonuoft_email: "anbpeters@gmail.com"
+cupe_utsc: 
+  name:
+  fullname:
+  nonuoft_email:
 cupe_utm:
   name: "Tim Gadanidis"
   fullname: "Timothy Gadanidis"
+  nonuoft_email: "tim@gadanidis.ca"
 
 # LGCU Departmental Committees (note: committee1 should always be contact person, referenced in-text if only one member is)
 

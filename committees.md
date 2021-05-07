@@ -37,10 +37,17 @@ LGCU members within the funded cohort are expected to serve on at least one comm
 
 ### CUPE Stewards
 
-[{{site.data.members.cupe_stg.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_stg.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_stg.name}}"), [{{site.data.members.cupe_utm.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_utm.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_utm.name}}") (UTM), [{{site.data.members.cupe_utsc.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_utsc.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_utsc.name}}") (UTSC)
+St. George:
+- {% if site.data.members.cupe_stg1.name %} [{{site.data.members.cupe_stg1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_stg1.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_stg1.name}}") {% else %} vacant {% endif %}
+- {% if site.data.members.cupe_stg2.name %} [{{site.data.members.cupe_stg2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_stg2.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_stg2.name}}") {% else %} (vacant position) {% endif %}
 
-> Represent the department in CUPE3902; attend Steward Council meetings. Elected by the CUPE members of the LGCU (those who have a TA appointment for 50 hours or more).
-> 
+UTM:
+- {% if site.data.members.cupe_utm.name %} [{{site.data.members.cupe_utm.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_utm.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_utm.name}}") {% else %} (vacant position) {% endif %}
+
+UTSC:
+- {% if site.data.members.cupe_utsc.name %} [{{site.data.members.cupe_utsc.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.cupe_utsc.fullname | slugify}} "Department directory entry for {{site.data.members.cupe_utsc.name}}") {% else %} (vacant position) {% endif %}
+
+> Assist members with issues in the workplace; answer questions about CUPE 3902; represent the department in CUPE 3902; attend Steward Council meetings. Not an actual committee of the LGCU; elected by members of CUPE 3902, Unit 1 with 50 hours or more of work in the relevant department.
 
 ## Departmental committees
 
