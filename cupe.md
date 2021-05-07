@@ -4,6 +4,8 @@ title: CUPE 3902
 permalink: /cupe/
 ---
 
+**NOTE: The information on this page is very old. We are hoping to update it very soon, but in the meantime, if you have any questions, please contact a steward.**
+
 If you have received an employment position as a TA, grader, or course instructor, you are a member of a labour union on campus. This means that you have rights, protections, and benefits as a worker. Contract academic positions at the U of T are unionized as CUPE Local 3902. As graduate students, we are specifically members of CUPE 3902 Unit 1. Sign a union card at your first TA training session. See this introductory letter from the Union.
 
 Please note that you are legally defined as a member of the union regardless of your personal stance on unions. You receive the rights and benefits of a union member, and have union dues deducted from your wages, even if you do not sign a union card. You are a member of the union as soon as your contract begins, and remain a member until a full year after the end of your most recent employment contract. (This is so that you remain a member even over summer break or while on leave.)
