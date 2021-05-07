@@ -6,3 +6,6 @@ _site
 # ignore bundler directories
 .bundle/
 vendor/
+
+# ignore .ruby-version from rbenv 
+.ruby-version
