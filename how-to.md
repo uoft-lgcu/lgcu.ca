@@ -78,7 +78,7 @@ While you can't **directly** claim your rental costs, they count towards the [On
 
 A lot of information for grad students comes through email listservs (collections of email addresses that can be sent to in one go). A lot of the time, you'll be automatically added based on your status as a grad student and your research interests, but if you find you're not on a list you'd like to be on (or you're not receiving emails you'd expect to), contact the person who currently runs the list.
 
-* Linguistics Department Listserv (LINGDEPT-L) - This sends to everyone in the department at once (run by {{site.data.staff.graduate_admin.name}})
+* Linguistics Department Listserv (LINGDEPT-L) - This sends to everyone in the department at once (run by [{{site.data.staff.graduate_admin.name}}](https://www.linguistics.utoronto.ca/people/directories/staff/{{site.data.staff.graduate_admin.fullname | slugify}} "Department directory entry for {{site.data.staff.graduate_admin.name}}"))
 * LGCU Listserv (LGCU-L) - This sends to current LGCU members (fellow graduate students) (Currently run by [{{site.data.listservs.lgcu-l.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.lgcu-l.fullname | slugify}} "Department directory entry for {{site.data.members.lgcu-l.name}}"))
 
 ### Department Research Groups
