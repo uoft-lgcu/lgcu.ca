@@ -1,0 +1,13 @@
+# Members of the faculty executive.
+
+department_chair:
+  name: "Sali Tagliamonte"
+  fullname: "Sali Tagliamonte"
+
+grad_coordinator:
+  name: "Yoonjung Kang"
+  fullname: "Yoonjung Kang"
+
+undergrad_coordinator:
+  name: "Alexei Kochetov"
+  fullname: "Alexei Kochetov"

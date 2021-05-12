@@ -1,12 +1,4 @@
-# How to make an entry:
-# Use the format:
-role1:
-  name: "Preferred Name"
-  fullname: "Departmentwebsite Name"
-# Place the member's preferred name in the "name:" location (this is what will appear in text and metatext on the LGCU website)
-# Place the member's name as it appears on the department website in the "fullname:" location (this will ensure that links to their contact information
-# function appropriately)
-# If the member's preferred name is the name that appears on the department website, use the same name in both locations.
+# LGCU committee members.
 
 # LGCU Executive Positions
 president1:
@@ -316,49 +308,3 @@ plants:
 
 # Ad-Hoc committees
 # [needs to be updated]
-
-# Members with specific responsibilities
-printer:
-  name: "Radu Craioveanu"
-  fullname: "Radu Craioveanu"
-facebook:
-  name: "Fiona Wilson"
-  fullname: "Fiona Wilson"
-zulip:
-  name: "Tim Gadanidis"
-  fullname: "Timothy Gadanidis"
-
-# People running/responsible for a listserv
-
-lgcu-l:
-  name: "Radu Craioveanu"
-  fullname: "Radu Craioveanu"
-lingdept-l:
-  name: "Graduate Administrator (Currently Unfilled)"
-fieldling:
-  name: "Greg Antono"
-  fullname: "Gregory Antono"
-syntax:
-  name: "Sahar Taghipour"
-  fullname: "Sahar Taghipour"
-sem-prag:
-  name: "Heather Stephens"
-  fullname: "Heather Stephens"
-phon:
-  name: "Andrei Munteanu"
-  fullname: "Andrei Munteanu"
-lvc:
-  name: "Kaleigh Woolford"
-  fullname: "Kaleigh Woolford"
-
-
-
-# Non-members referenced on the website (typically linguistics faculty or staff)
-# Note: link will have to be different for these individuals, because the link as written refers to the grad student part of the page
-
-departmental_officer:
-  name: "Mary Hsu"
-  fullname: "Mary Hsu"
-department_chair:
-  name: "Sali Tagliamonte"
-  fullname: "Sali Tagliamonte"

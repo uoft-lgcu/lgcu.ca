@@ -1,0 +1,13 @@
+# Department staff members.
+
+departmental_officer:
+  name: "Mary Hsu"
+  fullname: "Mary Hsu"
+
+graduate_admin:
+  name: "Christopher Lee"
+  fullname: "Christopher Lee"
+
+undergrad_admin:
+  name: "Sara Taghinia"
+  fullname: "Sara Taghinia"
