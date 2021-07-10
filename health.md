@@ -52,6 +52,8 @@ The GSU plan and the CUPE top-up plan together cover a wide variety of health ca
 
 * [CUPE Unit 1 benefit booklet (detailed breakdown) test 2](https://uoft-lgcu.github.io/assets/CUPE_benefit_booklet_Jan2019.pdf)
 
+* [CUPE Unit 1 benefit booklet (detailed breakdown) test 3](/assets/CUPE_benefit_booklet_Jan2019.pdf)
+
 * [Top-up plan FAQ](https://www.cupe3902.org/wp-content/uploads/2018/09/Benefits-FAQ.pdf "CUPE3902 Unit 1 Health Benefits FAQ (pdf)")
 
 * [Summary of Coverage Amounts for Both Plans](https://www.cupe3902.org/wp-content/uploads/2018/04/GSU_Unit1TopUp_2016-17Coverage_table.pdf "Table of maximum amounts that can be claimed for both health plans (pdf)")
