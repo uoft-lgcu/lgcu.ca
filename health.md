@@ -42,11 +42,15 @@ The GSU plan and the CUPE top-up plan together cover a wide variety of health ca
 
 * [GSU plan brochure](http://www.ihaveaplan.ca/RTEContent/Document/EN/Brochure/Current_UTGSU.pdf "UTGSU Health and Dental Brochure (pdf)")
 
-* [GSU benefit booklet](http://www.studentcare.ca/RTEContent/Document/EN/Miscellaneous/UTGSU_benefit_booklet.pdf "UTGSU Health and Dental Benefits Booklet (pdf)")
+* [GSU benefit booklet (detailed breakdown)](http://www.studentcare.ca/RTEContent/Document/EN/Miscellaneous/UTGSU_benefit_booklet.pdf "UTGSU Health and Dental Benefits Booklet (pdf)")
 
 * [CUPE Top-up plan pamphlet](https://www.cupe3902.org/wp-content/uploads/2016/10/CUPE-3902-UNIT-1-TOP-UP-PLAN-PAMPHLET.pdf.pdf "CUPE3902 What you need to know pamphlet (pdf)")
 
-* [CUPE Unit 1 Benefits](https://www.cupe3902.org/wp-content/uploads/2017/09/2017-18-Unit-1-Benefits-Funds.pdf "CUPE3902 Unit 1 Benefits brochure (pdf)")
+* [CUPE Unit 1 Benefits general information](https://www.cupe3902.org/wp-content/uploads/2017/09/2017-18-Unit-1-Benefits-Funds.pdf "CUPE3902 Unit 1 Benefits brochure (pdf)")
+
+<a href="https://uoft-lgcu.github.io/assets/CUPE_benefit_booklet_Jan2019.pdf" download="CUPE_benefit_booklet_Jan2019">CUPE benefits test 1</a>
+
+* [CUPE Unit 1 benefit booklet (detailed breakdown) test 2](https://uoft-lgcu.github.io/assets/CUPE_benefit_booklet_Jan2019.pdf)
 
 * [Top-up plan FAQ](https://www.cupe3902.org/wp-content/uploads/2018/09/Benefits-FAQ.pdf "CUPE3902 Unit 1 Health Benefits FAQ (pdf)")
 
