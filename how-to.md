@@ -12,6 +12,10 @@ using the LGCU resources described in the [support and community resources secti
 If you have any suggestions for information/guides that should be added to this page, be sure to let us know using the [LGCU Website 'issues' form](https://gitreports.com/issue/uoft-lgcu/uoft-lgcu.github.io "LGCU website issue reporting form").
 
 # How to...
+{:.no_toc}
+
+* This list will be replaced by ToC
+{:toc}
 
 ## Print at the Department
 
@@ -19,7 +23,7 @@ There are two general-use printers in the department. PiSheng is upstairs in the
 
 **Note:** You can also print files from a USB device. Only printer-ready files (like pdfs) can be printed this way. Just plug in your USB to the port on the front of the printer, and follow the on-screen instructions.
 
-### Accessing the Printers Through a Browser
+### Access the Printers Through a Browser
 
 If you're on a device you can't (or don't want to) install drivers on, or are having technical difficulties, you can print directly through a browser using the IP addresses.
 
@@ -27,7 +31,7 @@ Use the URL: "http://[IP ADDRESS]/"
 
 Click on the Print tab; you will be able to browse for a file and submit it for printing. Like with printing from a USB, this will only work for printer-ready files like pdfs.
 
-### Setting Up Printing on Your Device
+### Set Up Printing on Your Device
 
 1. Download the necessary drivers. The drivers are available from [the Xerox Support page linked here](www.support.xerox.com/support/workcentre-5735-5740-5745-5755/downloads/enus.html "Xerox Support Workcentre downloads"), or search the Xerox website for drivers for the **Xerox WorkCentre 5745**. Select your OS from the dropdown menu. For OSX, you only have one driver package to choose from; for Windows, you have a few options. In the past, the PCL6 driver has been recommended; however, recent reports suggest that this is no longer ideal. Try the web-based installer or the global driver instead for now. Linux users will need a modified .ppd for use with CUPS (available through [this dropbox link](https://www.dropbox.com/s/cb0xfz8rllpdrs0/xr_WorkCentre5735.ppd "Dropbox link for a modified .ppd file for Linux users") (some users have had trouble getting this to work; remember that accessing the printers through the browser method above is always an option).
 
@@ -95,7 +99,7 @@ The [calendar](https://uoft-lgcu.github.io/calendar/ "LGCU Website Events Page")
 
 It's possible to check and edit the calendars just by signing in to the gmail account directly, but this is not recommended. Gmail gets upset after too many sign-ins from different devices and will refuse to sign you in without access to the recovery email. This means no one can access the account until we track down who is the current recovery email for the account (usually a member of the LGCU executive) and get them to open things up again. It's super annoying. Therefore, don't habitually use the gradroom568 account for booking, etc., but instead sign in once and share the calendars you want with your own gmail account, so you can access them that way.
 
-### To share the calendar with yourself
+### Share the Calendar with Yourself
 
 1. Sign in to gmail using the "gradroom568@gmail.com" account (and the password you've sourced already)
 
