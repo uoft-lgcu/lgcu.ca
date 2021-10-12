@@ -285,6 +285,13 @@ UTSC:
 
 *In charge of distributing LGCU t-shirts and developing additional LGCU fandom opportunities.*
 
+### Grant Repository Committee
+
+{% assign length = site.data.committees.grant_repository.size %}
+{% for member in site.data.committees.grant_repository %} {% if length == site.data.committees.grant_repository.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
+
+*Collects and distributes successful grant proposals that have been made available by current and former LGCU members*
+
 [//]: # (Ad-hoc committees)
 
 [//]: # (Department Funds Allocation Committee)
