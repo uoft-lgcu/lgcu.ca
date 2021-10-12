@@ -39,75 +39,69 @@ cupe_utm:
 
 # Curriculum committee
 curriculum:
-  - name: "Radu Craioveanu"
-    fullname: "Radu Craioveanu"
   - name: "Lisa Sullivan"
     fullname: "Lisa Sullivan"
+  - name: "Liam Donohue"
+    fullname: "Liam Donohue"
 
 # WHITL blog committee
 whitl:
   - name: "Will Williams"
     fullname: "Will Williams"
+  - name: "Parker Robbins"
+    fullname: "Parker Robbins"
 
 # Library committee
 library:
-  - name: "Liam Donohue"
-    fullname: "Liam Donohue"
+  - name: "Ryan MacDonald"
+    fullname: "Ryan MacDonald"
   - name: "Tim Gadanidis"
     fullname: "Timothy Gadanidis"
 
 # Toronto working papers in linguistics
 twpl_chair:
-  name: "Pocholo Umbal"
-  fullname: "Pocholo Umbal"
+  name: "Greg Antono"
+  fullname: "Gregory Antono"
 
 twpl_editors:
+  - name: "Greg Antono"
+    fullname: "Gregory Antono"
   - name: "Pocholo Umbal"
     fullname: "Pocholo Umbal"
-  - name: "Angelika Kiss"
-    fullname: "Angelika Kiss"
-  - name: "Alec Kienzle"
-    fullname: "Alec Kienzle"
-  - name: "Lauren Bigelow"
-    fullname: "Lauren Bigelow"
-  - name: "Shabri Kapoor"
-    fullname: "Shabri Kapoor"
-  - name: "Koorosh Ariyaee"
-    fullname: "Koorosh Ariyaee"
-  - name: "Kiranpreet Nara"
-    fullname: "Kiranpreet Nara"
-  - name: "Lisa Schlegl"
-    fullname: "Lisa Schlegl"
-  - name: "Emilia Melara"
-    fullname: "Emilia Melara"
-  - name: "Heather Yawney"
-    fullname: "Heather Yawney"
-  - name: "Justin Leung"
-    fullname: "Justin Leung"
-  - name: "Andrew Peters"
-    fullname: "Andrew Peters"
-  - name: "Nadia Takhtaganova"
-    fullname: "Nadia Takhtaganova"
   - name: "Kaleigh Woolford"
     fullname: "Kaleigh Woolford"
+  - name: "Koorosh Ariyaee"
+    fullname: "Koorosh Ariyaee"
   - name: "Sahar Taghipour"
     fullname: "Sahar Taghipour"
+  - name: "Christy Moser"
+    fullname: "Christiana Moser"
+  - name: "Parker Robbins"
+    fullname: "Parker Robbins"
+  - name: "Shabri Kapoor"
+    fullname: "Shabri Kapoor"
+  - name: "Justin Leung"
+    fullname: "Justin Leung"
+  - name: "Lauren Bigelow"
+    fullname: "Lauren Bigelow"
+   - name: "Lisa Schlegl"
+    fullname: "Lisa Schlegl"
+  - name: "Angelika Kiss"
+    fullname: "Angelika Kiss"
 
 # Fall campus day
 fall_campus:
-  - name: "Talia Tahtadjian"
-    fullname: "Talia Tahtadjian"
-  - name: "Laurestine Bradford"
-    fullname: "Laurestine Bradford"
-  - name: "Anissa Baird"
-    fullname: "Anissa Baird"
+  - name: "Gabriel Palmieri"
+    fullname: "Gabriel Palmieri"
+  - name: "Martin Renard"
+    fullname: "Martin Renard"
+  - name: "Emma Bornheimer"
+    fullname: "Emma Bornheimer"
 
 # March break open house
 march_open:
-  - name: "Talia Tahtadjian"
-    fullname: "Talia Tahtadjian"
-  - name: "Marjorie Leduc"
-    fullname: "Marjorie Leduc"
+  - name: "Christy Moser"
+    fullname: "Christiana Moser"
   - name: "Crystal Chen"
     fullname: "Crystal Chen"
 
@@ -121,13 +115,15 @@ sig_winter:
 
 # Equity committee
 equity:
-  - name: "Bruno Andreotti"
-    fullname: "Bruno Andreotti"
+  - name: "Akil Ismael"
+    fullname: "Akil Ismael"
+  - name: "Will Williams"
+    fullname: "Will Williams"
 
 # Departmental website committee
 department_website:
-  - name: "Ana Tona Messina"
-    fullname: "Ana Tona Messina"
+  - name: "Ryan MacDonald"
+    fullname: "Ryan MacDonald"
 
 # Welcoming committee
 welcoming:
