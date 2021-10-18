@@ -8,7 +8,7 @@ permalink: /health/
 |-----------------|
 | COVID-19 Information:    |
 |-----------------|
-| This page discusses the health care plans available to LGCU members. Information about the ongoing COVID-19 pandemic (LGCU and Linguistics Department policy, as well as resources) can be found on the [COVID-19](https://uoft-lgcu.github.io/covid-19/ "LGCU COVID-19 information page") page of this website. |
+| This page discusses the health care plans available to LGCU members. Information about the ongoing COVID-19 pandemic (LGCU and Linguistics Department policy, as well as resources) can be found on the [COVID-19]({{ site.base_url }}{% link pages/covid-19.md %} "LGCU COVID-19 information page") page of this website. |
 |-----------------|
 
 
@@ -243,8 +243,8 @@ t: 1-866-358-4436   e: health@utgsu.ca
 
 * Your fellow grad students can be a great source of advice and support (even if it's just about what dentist they go to). To get in touch in the age of social distancing, you can: email the LGCU listserv (LGCU-L@listserv.utoronto.ca); contact [{{site.data.members.facebook.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.facebook.fullname | slugify}} "Department directory entry for {{site.data.members.facebook.name}}") to be added to the LGCUers facebook page; or contact [{{site.data.members.zulip.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.zulip.fullname | slugify}} "Department directory entry for {{site.data.members.zulip.name}}") to be added to the LGCU virtual lounge on Zulip.
 
-* The LGCU's own [Mindsweepers Wellness Committee](https://uoft-lgcu.github.io/committees/#mindsweeper-wellness-committee "LGCU Committees page")
-Mindsweepers **does not** provide direct support to students, but may be able to point you in the direction of some good resources. You can send them suggestions or get involved yourself.
+* The LGCU's own [Mindsweepers Wellness Committee]({{ site.base_url }}{% link pages/committees.md %}#mindsweeper-wellness-committee "LGCU Committees page")
+**does not** provide direct support to students, but may be able to point you in the direction of some good resources. You can send them suggestions or get involved yourself.
 
 ## Miscellaneous Issues
 
