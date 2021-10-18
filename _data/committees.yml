@@ -2,20 +2,20 @@
 
 # LGCU Executive Positions
 president1:
-  name: "Lex Konnelly"
-  fullname: "Lex Konnelly"
-president2:
   name: "Tim Gadanidis"
   fullname: "Timothy Gadanidis"
+president2:
+  name: "Lisa Schlegl"
+  fullname: "Lisa Schlegl"
 treasurer:
   name: "Shabri Kapoor"
   fullname: "Shabri Kapoor"
 secretary:
-  name: "Kaz Bamba"
-  fullname: "Kazuya Bamba"
+  name: "Ryan MacDonald"
+  fullname: "Ryan MacDonald"
 gsu_rep:
-  name: "Robert Prazeres"
-  fullname: "Robert Prazeres"
+  name: "Christy Moser"
+  fullname: "Christiana Moser"
 
 # CUPE Representatives
 cupe_stg1:
@@ -235,10 +235,12 @@ outreach:
 
 # Anti-Harassment Taskforce
 aht:
-  - name: "Maya Blumenthal"
-    fullname: "Maya Blumenthal"
-  - name: "Akil Ismael"
-    fullname: "Akil Ismael"
+  - name: "Lauren Bigelow"
+    fullname: "Lauren Bigelow"
+  - name: "Lisa Schlegl"
+    fullname: "Lisa Schlegl"
+  - name: "Pocholo Umbal"
+    fullname: "Pocholo Umbal"
 
 # Swag committee
 swag:
