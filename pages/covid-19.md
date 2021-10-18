@@ -33,7 +33,7 @@ You're entitled to a safe workplace, and if you are exposed to COVID-19 on campu
 
 * If your WSIB claim has been denied, email your denial letter to [ wsibintake@cupe.ca](mailto:wsibintake@cupe.ca "CUPE WSIB intake email address") (C/O Daniela Greco).
 
-* Your [CUPE union reps](https://uoft-lgcu.github.io/committees/#cupe-stewards "LGCU Committees page section on CUPE stewards") can help you if you're having trouble filing a claim.
+* Your [CUPE union reps]({{ site.base_url}}{% link pages/committees.md %}#cupe-3902-unit-1-stewards "LGCU Committees page section on CUPE stewards") can help you if you're having trouble filing a claim.
 
 You can find more information about WSIB benefits and eligibility be reading [this pamphlet on COVID-19 exposure in the workplace](https://cupe.on.ca/wp-content/uploads/2020/05/Handout_WSIB_COVID-19-FINAL-v2.pdf "Have You Been Exposed to COVID-19 in the Workplace? (pdf)")
 

@@ -5,7 +5,7 @@ modified: 2021-01-29
 permalink: /resources/
 ---
 
-Are there any resources you've found helpful that aren't listed on this page? Let us know using [the LGCU website issues form](https://gitreports.com/issue/uoft-lgcu/uoft-lgcu.github.io "LGCU website issues form")!
+Are there any resources you've found helpful that aren't listed on this page? Let us know using [the LGCU website issues form](https://gitreports.com/issue/uoft-lgcu/lgcu.ca "LGCU website issues form")!
 
 **On This Page**
 * This list will be replaced by ToC
@@ -57,7 +57,7 @@ Are there any resources you've found helpful that aren't listed on this page? Le
 
 ### Tax Form Information Pages
 
-Check out the [LGCU website How-to page](https://uoft-lgcu.github.io/how-to/#get-your-tax-documents "LGCU website How-to page, section on tax documents") for more details about downloading your tax forms, and what deductions to check out.
+Check out the [LGCU website How-to page]({{ site.base_url }}{% link pages/how-to.md %}#get-your-tax-documents "LGCU website How-to page, section on tax documents") for more details about downloading your tax forms, and what deductions to check out.
 
 * [T2202 FAQ](https://studentaccount.utoronto.ca/tax-information/t2202-tuition-and-enrolment-certificate/ "U of T T2202 Info Page")
 
@@ -73,7 +73,7 @@ Check out the [LGCU website How-to page](https://uoft-lgcu.github.io/how-to/#get
 
 ## CUPE 3902
 
-For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](https://uoft-lgcu.github.io/cupe/ "CUPE3902 Page on this site") of this site.
+For more information on CUPE 3902 (our labour union), see the [cupe 3902 page]({{ site.base_url }}{% link pages/cupe.md %} "CUPE3902 Page on this site") of this site.
 
 * [CUPE 3902](https://www.cupe3902.org/ "CUPE 3902 Main page")
 
@@ -129,7 +129,7 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](h
 
 * [Library Thesis Formatting Guidelines and Templates](https://www.sgs.utoronto.ca/academic-progress/program-completion/formatting/ "U of T Library Thesis Formatting")
 
-* [LGCU writing support committee](https://uoft-lgcu.github.io/committees/#writing-support "LGCU Writing Support Committee entry on this site")
+* [LGCU writing support committee]({{ site.base_url }}{% link pages/committees.md %}#writing-support "LGCU Writing Support Committee entry on this site")
 
 * [Teaching Assistants' Training Program](https://tatp.utoronto.ca/ "U of T Teaching Assistants' Training Program Main page") \ [Teaching Fundamentals Certificate](https://tatp.utoronto.ca/certificate-program/tf-certificate/ "Teaching Fundamentals Certificate information page") \ [Advanced University Teaching Preparation Certificate](https://tatp.utoronto.ca/certificate-program/autp-certificate/ "Advanced University Teaching Preparation Certificate information page")
 
@@ -153,7 +153,7 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page](h
 
 ## COVID-19
 
-For more information about COVID-19 guidelines and resources, see the [COVID-19 page](https://uoft-lgcu.github.io/covid-19/ "COVID-19 page of the LGCU site") on this site.
+For more information about COVID-19 guidelines and resources, see the [COVID-19 page]({{ site.base_url }}{% link pages/covid-19.md %} "COVID-19 page of the LGCU site") on this site.
 
 ### Tuition Fee Exemption
 
@@ -195,7 +195,7 @@ For more information about COVID-19 guidelines and resources, see the [COVID-19 
 
 ## Health
 
-For more information about LGCU health care, see the [health page](https://uoft-lgcu.github.io/health/ "Health page of the LGCU site") on this site.
+For more information about LGCU health care, see the [health page]({{ site.base_url }}{% link pages/health.md %} "Health page of the LGCU site") on this site.
 
 ### Health Benefits Resources
 

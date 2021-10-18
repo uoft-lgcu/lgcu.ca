@@ -15,4 +15,4 @@ permalink: /calendar/
 
 Some calendars are public, and viewable to everyone (e.g. scheduled colloquium talks). Other calendars are private, and you'll need permission to view them (e.g. computer lab bookings). If you already have permissions, make sure you're logged into the right gmail account to view the calendar. If you don't have permissions yet, you'll need to log into the grad student calendar gmail account (ask your fellow grad students how!) and share the calendars with yourself.
 
-For more information about getting access to the calendars, check out the [how to page](https://uoft-lgcu.github.io/how-to/#access-the-grad-calendars "LGCU How To page section on accessing the grad calendars") on this site.
+For more information about getting access to the calendars, check out the [how to page]({{ site.base_url }}{% link pages/how-to.md %} "LGCU How To page section on accessing the grad calendars") on this site.

@@ -6,10 +6,10 @@ permalink: /how-to/
 ---
 
 Note: This page is currently under construction. If there is something specific you were looking for information on, consider reaching out to your fellow grad students
-using the LGCU resources described in the [support and community resources section of the website](https://uoft-lgcu.github.io/resources/#support-and-community-resources
+using the LGCU resources described in the [support and community resources section of the website]({{ site.base_url }}{% link pages/resources.md %}
 "Support and community resources section of the LGCU website resources page").
 
-If you have any suggestions for information/guides that should be added to this page, be sure to let us know using the [LGCU Website 'issues' form](https://gitreports.com/issue/uoft-lgcu/uoft-lgcu.github.io "LGCU website issue reporting form").
+If you have any suggestions for information/guides that should be added to this page, be sure to let us know using the [LGCU Website 'issues' form](https://gitreports.com/issue/uoft-lgcu/lgcu.ca "LGCU website issue reporting form").
 
 # How to...
 {:.no_toc}
@@ -95,7 +95,7 @@ A lot of information for grad students comes through email listservs (collection
 
 ## Access the Grad Calendars
 
-The [calendar](https://uoft-lgcu.github.io/calendar/ "LGCU Website Events Page") takes its information from the current grad student calendars. These are stored in the gmail account gradroom568@gmail.com (ask another grad student for password).
+The [calendar]({{ site.base_url}}{% link pages/calendar.md %} "LGCU Website Events Page") takes its information from the current grad student calendars. These are stored in the gmail account gradroom568@gmail.com (ask another grad student for password).
 
 It's possible to check and edit the calendars just by signing in to the gmail account directly, but this is not recommended. Gmail gets upset after too many sign-ins from different devices and will refuse to sign you in without access to the recovery email. This means no one can access the account until we track down who is the current recovery email for the account (usually a member of the LGCU executive) and get them to open things up again. It's super annoying. Therefore, don't habitually use the gradroom568 account for booking, etc., but instead sign in once and share the calendars you want with your own gmail account, so you can access them that way.
 
