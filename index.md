@@ -16,9 +16,9 @@ Student Union (GSU).
 
 Thanks to TA-ships and instructorships, almost all of the graduate students in
 the department are also members of the Canadian Union of Public Employees
-(CUPE). CUPE 3902 advocates for graduate student employees at the University of
-Toronto (and many other contract academic workers!); the GSU represents graduate
-students across the University of Toronto. The LGCU is focused on the
+(CUPE). CUPE 3902 advocates for graduate student employees (and many other
+contract academic workers!) at the University of Toronto; the GSU represents
+graduate students across the University of Toronto. The LGCU is focused on the
 experiences of graduate students within the Department of Linguistics.
 
 We work with the rest of the department to improve the graduate experience. We
