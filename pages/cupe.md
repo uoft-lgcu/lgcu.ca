@@ -63,7 +63,7 @@ The union bargains a contract that applies collectively to all Unit 1 employees.
 - Financial assistance funds (funding top-ups, tuition assistance post-funding, childcare assistance, UHIP fee assistance). Expect to apply for these in the winter/spring.
 - Paid training time (first time TA, first time instructor, new course/tutorial category).
 - Leaves: academic conferences, thesis defense, union service, pregnancy/childbirth, new parental status, serious illness or injury, gender affirming surgery, bereavement.
-- Supplementary health insurance (see [the Health page]({{ site.baseurl }}{% link health.md %})).
+- Supplementary health insurance (see [the Health page]({{ site.baseurl }}{% link pages/health.md %})).
 - Protection from harassment by any party in your workplace (the university).
 - No requirement to work on the weekend except in limited circumstances such as final exam grading
 
