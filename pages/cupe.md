@@ -2,6 +2,7 @@
 layout: page
 title: CUPE 3902
 permalink: /cupe/
+modified: 2021-10-18
 ---
 
 **On This Page**
