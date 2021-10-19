@@ -57,6 +57,8 @@ library:
     fullname: "Ryan MacDonald"
   - name: "Tim Gadanidis"
     fullname: "Timothy Gadanidis"
+  - name: "Gabriel Palmieri"
+    fullname: "Gabriel Palmieri"
 
 # Toronto working papers in linguistics
 twpl_chair:
@@ -226,12 +228,10 @@ tasea:
 
 # Outreach committee
 outreach:
-  - name: "Greg Antono"
-    fullname: "Gregory Antono"
-  - name: "Talia Tahtadjian"
-    fullname: "Talia Tahtadjian"
-  - name: "Laurestine Bradford"
-    fullname: "Laurestine Bradford"
+  - name: "Akil Ismael"
+    fullname: "Akil Ismael"
+  - name: "Maya Blumenthal"
+    fullname: "Maya Blumenthal"
 
 # Anti-Harassment Taskforce
 aht:
