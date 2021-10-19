@@ -121,9 +121,9 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page]({
 
 * [OISE Library Care Package](https://oiselibrarycarepackage.wordpress.com/ "OISE Library Care Package")
 
-* LGCUers Facebook Group (private group, email [{{site.data.members.facebook.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.informal_roles.facebook.fullname | slugify}} "Department directory entry for {{site.data.members.facebook.name}}") to be added)
+* LGCUers Facebook Group (private group, email [{{site.data.informal_roles.facebook.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.informal_roles.facebook.fullname | slugify}} "Department directory entry for {{site.data.members.facebook.name}}") to be added)
 
-* LGCU Zulip Chat Forum (private group, email [{{site.data.members.zulip.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.informal_roles.zulip.fullname | slugify}} "Department directory entry for {{site.data.members.zulip.name}}") for an invite)
+* LGCU Zulip Chat Forum (private group, email [{{ site.data.informal_roles.zulip.name }}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.informal_roles.zulip.fullname | slugify}} "Department directory entry for {{site.data.members.zulip.name}}") for an invite)
 
 ## Writing and Teaching Resources
 
