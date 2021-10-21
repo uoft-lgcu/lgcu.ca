@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Committees
-modified: 2021-09-16
+modified: 2021-10-18
 permalink: /committees/
 ---
 
