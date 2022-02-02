@@ -25,7 +25,7 @@ Are there any resources you've found helpful that aren't listed on this page? Le
 
 * [Employee Self-Service](https://easi.its.utoronto.ca/administrative-web-services/employee-self-service-ess/ "U of T Employee Self-Service Portal")
 
-* [ACORN]((https://acorn.utoronto.ca/sws/#/ "U of T Accessible Campus Online Resource Network (ACORN) portal")
+* [ACORN](https://www.acorn.utoronto.ca/ "U of T Accessible Campus Online Resource Network (ACORN) portal")(U of T's student information service hub)
 
 * TravelSafer (Campus Police Program that offers escorts between campus buildings, parking lots, and TTC Transit stops near campus): 416-978-7233 (SAFE)
 
