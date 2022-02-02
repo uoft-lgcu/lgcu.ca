@@ -49,9 +49,13 @@ Are there any resources you've found helpful that aren't listed on this page? Le
 
 ## Financial Assistance
 
+### Emergency Financial Resources
+
 * [SGS Emergency Loan](https://www.sgs.utoronto.ca/awards/sgs-emergency-loan/ "SGS Emergency Loan Information Page")
 
 * [SGS Emergency Grant](https://www.sgs.utoronto.ca/awards/sgs-emergency-grant/ "SGS Emergency Grant Information Page")
+
+* [Email the SGS Financial Advising Team](emailto:sgs.financial.assistance@utoronto.ca "Email address for the SGS Financial Advising Team")(Provides resources on various emergency and financial aid programs and the necessary applications)
 
 * [Financial Support and Funding Opportunities Overview Page](https://www.viceprovoststudents.utoronto.ca/covid-19/funding-opportunity-directory/ "U of T Funding Opportunities Directory")
 
