@@ -1,5 +1,3 @@
-.DS_Store
-
 # ignore jekyll metadata
 _site
 .sass-cache
