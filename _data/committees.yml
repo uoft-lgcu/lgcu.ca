@@ -90,6 +90,8 @@ twpl_editors:
     fullname: "Lisa Schlegl"
   - name: "Angelika Kiss"
     fullname: "Angelika Kiss"
+  - name: "Martin Renard"
+    fullname: "Martin Renard"
 
 # Fall campus day
 fall_campus:
