@@ -265,12 +265,10 @@ grant_repository:
 
 # Welcome Workshop committee **Note:** Membership updates at the mid-year meeting for this committee
 welcome_workshop:
-  - name: "Shabri Kapoor"
-    fullname: "Shabri Kapoor"
-  - name: "Lisa Schlegl"
-    fullname: "Lisa Schlegl"
-  - name: "Lisa Sullivan"
-    fullname: "Lisa Sullivan"
+  - name: "Christy Moser"
+    fullname: "Christiana Moser"
+  - name: "Akil Ismael"
+    fullname: "Akil Ismael"
   - name: "Greg Antono"
     fullname: "Gregory Antono"
 
