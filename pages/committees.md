@@ -106,6 +106,8 @@ UTSC:
 
 *Promote inclusion, equality, and anti-oppressive measures within the department.*
 
+## Lounge committees
+
 ### Pop Committee
 
 {% assign length = site.data.committees.pop.size %}
@@ -127,7 +129,8 @@ UTSC:
 {% if site.data.committees.downstairsapps == nil %}(vacant){%endif%}
 {% for member in site.data.committees.downstairsapps %} {% if length == site.data.committees.downstairsapps.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
 
-(Like the upstairs committees for the same things, but at a lower altitude.)
+*Purge/clean fridge and clean small appliances in the downstairs grad space at least once per term.*
+
 
 ### Plants and Beautification Committee
 
