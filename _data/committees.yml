@@ -2,275 +2,208 @@
 
 # LGCU Executive Positions
 president1:
-  name: "Tim Gadanidis"
-  fullname: "Timothy Gadanidis"
-president2:
-  name: "Lisa Schlegl"
-  fullname: "Lisa Schlegl"
-treasurer:
-  name: "Shabri Kapoor"
-  fullname: "Shabri Kapoor"
-secretary:
   name: "Ryan MacDonald"
   fullname: "Ryan MacDonald"
+president2:
+  name: "Aliya Zhaksybek"
+  fullname: "Aliya Zhaksybek"
+treasurer:
+  name: "Nicholas Haggarty"
+  fullname: "Nicholas Haggarty"
+secretary:
+  name: "Lee Jiang"
+  fullname: "Lee Jiang"
 gsu_rep:
   name: "Christy Moser"
   fullname: "Christiana Moser"
 
 # CUPE Representatives
 cupe_stg1:
-  name: "Parker Robbins"
-  fullname: "Parker Robbins"
-  nonuoft_email: "parker.t.robbins@gmail.com"
+  name: "Sable Peters"
+  nonuoft_email:  "anbpeters@gmail.com"
 cupe_stg2:
-  name: "Andrew Peters"
-  fullname: "Andrew Peters"
-  nonuoft_email: "anbpeters@gmail.com"
+  name:
+  nonuoft_email:
 cupe_utsc:
   name:
   fullname:
   nonuoft_email:
 cupe_utm:
-  name: "Tim Gadanidis"
-  fullname: "Timothy Gadanidis"
-  nonuoft_email: "tim@gadanidis.ca"
+  name:
+  nonuoft_email:
 
 # LGCU Departmental Committees (note: for committees that have a contactperson, their name should be listed first)
 
 # Curriculum committee
 curriculum:
-  - name: "Lisa Sullivan"
-    fullname: "Lisa Sullivan"
   - name: "Liam Donohue"
     fullname: "Liam Donohue"
 
-# WHITL blog committee
-whitl:
-  - name: "Will Williams"
-    fullname: "Will Williams"
-  - name: "Parker Robbins"
-    fullname: "Parker Robbins"
+# SIG representatives
+sig_fall:
+  name: "Laura Griffin"
+  fullname: "Laura Griffin"
+sig_winter:
+  name: "Kaleigh Woolford"
+  fullname: "Kaleigh Woolford"
 
 # Library committee
 library:
-  - name: "Ryan MacDonald"
-    fullname: "Ryan MacDonald"
-  - name: "Tim Gadanidis"
-    fullname: "Timothy Gadanidis"
-  - name: "Gabriel Palmieri"
-    fullname: "Gabriel Palmieri"
+  - name: "Yanfei Liu"
+    fullname: "Yanfei Liu"
+  - name: "Nicholas Haggarty"
+    fullname: "Nicholas Haggarty"
 
 # Toronto working papers in linguistics
 twpl_chair:
-  name: "Greg Antono"
-  fullname: "Gregory Antono"
-
-twpl_editors:
   - name: "Greg Antono"
     fullname: "Gregory Antono"
-  - name: "Pocholo Umbal"
-    fullname: "Pocholo Umbal"
-  - name: "Kaleigh Woolford"
-    fullname: "Kaleigh Woolford"
-  - name: "Koorosh Ariyaee"
-    fullname: "Koorosh Ariyaee"
-  - name: "Sahar Taghipour"
-    fullname: "Sahar Taghipour"
-  - name: "Christy Moser"
-    fullname: "Christiana Moser"
-  - name: "Parker Robbins"
-    fullname: "Parker Robbins"
-  - name: "Shabri Kapoor"
-    fullname: "Shabri Kapoor"
-  - name: "Justin Leung"
-    fullname: "Justin Leung"
-  - name: "Lauren Bigelow"
-    fullname: "Lauren Bigelow"
-  - name: "Lisa Schlegl"
-    fullname: "Lisa Schlegl"
-  - name: "Angelika Kiss"
-    fullname: "Angelika Kiss"
+  - name: "Claudia Raihert"
+    fullname: "Claudia Raihert"
+
+twpl_editors:
   - name: "Martin Renard"
     fullname: "Martin Renard"
-
-# Fall campus day
-fall_campus:
-  - name: "Gabriel Palmieri"
-    fullname: "Gabriel Palmieri"
-  - name: "Martin Renard"
-    fullname: "Martin Renard"
-  - name: "Emma Bornheimer"
-    fullname: "Emma Bornheimer"
-
-# March break open house
-march_open:
-  - name: "Christy Moser"
-    fullname: "Christiana Moser"
-  - name: "Crystal Chen"
-    fullname: "Crystal Chen"
-
-# SIG representatives
-sig_fall:
-  name: "Kaleigh Woolford"
-  fullname: "Kaleigh Woolford"
-sig_winter:
-  name: "Virgilio Partida Peñalva"
-  fullname: "Virgilio Partida Peñalva"
-
-# Equity committee
-equity:
-  - name: "Akil Ismael"
-    fullname: "Akil Ismael"
-  - name: "Will Williams"
-    fullname: "Will Williams"
-
-# Departmental website committee
-department_website:
-  - name: "Ryan MacDonald"
-    fullname: "Ryan MacDonald"
-
-# Welcoming committee
-welcoming:
   - name: "Pocholo Umbal"
     fullname: "Pocholo Umbal"
   - name: "Zhanao Fu"
     fullname: "Zhanao Fu"
-
-# Job Application Workshop Series (JAWS) committee
-jaws:
-  - name: "Lisa Sullivan"
-    fullname: "Lisa Sullivan"
-  - name: "Katharina Pabst"
-    fullname: "Katharina Pabst"
-
-# Computer committee
-computer:
-  - name: "Maya Blumenthal"
-    fullname: "Maya Blumenthal"
-  - name: "Parker Robbins"
-    fullname: "Parker Robbins"
-
-# Space committee
-space:
-  - name: "Shabri Kapoor"
-    fullname: "Shabri Kapoor"
-  - name: "Andrew Peters"
-    fullname: "Andrew Peters"
-  - name: "Ryan MacDonald"
-    fullname: "Ryan MacDonald"
-
-# TA evaluations
-ta_eval:
-  name: "Ana Tona Messina"
-  fullname: "Ana Tona Messina"
-
-# Tutoring coordinator
-tutoring:
-  name: "Zachary Feldcamp"
-  fullname: "Zachary Feldcamp"
-
-# Writing support
-writing:
-  - name: "Zachary Feldcamp"
-    fullname: "Zachary Feldcamp"
-  - name: "Nadia Takhtaganova"
-    fullname: "Nadia Takhtaganova"
-  - name: "Christy Moser"
-    fullname: "Christiana Moser"
-
-# Mindsweeper wellness committee
-mindsweepers:
-  - name: "Liam Donohue"
-    fullname: "Liam Donohue"
-  - name: "Ryan MacDonald"
-    fullname: "Ryan MacDonald"
-
-# Social committee
-social:
-  - name: "Kaz Bamba"
-    fullname: "Kazuya Bamba"
-  - name: "Fiona Wilson"
-    fullname: "Fiona Wilson"
-
-# Downstairs Grad Space Fridge/Small Appliance Committee
-downstairs_appliance1:
-  name: "Pocholo Umbal"
-  fullname: "Pocholo Umbal"
-
-# Buddy program committee
-buddy:
-  - name: "Ana Tona Messina"
-    fullname: "Ana Tona Messina"
-  - name: "Lisa Schlegl"
-    fullname: "Lisa Schlegl"
-
-# LGCU website committee
-website:
-  - name: "Tim Gadanidis"
-    fullname: "Timothy Gadanidis"
-  - name: "Fiona Wilson"
-    fullname: "Fiona Wilson"
   - name: "Justin Leung"
     fullname: "Justin Leung"
-  - name: "Crystal Chen"
-    fullname: "Crystal Chen"
-
-# TA Supervision Excellence Award Committee (TASEA)
-tasea:
-  - name: "Lisa Sullivan"
-    fullname: "Lisa Sullivan"
   - name: "Koorosh Ariyaee"
     fullname: "Koorosh Ariyaee"
   - name: "Nadia Takhtaganova"
     fullname: "Nadia Takhtaganova"
-  - name: "Kaz Bamba"
-    fullname: "Kazuya Bamba"
-  - name: "Lisa Schlegl"
-    fullname: "Lisa Schlegl"
+  - name: "Mikayla Oliver"
+    fullname: "Mikayla Oliver"
+  - name: "Kayleigh Woolford"
+    fullname: "Kayleigh Woolford"
+  - name: "Sahar Taghipour"
+    fullname: "Sahar Taghipour"
+  - name: "Will Williams"
+    fullname: "Will Williams"
+  - name: "Christy Moser"
+    fullname: "Christiana Moser"
+  - name: "Katherine Sung"
+    fullname: "Katherine Sung"
 
-# Outreach committee
-outreach:
-  - name: "Akil Ismael"
-    fullname: "Akil Ismael"
-  - name: "Maya Blumenthal"
-    fullname: "Maya Blumenthal"
+# Equity committee
+equity:
 
-# Anti-Harassment Taskforce
-aht:
-  - name: "Lauren Bigelow"
-    fullname: "Lauren Bigelow"
-  - name: "Lisa Schlegl"
-    fullname: "Lisa Schlegl"
+# Pop committee
+pop:
+
+# CommitTEA
+committea:
+  - name: "Nicholas Haggarty"
+    fullname: "Nicholas Haggarty"
+
+# Plants and beautification committee
+plants:
+  - name: "Anujin Munkhbat"
+    fullname: "Anujin Munkhbat"
+
+# Welcoming committee
+welcoming:
+  - name: "Zhanao Fu"
+    fullname: "Zhanao Fu"
+  - name: "Yixin Wang"
+    fullname: "Yixin Wang"
+
+# Job Application Workshop Series (JAWS) committee
+jaws:
+
+# Computer committee
+computer:
+  - name: "Jack Mahlmann"
+    fullname: "Jack Mahlmann"
+
+# Space committee
+space:
+
+# TA evaluations
+ta_eval:
+  name: "Anissa Baird"
+  fullname: "Anissa Baird"
+
+# Tutoring coordinator
+tutoring:
+  name: "Kaz Bamba"
+  fullname: "Kazuya Bamba"
+
+# Writing support
+writing:
+  - name: "Lee Jiang"
+    fullname: "Lee Jiang"
+  - name: "Gil Hamel"
+    fullname: "Diana Gil Hamel"
+  - name: "Claudia Raihert"
+    fullname: "Claudia Raihert"
+
+# Mindsweeper wellness committee
+mindsweepers:
+  - name: "Ryan MacDonald"
+    fullname: "Ryan MacDonald"
+  - name: "Aliya Zhaksybek"
+    fullname: "Aliya Zhaksybek"
+  - name: "Claudia Raihert"
+    fullname: "Claudia Raihert"
+
+# LGCU website committee
+website:
+  - name: "Justin Leung"
+    fullname: "Justin Leung"
+  - name: "Tim Gadanidis"
+    fullname: "Timothy Gadanidis"
+  - name: "Haili Su"
+    fullname: "Haili Su"
+
+# Social committee
+social:
+  - name: "Aliya Zhaksybek"
+    fullname: "Aliya Zhaksybek"
+  - name: "Nicholas Haggarty"
+    fullname: "Nicholas Haggarty"
+
+# Downstairs Grad Space Fridge/Small Appliance Committee
+downstairsapps:
   - name: "Pocholo Umbal"
     fullname: "Pocholo Umbal"
 
+# Buddy program committee
+buddy:
+  - name: "Laura Griffin"
+    fullname: "Laura Griffin"
+
+# TA Supervision Excellence Award Committee (TASEA)
+tasea:
+  - name: "Kaz Bamba"
+    fullname: "Kazuya Bamba"
+
+# Outreach committee
+outreach:
+
+# Anti-Harassment Taskforce
+aht:
+  - name: "Lee Jiang"
+    fullname: "Lee Jiang"
+
 # Swag committee
 swag:
-  - name: "Shabri Kapoor"
-    fullname: "Shabri Kapoor"
-  - name: "Maya Blumenthal"
-    fullname: "Maya Blumenthal"
-  - name: "Lauren Bigelow"
-    fullname: "Lauren Bigelow"
   - name: "Christy Moser"
     fullname: "Christiana Moser"
-    
-    
+
 # Grant Repository committee
 grant_repository:
-  - name: "Kaleigh Woolford"
-    fullname: "Kaleigh Woolford"
-  - name: "Fiona Wilson"
-    fullname: "Fiona Wilson"
+  - name: "Justin Leung"
+    fullname: "Justin Leung"
 
 # Welcome Workshop committee **Note:** Membership updates at the mid-year meeting for this committee
 welcome_workshop:
-  - name: "Shabri Kapoor"
-    fullname: "Shabri Kapoor"
-  - name: "Lisa Schlegl"
-    fullname: "Lisa Schlegl"
-  - name: "Lisa Sullivan"
-    fullname: "Lisa Sullivan"
+  - name: "Christy Moser"
+    fullname: "Christiana Moser"
+  - name: "Akil Ismael"
+    fullname: "Akil Ismael"
   - name: "Greg Antono"
     fullname: "Gregory Antono"
 
@@ -280,23 +213,6 @@ welcome_workshop:
 
 # Lounge committees
 
-# Plants and beautification committee
-plants:
-  - name: "Liam Donohue"
-    fullname: "Liam Donohue"
-  - name: "Lex Konnelly"
-    fullname: "Lex Konnelly"
-  - name: "Abram Clear"
-    fullname: "Abram Clear"
-
-# Currently defunct Lounge committees (due to COVID-19)
-# Fridge cleaning committee
-# Small appliance maintenance committee
-# Dish towel rotation
-# Milk persons
-# Pop committee
-# Coffee Mates
-# CommitTea
 
 # Ad-Hoc committees
 # [needs to be updated]

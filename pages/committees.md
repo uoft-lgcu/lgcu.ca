@@ -63,21 +63,6 @@ UTSC:
 
 *Attend departmental curriculum committee meetings; convey information to graduate students.*
 
-### WHITL (Blog) Committee
-
-{% assign length = site.data.committees.whitl.size %}
-{% for member in site.data.committees.whitl %} {% if length == site.data.committees.whitl.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
-
-*Write posts for the departmental blog, do interviews, take photographs, etc.*
-
-[//]: # (Guest Speaker Committee)
-[//]: # (Unassigned)
-[//]: # (Plan and make arrangements for visiting guest speakers.)
-
-[//]: # (Reception Committee)
-[//]: # (Unassigned)
-[//]: # (Shop for and set up departmental receptions.)
-
 ### Library Committee
 
 {% assign length = site.data.committees.library.size %}
@@ -92,9 +77,11 @@ UTSC:
 
 *Organize the annual LGCU Welcome Workshop held in the fall for new graduate students.*
 
-### TWPL Chair
+### TWPL Chair(s)
 
-\*[{{site.data.committees.twpl_chair.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.committees.twpl_chair.fullname | slugify}} "Department directory entry for {{site.data.committees.twpl_chair.name}}")
+{% assign length = site.data.committees.twpl_chair.size %}
+{% for member in site.data.committees.twpl_chair %} {% if length == site.data.committees.twpl_chair.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
+
 
 *Oversees the departmental journal, Toronto Working Papers in Linguistics.*
 
@@ -105,20 +92,6 @@ UTSC:
 
 *Edit articles to appear in TWPL.*
 
-### Fall Campus Day
-
-{% assign length = site.data.committees.fall_campus.size %}
-{% for member in site.data.committees.fall_campus %} {% if length == site.data.committees.fall_campus.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
-
-*Be present at the Department of Linguistics booth for around 3 hours in order to answer questions from high-school students and their parents.*
-
-### March Break Open House
-
-{% assign length = site.data.committees.march_open.size %}
-{% for member in site.data.committees.march_open %} {% if length == site.data.committees.march_open.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
-
-*Be present at the Department of Linguistics booth for around 3 hours in order to answer questions from high-school students and their parents.*
-
 ### SIG Representatives
 
 [{{site.data.committees.sig_fall.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.committees.sig_fall.fullname | slugify}} "Department directory entry for {{site.data.committees.sig_fall.name}}") (fall), [{{site.data.committees.sig_winter.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.committees.sig_winter.fullname | slugify}} "Department directory entry for {{site.data.committees.sig_winter.name}}") (winter)
@@ -128,50 +101,33 @@ UTSC:
 ### Equity Committee
 
 {% assign length = site.data.committees.equity.size %}
+{% if site.data.committees.equity == nil %}(vacant){%endif%}
 {% for member in site.data.committees.equity %} {% if length == site.data.committees.equity.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
 
 *Promote inclusion, equality, and anti-oppressive measures within the department.*
 
-### Departmental Website Committee
+### Pop Committee
 
-{% assign length = site.data.committees.department_website.size %}
-{% for member in site.data.committees.department_website %} {% if length == site.data.committees.department_website.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
+{% assign length = site.data.committees.pop.size %}
+{% if site.data.committees.pop == nil %}(vacant){%endif%}
+{% for member in site.data.committees.pop %} {% if length == site.data.committees.pop.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
 
-*Provide input into the development and content of the department website.*
+*Purchase pop and restock the lounge pop fridge.*
 
-[//]: # (Lounge committees)
+### CommitTEA
+*Coordinate TEAm membership; buy special teas; make TEArrible puns. (Buying exotic teas is their specialTEA.)*
 
-[//]: # (Fridge Cleaning Committee)
-[//]: # (Unassigned)
-[//]: # (Purge/clean the lounge fridge once per term.)
+{% assign length = site.data.committees.committea.size %}
+{% if site.data.committees.committea == nil %}(vacant){%endif%}
+{% for member in site.data.committees.committea %} {% if length == site.data.committees.committea.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
 
-[//]: # (Small Appliance Maintenance Committee)
-[//]: # (Unassigned)
-[//]: # (Clean the microwave/toaster oven/espresso machine occasionally.)
+### Downstairs Grad Space Fridge/Small Appliance Committee
 
-[//]: # (Dish-Towel Rotation)
-[//]: # (Unassigned)
-[//]: # (Occasionally take home the lounge dish towels and wash them.)
+{% assign length = site.data.committees.downstairsapps.size %}
+{% if site.data.committees.downstairsapps == nil %}(vacant){%endif%}
+{% for member in site.data.committees.downstairsapps %} {% if length == site.data.committees.downstairsapps.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
 
-[//]: # (Pop Committee)
-[//]: # (Unassigned)
-[//]: # (Purchase pop and restock the lounge pop fridge.)
-
-[//]: # (Milkpersons)
-[//]: # (Unassigned)
-[//]: # (Purchase milk for lounge coffee.)
-
-[//]: # (Coffee Mates)
-[//]: # (Unassigned)
-[//]: # (Order coffee when it runs out; handle finances.)
-
-[//]: # (CommitTEA)
-[//]: # (Unassigned)
-[//]: # (Coordinate TEAm membership. (Buying exotic teas is their specialTEA.))
-
-[//]: # (Downstairs Grad Space Fridge/Small Appliance Committee)
-[//]: # (Pocholo Umbal)
-[//]: # (Like the upstairs committees for the same things, but at a lower altitude.)
+(Like the upstairs committees for the same things, but at a lower altitude.)
 
 ### Plants and Beautification Committee
 
@@ -192,6 +148,7 @@ UTSC:
 ### Job Application Workshop Series (JAWS) Committee
 
 {% assign length = site.data.committees.jaws.size %}
+{% if site.data.committees.downstairsapps == nil %}(vacant){%endif%}
 {% for member in site.data.committees.jaws %} {% if length == site.data.committees.jaws.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
 
 *Organizes JAWS events (approximately one per term).*
@@ -206,6 +163,7 @@ UTSC:
 ### Space Assignment/Management/Safety Committee
 
 {% assign length = site.data.committees.space.size %}
+{% if site.data.committees.space == nil %}(vacant){%endif%}
 {% for member in site.data.committees.space %} {% if length == site.data.committees.space.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
 
 *Handle grad space desk assignments and complaints about space usage.*
@@ -267,6 +225,7 @@ UTSC:
 ### Outreach Committee
 
 {% assign length = site.data.committees.outreach.size %}
+{% if site.data.committees.outreach == nil %}(vacant){%endif%}
 {% for member in site.data.committees.outreach %} {% if length == site.data.committees.outreach.size %}\*{% endif %}{% assign length = length | minus: 1 %}[{{member.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{member.fullname | slugify}} "Department directory entry for {{member.name}}"){% if length != 0 %},{% endif %}{% endfor %}
 
 *Tasked with community outreach efforts to foster a greater sense of understanding of linguistics and inclusion of the greater community by involving linguistics graduate students in service towards the greater community.*
