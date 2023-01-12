@@ -5,37 +5,19 @@ modified: 2020-12-14
 permalink: /covid-19/
 ---
 
-#### Update to Workplace Guidelines on Mask Use
+## University-wide COVID-19 policies 
 
-As of December 9th, 2020, the University requires that non-medical masks or face coverings be work in all indoor spaces (both public and restricted access). This applies to labs and research spaces, even while physical distancing.
+As of November 2022, the University has paused its mandatory mask and vaccination requirement indefinitely while strongly encourages the use of masks, as well as for the UofT community memebers to obtain primary and booster shots for COVID. The university has also paused the vaccination, self-screening, and social distancing requirements. 
 
-For more information, check out the [provost and HR guidelines](https://www.provost.utoronto.ca/planning-policy/joint-provostial-and-human-resources-guideline-on-nonmedical-masks-at-the-university-of-toronto/ "Joint Provostial and Human Resources Guideline on Non-Medical Masks") and the [U of T COVID-19 general workplace guidelines](https://ehs.utoronto.ca/wp-content/uploads/2020/05/COVID-19-General-Workplace-Guideline.pdf "U of T COVID-19 General Workplace Guidelines"), or email [ehs.office@utoronto.ca](mailto:ehs.office@utoronto.ca "Link to email ehs.office@utoronto.ca") with questions.
+For the lastest COVID-19 policy update, visit the Environmental Health & Safetly's [COVID-19 information page](https://ehs.utoronto.ca/covid-19-information/) or the [COVID-19 General Workplace Guideline](https://ehs.utoronto.ca/wp-content/uploads/2020/05/MERGED-COVID-19-20220923.pdf). 
+
+### Free surgical mask dispensers on campus
+
+Currently, the LGCU is aware of the existence of two free surgical mask dispensers on campus. One locates at the main St Groege St entrance of the Sidney Smith Building, another at the entrance of Robarts Library. 
 
 ## Access to the Department
 
-University and Department guidelines may change at any time; be sure to keep an eye out for email updates. At time of writing (05/11/2020), the Linguistics Department is considered **closed**, but we have approval for occasional/required use of space. If you wish to go in, you must:
-
-* Fill out the [UCHECK](https://ucheck.utoronto.ca/ "Direct link to U of T UCHECK login page") symptom checker using your UTORid (Note: the University has confirmed that the final red/green assessment will be sent to a small group at HR; your personal details will not be seen by anyone at the University, for more information, check the [U of T COVID-19 self-assessments page](https://www.utoronto.ca/utogether2020/ucheck "U of T COVID-19 self-assessments information page")).
-
-* Let either the [Department Chair](https://www.linguistics.utoronto.ca/people/directories/all-faculty/sali-tagliamonte "Linguistics Department People entry for Sali Tagliamonte, current department chair") or the [Departmental Officer](https://www.linguistics.utoronto.ca/people/directories/staff/mary-hsu "Linguistics Department People entry for Mary Hsu, current departmental officer") know.
-
-* Follow social distancing and sanitation rules as posted.
-
-Note: In addition to the department-wide guidelines, the LGCU voted at the most recent AGM to require members to wear a mask or face covering while in grad spaces (SS568 and SS569) ([exceptions as per City of Toronto bylaw](https://www.toronto.ca/wp-content/uploads/2020/07/9836-COVID-19-Guidance-on-face-mask-and-covering-bylaw.pdf "City of Toronto COVID-19 guidance on mask and face covering bylaw (pdf)")), including when only one person is present in the space.
-
-## Workplace Exposure to COVID-19
-
-You're entitled to a safe workplace, and if you are exposed to COVID-19 on campus while performing your work, there is compensation you may be entitled to. Here's what to do:
-
-* If you're exposed to COVID-19 in the workplace, fill out a [Workers' Exposure Incident Form](https://www.wsib.ca/sites/default/files/2020-12/3958a_workerexposureincidentform.pdf "Worker's Exposure Incident Form (pdf)") and submit it to [WSIB Ontario](https://www.wsib.ca/en/upload "WSIB Upload a CLaim Document").
-
-* If you test positive for COVID-19 after exposure in the workplace, fill out a [Form 6](https://www.wsib.ca/sites/default/files/2020-12/0006a_workerreportofinjury.pdf "Worker Report of Injury (Form 6) (pdf)") and submit it to [WSIB](https://www.wsib.ca/en/upload "WSIB Upload a CLaim Document"). Have your doctor fill out a [Form 8](https://www.wsib.ca/sites/default/files/2019-02/0008a_08_11_fs_rv_09_18.pdf "Health Professional's Report (Form 8) (pdf)") with your COVID-19 diagnosis and submit it to WSIB.
-
-* If your WSIB claim has been denied, email your denial letter to [ wsibintake@cupe.ca](mailto:wsibintake@cupe.ca "CUPE WSIB intake email address") (C/O Daniela Greco).
-
-* Your [CUPE union reps]({{ site.base_url}}{% link pages/committees.md %}#cupe-3902-unit-1-stewards "LGCU Committees page section on CUPE stewards") can help you if you're having trouble filing a claim.
-
-You can find more information about WSIB benefits and eligibility be reading [this pamphlet on COVID-19 exposure in the workplace](https://cupe.on.ca/wp-content/uploads/2020/05/Handout_WSIB_COVID-19-FINAL-v2.pdf "Have You Been Exposed to COVID-19 in the Workplace? (pdf)")
+The departmental office space is currently open. You are not required to book to use the lounge unless you are holding an event. 
 
 ## Links & resources
 
@@ -47,19 +29,17 @@ As the situation evolves with the ongoing COVID-19 pandemic, information and rec
 
 ### CUPE and GSU
 
-* [CUPE3902 COVID-19 Information for Members](https://www.cupe3902.org/covid-19/ "CUPE3902 COVID-19 information for members")
+* [CUPE3902 COVID-19 Information for Members](https://www.cupe3902.org/covid-19-updates-resources/ "CUPE3902 COVID-19 information for members")
 
 * [UTGSU Resources and Updates for Members](https://utgsu.ca/covid-19-updates/ "UTGSU COVID-19 resources and information")
 
 ### University of Toronto
 
-* [COVID-19 Information Guide](https://guides.library.utoronto.ca/coronavirus "U of T Gerstein Science Information Centre COVID-19 information guide")
-
-* [U of T 2020-21 Year FAQs](https://www.utoronto.ca/utogether2020/faqs "U of T COVID-19 related FAQs on the current academic year (2020-21)")
+* [COVID-19 Information for Students](https://www.viceprovoststudents.utoronto.ca/covid-19/ "COVID-19 Information for University of Toronto Students"): An FAQ about vaccines, residence, and international students.
 
 * [U of T COVID-19 Website](https://www.utoronto.ca/utogether2020#page-title "U of T COVID-19 main page")
 
-* [HR & Equity COVID-19 Website](https://hrandequity.utoronto.ca/covid-19/ "U of T HR & Equity COVID-19 main page")
+* [HR & Equity ("People Strategy, Equity & Culture") COVID-19 Website](https://people.utoronto.ca/covid-19/ "U of T HR & Equity COVID-19 main page")
 
 ### Green Shield Canada (Health Insurance)
 
@@ -67,7 +47,7 @@ As the situation evolves with the ongoing COVID-19 pandemic, information and rec
 
 ### Government Guidance and Information
 
-* [Toronto Public Health Guidance on Mask Wearing](https://www.toronto.ca/wp-content/uploads/2020/07/9836-COVID-19-Guidance-on-face-mask-and-covering-bylaw.pdf "City of Toronto COVID-19 guidance on mask and face covering bylaw (pdf)")
+* [City of Toronto COVID-19 Vaccination Page](https://www.toronto.ca/home/covid-19/covid-19-vaccines/covid-19-how-to-get-vaccinated/ "City of Toronto: COVID-19: Where to Get Vaccinated")
 
 * [City of Toronto Guidance on Face Masks and Coverings](https://www.toronto.ca/home/covid-19/covid-19-protect-yourself-others/covid-19-reduce-virus-spread/?accordion=face-masks-coverings "City of Toronto guidance on face masks and coverings")
 
