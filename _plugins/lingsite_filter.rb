@@ -1,11 +1,32 @@
+# If you have questions about this filter, contact Tim Gadanidis <tim@gadanidis.ca>
+
 module Jekyll
   module LingsiteFilter
-    def lingsite(name, fullname=nil)
-      if fullname == nil
-        fullname = name
+    def lingsite(entry)
+      # Get the member's name from the entry in committees.yml
+      name = entry["name"]
+
+      # Check if vacant and return early if so
+      if name == "(vacant)"
+        return name
       end
 
-      slug = fullname.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+      if entry["dept_name"].nil?
+        # The member might not have a special dept name listed in
+        # committees.yml, so in that case we just use their name.
+        dept_name = name
+      else
+        # If they do have a full name listed, get that.
+        dept_name = entry["dept_name"]
+      end
+
+      # The slug is the part that goes at the end of the url (e.g.,
+      # "noam-chomsky". We generate it by making the member's full name all
+      # lowercase, removing any leading/trailing spaces, and replacing any
+      # spaces with hyphens.
+      slug = dept_name.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+
+      # Return a markdown-format link with alt text
       "[#{name}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/#{slug} \"Department directory entry for #{name}\")"
     end
   end

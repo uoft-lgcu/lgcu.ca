@@ -1,217 +1,152 @@
-# LGCU committee members.
-# LGCU Executive Positions
+### LGCU committee members data file
+
+# These entries are intended to be used with the lingsite filter in the
+# committees.md page (and other places that committee members might need to be
+# listed).
+# That filter is defined in _plugins/lingsite_filter.rb if you need to edit it.
+
+# NOTE: If the member's department name (the one they are listed under on the
+# dept website) is different from the actual name they go by, add a dept_name
+# entry after the name entry, e.g.:
+#
+# president1:
+#   name: The Big Man Noam
+#   dept_name: Noam Chomsky
+#
+# This will display the name as "The Big Man Noam" on our site, but link to the
+# page for Noam Chomsky on the department site.
+
+# NOTE: If a position is vacant, enter "(vacant)" in the name field.
+
+# LGCU Executive Positions --------------------------------------------------
+
 president1:
-  name: "Ryan MacDonald"
-  fullname: "Ryan MacDonald"
+  name: Ryan MacDonald
 president2:
-  name: "Aliya Zhaksybek"
-  fullname: "Aliya Zhaksybek"
+  name: Aliya Zhaksybek
 treasurer:
-  name: "Nicholas Haggarty"
-  fullname: "Nicholas Haggarty"
+  name: Nick Haggarty
+  dept_name: Nicholas Haggarty
 secretary:
-  name: "Lee Jiang"
-  fullname: "Lee Jiang"
-gsu_rep:
-  name: "Christy Moser"
-  fullname: "Christiana Moser"
+  name: Lee Jiang
+gsu_reps:
+  - name: Christy Moser
+    dept_name: Christiana Moser
 
-# CUPE Representatives
+# CUPE Representatives ------------------------------------------------------
+
 cupe_stg1:
-  name: "Sable Peters"
-  nonuoft_email:  "anbpeters@gmail.com"
+  name: Calvin Quick
 cupe_stg2:
-  name:
-  nonuoft_email:
+  name: Siyi Fan
 cupe_utsc:
-  name:
-  fullname:
-  nonuoft_email:
+  name: (vacant)
 cupe_utm:
-  name:
-  nonuoft_email:
+  name: Tim Gadanidis
 
-# LGCU Departmental Committees (note: for committees that have a contactperson, their name should be listed first)
-
-# Curriculum committee
-curriculum:
-  - name: "Liam Donohue"
-    fullname: "Liam Donohue"
+# Student rep positions -----------------------------------------------------
 
 # SIG representatives
 sig_fall:
-  name: "Laura Griffin"
-  fullname: "Laura Griffin"
+  name: Laura Griffin
 sig_winter:
-  name: "Kaleigh Woolford"
-  fullname: "Kaleigh Woolford"
+  name: Kaleigh Woolford
 
-# Library committee
+## Curriculum reps
+curriculum:
+  - name: Liam Donohue
+
+# Appeals rep
+appeals:
+  name: Tim Gadanidis
+  dept_name: Timothy Gadanidis
+
 library:
-  - name: "Yanfei Liu"
-    fullname: "Yanfei Liu"
-  - name: "Nicholas Haggarty"
-    fullname: "Nicholas Haggarty"
+  - name: Yanfei Liu
+  - name: Nick Haggarty
+    dept_name: Nicholas Haggarty
 
-# Toronto working papers in linguistics
-twpl_chair:
-  - name: "Greg Antono"
-    fullname: "Gregory Antono"
-  - name: "Claudia Raihert"
-    fullname: "Claudia Raihert"
+# Social committee ----------------------------------------------------------
 
-twpl_editors:
-  - name: "Martin Renard"
-    fullname: "Martin Renard"
-  - name: "Pocholo Umbal"
-    fullname: "Pocholo Umbal"
-  - name: "Zhanao Fu"
-    fullname: "Zhanao Fu"
-  - name: "Justin Leung"
-    fullname: "Justin Leung"
-  - name: "Koorosh Ariyaee"
-    fullname: "Koorosh Ariyaee"
-  - name: "Nadia Takhtaganova"
-    fullname: "Nadia Takhtaganova"
-  - name: "Mikayla Oliver"
-    fullname: "Mikayla Oliver"
-  - name: "Kayleigh Woolford"
-    fullname: "Kayleigh Woolford"
-  - name: "Sahar Taghipour"
-    fullname: "Sahar Taghipour"
-  - name: "Will Williams"
-    fullname: "Will Williams"
-  - name: "Christy Moser"
-    fullname: "Christiana Moser"
-  - name: "Katherine Sung"
-    fullname: "Katherine Sung"
-
-# Equity committee
-equity:
-
-# Pop committee
-pop:
-
-# CommitTEA
-committea:
-  - name: "Nicholas Haggarty"
-    fullname: "Nicholas Haggarty"
-
-# Plants and beautification committee
-plants:
-  - name: "Anujin Munkhbat"
-    fullname: "Anujin Munkhbat"
-
-# Welcoming committee
-welcoming:
-  - name: "Zhanao Fu"
-    fullname: "Zhanao Fu"
-  - name: "Yixin Wang"
-    fullname: "Yixin Wang"
-
-# Job Application Workshop Series (JAWS) committee
-jaws:
-
-# Computer committee
-computer:
-  - name: "Jack Mahlmann"
-    fullname: "Jack Mahlmann"
-
-# Space committee
-space:
-
-# TA evaluations
-ta_eval:
-  name: "Anissa Baird"
-  fullname: "Anissa Baird"
-
-# Tutoring coordinator
-tutoring:
-  name: "Kaz Bamba"
-  fullname: "Kazuya Bamba"
-
-# Writing support
-writing:
-  - name: "Lee Jiang"
-    fullname: "Lee Jiang"
-  - name: "Gil Hamel"
-    fullname: "Diana Gil Hamel"
-  - name: "Claudia Raihert"
-    fullname: "Claudia Raihert"
-
-# Mindsweeper wellness committee
-mindsweepers:
-  - name: "Ryan MacDonald"
-    fullname: "Ryan MacDonald"
-  - name: "Aliya Zhaksybek"
-    fullname: "Aliya Zhaksybek"
-  - name: "Claudia Raihert"
-    fullname: "Claudia Raihert"
-
-# LGCU website committee
-website:
-  - name: "Justin Leung"
-    fullname: "Justin Leung"
-  - name: "Tim Gadanidis"
-    fullname: "Timothy Gadanidis"
-  - name: "Haili Su"
-    fullname: "Haili Su"
-
-# Social committee
 social:
-  - name: "Aliya Zhaksybek"
-    fullname: "Aliya Zhaksybek"
-  - name: "Nicholas Haggarty"
-    fullname: "Nicholas Haggarty"
+  chair:
+    name: Will Ramsay
+  coordinators:
+    - name: Laura Griffin
+    - name: Nick Haggarty
+  members:
+    - name: Olanrewaju Samuel
+      dept_name: Samuel Olanrewaju
+    - name: Martin Renard
+    - name: Aliya Zhaksybek
+    - name: Zhanao Fu
+    - name: Siyi Fan
+    - name: Mechelle Wu
 
-# Downstairs Grad Space Fridge/Small Appliance Committee
-downstairsapps:
-  - name: "Pocholo Umbal"
-    fullname: "Pocholo Umbal"
+# Department space committee ------------------------------------------------
 
-# Buddy program committee
-buddy:
-  - name: "Laura Griffin"
-    fullname: "Laura Griffin"
+space:
+  chair:
+    name: Liam Donohue
+  members:
+    - name: Jack Mahlmann
+    - name: Laura Escobar
+    - name: Yanfei Liu
+    - name: Justin Leung
 
-# TA Supervision Excellence Award Committee (TASEA)
-tasea:
-  - name: "Kaz Bamba"
-    fullname: "Kazuya Bamba"
+# Specialist committees -----------------------------------------------------
 
-# Outreach committee
-outreach:
+# Toronto working papers in linguistics (TWPL)
 
-# Anti-Harassment Taskforce
-aht:
-  - name: "Lee Jiang"
-    fullname: "Lee Jiang"
-
-# Swag committee
-swag:
-  - name: "Christy Moser"
-    fullname: "Christiana Moser"
+twpl_chair:
+  - name: Greg Antono
+    dept_name: Gregory Antono
+  - name: Claudia Raihert
+twpl_reviewers:
+  - name: Martin Renard
+  - name: Pocholo Umbal
+  - name: Zhanao Fu
+  - name: Justin Leung
+  - name: Koorosh Ariyaee
+  - name: Nadia Takhtaganova
+  - name: Mikayla Oliver
+  - name: Kayleigh Woolford
+  - name: Sahar Taghipour
+  - name: Will Williams
+  - name: Christy Moser
+    dept_name: Christiana Moser
+  - name: Katherine Sung
 
 # Grant Repository committee
 grant_repository:
-  - name: "Justin Leung"
-    fullname: "Justin Leung"
+  - name: Justin Leung
 
-# Welcome Workshop committee **Note:** Membership updates at the mid-year meeting for this committee
-welcome_workshop:
-  - name: "Christy Moser"
-    fullname: "Christiana Moser"
-  - name: "Akil Ismael"
-    fullname: "Akil Ismael"
-  - name: "Greg Antono"
-    fullname: "Gregory Antono"
+# TA evaluations
+ta_eval:
+  name: Anissa Baird
 
-# Currently defunct Departmental committees (due to COVID-19)
-# Guest speaker committee
-# Reception committee
+# Space assignment committee
+space_assignment:
+  - name: (vacant)
 
-# Lounge committees
+# Tutoring coordinator
+tutoring:
+  name: Kaz Bamba
+  dept_name: Kazuya Bamba
 
+# LGCU website committee
+website:
+  - name: Justin Leung
+  - name: Tim Gadanidis
+    dept_name: Timothy Gadanidis
+  - name: Haili Su
 
-# Ad-Hoc committees
-# [needs to be updated]
+# Student confidential support
+scs:
+  - name: Lee Jiang
+
+# TA Supervision Excellence Award Committee (TASEA)
+tasea:
+  - name: Kaz Bamba
+    dept_name: Kazuya Bamba
+
