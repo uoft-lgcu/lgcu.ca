@@ -18,7 +18,8 @@ An asterisk (\*) next to an individual's name indicates that they are the design
 
 ### Presidents
 
-[{{site.data.committees.president1.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.committees.president1.fullname | slugify}} "Department directory entry for {{site.data.committees.president1.name}}"), [{{site.data.committees.president2.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.committees.president2.fullname | slugify}} "Department directory entry for {{site.data.committees.president2.name}}")
+{{ site.data.committees.president1.name | lingsite }},
+{{ site.data.committees.president2.name | lingsite }}
 
 *Represent the LGCU to the department; attend department meetings; organize LGCU meetings; various other duties.*
 
