@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+_data/.jekyll-cache
 
 # ignore bundler directories
 .bundle/
@@ -9,3 +10,6 @@ vendor/
 
 # ignore .ruby-version from rbenv 
 .ruby-version
+
+# ignore editor/ide stuff
+tags
