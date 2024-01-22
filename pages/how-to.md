@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How To
+title: How‑To
 modified: 2021-03-14
 permalink: /how-to/
 ---
