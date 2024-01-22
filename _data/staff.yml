@@ -1,13 +1,13 @@
 # Department staff members.
 
 departmental_officer:
-  name: "Mary Hsu"
-  fullname: "Mary Hsu"
+  name: Mary Hsu
 
 graduate_admin:
-  name: "Christopher Lee"
-  fullname: "Christopher Lee"
+  name: Kelly Barnes
 
 undergrad_admin:
-  name: "Sara Taghinia"
-  fullname: "Sara Taghinia"
+  name: Kai Herzog-Hara
+
+financial_assistant:
+  name: Camille Suasba

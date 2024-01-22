@@ -2,7 +2,12 @@
 
 module Jekyll
   module LingsiteFilter
-    def lingsite(entry)
+    def lingsite(entry, role="graduate-students")
+      # ARGUMENTS:
+      # - "entry" is a Hash taken from a file in _data
+      # - "role" is grad student by default, but can be switched to link to a
+      # different part of the department directory.
+
       # Get the member's name from the entry in committees.yml
       name = entry["name"]
 
@@ -21,14 +26,15 @@ module Jekyll
       end
 
       # The slug is the part that goes at the end of the url (e.g.,
-      # "noam-chomsky". We generate it by making the member's full name all
-      # lowercase, removing any leading/trailing spaces, and replacing any
-      # spaces with hyphens.
+      # "noam-chomsky". We generate it by making the member's
+      # official/department name all lowercase, removing any leading/trailing
+      # spaces, and replacing any spaces with hyphens.
       slug = dept_name.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
 
       # Return a markdown-format link with alt text
-      "[#{name}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/#{slug} \"Department directory entry for #{name}\")"
+      "[#{name}](https://www.linguistics.utoronto.ca/people/directories/#{role}/#{slug} \"Department directory entry for #{name}\")"
     end
   end
 end
+
 Liquid::Template.register_filter(Jekyll::LingsiteFilter)

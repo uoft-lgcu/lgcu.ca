@@ -39,7 +39,7 @@ Click on the Print tab; you will be able to browse for a file and submit it for 
 
 3. If you want to set up printing for both printers, you should be able to just add a new network printer through your control panel / settings (giving it the other IP address) and have it find the necessary drivers.
 
-Still having trouble after following these steps? Contact [{{site.data.informal_roles.printer.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.informal_roles.printer.fullname | slugify}} "Department directory entry for {{site.data.informal_roles.printer.name}}") for help.
+Still having trouble after following these steps? Contact {{ site.data.informal_roles.printer | lingsite }} for help.
 
 ## Book a Room
 
@@ -62,7 +62,7 @@ These documents usually become available sometime in February. The T4 will be av
 
 **Note:** Some specialized tax documents (like the T2200S form) can be tricky to find through Employee Self Service. When you sign in, make sure you click "Pay and Benefits Information" to find all your tax forms, instead of "Tax Slip" under "Most Frequently Used" (the latter will only display your T4).
 
-If you're having trouble finding your tax forms after the release date (usually late February), or you have other questions about these documents, a good person to talk to is [{{site.data.staff.departmental_officer.name}}](https://www.linguistics.utoronto.ca/people/directories/staff/{{site.data.staff.departmental_officer.fullname | slugify}} "Department directory entry for {{site.data.staff.departmental_officer.name}}").
+If you're having trouble finding your tax forms after the release date (usually late February), or you have other questions about these documents, a good person to talk to is the Departmental Officer, {{ site.data.staff.departmental_officer | lingsite: "staff" }}.
 
 ### Other Tax Write-Offs
 
@@ -82,16 +82,16 @@ While you can't **directly** claim your rental costs, they count towards the [On
 
 A lot of information for grad students comes through email listservs (collections of email addresses that can be sent to in one go). A lot of the time, you'll be automatically added based on your status as a grad student and your research interests, but if you find you're not on a list you'd like to be on (or you're not receiving emails you'd expect to), contact the person who currently runs the list.
 
-* Linguistics Department Listserv (LINGDEPT-L) - This sends to everyone in the department at once (run by [{{site.data.staff.graduate_admin.name}}](https://www.linguistics.utoronto.ca/people/directories/staff/{{site.data.staff.graduate_admin.fullname | slugify}} "Department directory entry for {{site.data.staff.graduate_admin.name}}"))
-* LGCU Listserv (LGCU-L) - This sends to current LGCU members (fellow graduate students) (Currently run by [{{site.data.listservs.lgcu-l.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.members.lgcu-l.fullname | slugify}} "Department directory entry for {{site.data.members.lgcu-l.name}}"))
+* Linguistics Department Listserv (LINGDEPT-L) - This sends to everyone in the department at once (run by {{ site.data.staff.graduate_admin | lingsite: 'staff' }})
+* LGCU Listserv (LGCU-L) - This sends to current LGCU members (fellow graduate students) (currently run by {{ site.data.listservs.lgcu-l | lingsite }})
 
 ### Department Research Groups
 
-* Language Variation and Change (LVC) - Currently run by [{{site.data.listservs.lvc.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.listservs.lvc.fullname | slugify}} "Department directory entry for {{site.data.listservs.lvc.name}}")
-* Phon Group (Phonetics & Phonology) - Currently run by [{{site.data.listservs.phon.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.listservs.phon.fullname | slugify}} "Department directory entry for {{site.data.listservs.phon.name}}")
-* Syntax Project Group - Currently run by [{{site.data.listservs.syntax.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.listservs.syntax.fullname | slugify}} "Department directory entry for {{site.data.listservs.syntax.name}}")
-* Fieldwork Group - Currently run by [{{site.data.listservs.fieldling.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.listservs.fieldling.fullname | slugify}} "Department directory entry for {{site.data.listservs.fieldling.name}}")
-* Semantics-Pragmatics Research Group - Currently run by [{{site.data.listservs.sem-prag.name}}](https://www.linguistics.utoronto.ca/people/directories/graduate-students/{{site.data.listservs.sem-prag.fullname | slugify}} "Department directory entry for {{site.data.listservs.sem-prag.name}}")
+* Language Variation and Change (LVC) - Currently run by {{ site.data.listservs.lvc | lingsite }}
+* Phon Group (Phonetics & Phonology) - Currently run by {{site.data.listservs.phon | lingsite}}
+* Syntax Project Group - Currently run by {{ site.data.listservs.syntax | lingsite }}
+* Fieldwork Group - Currently run by {{ site.data.listservs.fieldling | lingsite }}
+* Semantics-Pragmatics Research Group - Currently run by {{ site.data.listservs.sem-prag | lingsite }}
 
 ## Access the Grad Calendars
 

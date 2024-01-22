@@ -1,13 +1,13 @@
 # Members of the faculty executive.
 
-department_chair:
-  name: "Sali Tagliamonte"
-  fullname: "Sali Tagliamonte"
+chair:
+  name: Naomi Nagy
+
+grad_chair:
+  name: Keir Moulton
 
 grad_coordinator:
-  name: "Yoonjung Kang"
-  fullname: "Yoonjung Kang"
+  name: Guillaume Thomas
 
 undergrad_coordinator:
-  name: "Alexei Kochetov"
-  fullname: "Alexei Kochetov"
+  name: Nathan Sanders

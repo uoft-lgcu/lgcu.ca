@@ -1,20 +1,15 @@
 # People running/responsible for a listserv (other than lingdept-l, which is run
 # by the dept, usually the grad administrator)
 lgcu-l:
-  name: "Radu Craioveanu"
-  fullname: "Radu Craioveanu"
+  name: Radu Craioveanu
 fieldling:
-  name: "Greg Antono"
-  fullname: "Gregory Antono"
+  name: Greg Antono
+  dept_name: Gregory Antono
 syntax:
-  name: "Sahar Taghipour"
-  fullname: "Sahar Taghipour"
+  name: Sahar Taghipour
 sem-prag:
-  name: "Heather Stephens"
-  fullname: "Heather Stephens"
+  name: Heather Stephens
 phon:
-  name: "Andrei Munteanu"
-  fullname: "Andrei Munteanu"
+  name: Andrei Munteanu
 lvc:
-  name: "Kaleigh Woolford"
-  fullname: "Kaleigh Woolford"
+  name: Kaleigh Woolford
