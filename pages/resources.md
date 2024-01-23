@@ -5,7 +5,7 @@ modified: 2021-01-29
 permalink: /resources/
 ---
 
-Are there any resources you've found helpful that aren't listed on this page? Let us know using [the LGCU website issues form](https://gitreports.com/issue/uoft-lgcu/lgcu.ca "LGCU website issues form")!
+Are there any resources you've found helpful that aren't listed on this page? Contact a member of the LGCU Website Committee or make an issue on our [GitHub issues reporting page](https://github.com/uoft-lgcu/lgcu.ca/issues)!
 
 **On This Page**
 * This list will be replaced by ToC
@@ -155,119 +155,11 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page]({
 
 ## COVID-19
 
-For more information about COVID-19 guidelines and resources, see the [COVID-19 page]({{ site.base_url }}{% link pages/covid-19.md %} "COVID-19 page of the LGCU site") on this site.
-
-### Tuition Fee Exemption
-
-* [Registering with a Tuition Fee Exemption](https://www.sgs.utoronto.ca/admissions/graduate-fees/#section_13 "Information and Criteria for Registering with a Tuition Fee Exemption")
-
-* [Tuition Fee Exemption Form](https://www.sgs.utoronto.ca/wp-content/uploads/sites/253/2020/06/Registration-with-Tuition-Fee-Exemption-Form-revisions_v2_final-fillable-1.pdf "SGS Tuition Fee Exemption Form (pdf)")
-
-### General Information and Resources
-
-* [Linguistics Department COVID-19 Resources for Graduate Students](https://www.linguistics.utoronto.ca/covid-19-resources "Department of Linguistics COVID-19 resources")
-
-* [CUPE3902 COVID-19 Information for Members](https://www.cupe3902.org/covid-19/ "CUPE3902 COVID-19 information for members")
-
-* [UTGSU Resources and Updates for Members](https://utgsu.ca/covid-19-updates/ "UTGSU COVID-19 resources and information")
-
-* [U of T COVID-19 Information Guide](https://guides.library.utoronto.ca/coronavirus "U of T Gerstein Science Information Centre COVID-19 information guide")
-
-* [U of T 2020-21 Year FAQs](https://www.utoronto.ca/utogether2020/faqs "U of T COVID-19 related FAQs on the current academic year (2020-21)")
-
-* [U of T COVID-19 Website](https://www.utoronto.ca/utogether2020#page-title "U of T COVID-19 main page")
-
-* [U of T HR & Equity COVID-19 Website](https://hrandequity.utoronto.ca/covid-19/ "U of T HR & Equity COVID-19 main page")
-
-* [Green Shield Support Centre COVID-19 Results](https://support.greenshield.ca/SupportCentre/GreenShield/Home/DocumentsByTopic/region_coronavirus "Green Shield Canada Support centre search results for 'Coronavirus (COVID-19)'")
-
-* [Toronto Public Health Guidance on Mask Wearing](https://www.toronto.ca/wp-content/uploads/2020/07/9836-COVID-19-Guidance-on-face-mask-and-covering-bylaw.pdf "City of Toronto COVID-19 guidance on mask and face covering bylaw (pdf)")
-
-* [City of Toronto Guidance on Face Masks and Coverings](https://www.toronto.ca/home/covid-19/covid-19-protect-yourself-others/covid-19-reduce-virus-spread/?accordion=face-masks-coverings "City of Toronto guidance on face masks and coverings")
-
-* [City of Toronto COVID-19 Page](https://www.toronto.ca/home/covid-19/ "City of Toronto COVID-19 information")
-
-* [Government of Ontario COVID-19 Page](https://covid-19.ontario.ca/index.html "Government of Ontario COVID-19 information")
-
-* [Public Health Ontario COVID-19 Page](https://www.publichealthontario.ca/en/diseases-and-conditions/infectious-diseases/respiratory-diseases/novel-coronavirus "Public Health Ontario COVID-19 information")
-
-* [Government of Canada COVID-19 Page](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html "Government of Canada COVID-19 information")
-
-* [World Health Organization COVID-19 Page](https://www.who.int/emergencies/diseases/novel-coronavirus-2019 "World Health Organization COVID-19 information")
+For information about COVID-19 guidelines and resources, see the [COVID-19 section of the Health page]({% link pages/health.md %}#covid-19 "COVID-19 section of the health page") on this site.
 
 ## Health
 
-For more information about LGCU health care, see the [health page]({{ site.base_url }}{% link pages/health.md %} "Health page of the LGCU site") on this site.
-
-### Health Benefits Resources
-
-* [GSU plan brochure](http://www.ihaveaplan.ca/RTEContent/Document/EN/Brochure/Current_UTGSU.pdf "UTGSU Health and Dental Brochure (pdf)")
-
-* [GSU benefit booklet](http://www.studentcare.ca/RTEContent/Document/EN/Miscellaneous/UTGSU_benefit_booklet.pdf "UTGSU Health and Dental Benefits Booklet (pdf)")
-
-* [CUPE Top-up plan pamphlet](https://www.cupe3902.org/wp-content/uploads/2016/10/CUPE-3902-UNIT-1-TOP-UP-PLAN-PAMPHLET.pdf.pdf "CUPE3902 What you need to know pamphlet (pdf)")
-
-* [CUPE Unit 1 Benefits](https://www.cupe3902.org/wp-content/uploads/2017/09/2017-18-Unit-1-Benefits-Funds.pdf "CUPE3902 Unit 1 Benefits brochure (pdf)")
-
-* [Top-up plan FAQ](https://www.cupe3902.org/wp-content/uploads/2018/09/Benefits-FAQ.pdf "CUPE3902 Unit 1 Health Benefits FAQ (pdf)")
-
-* [Summary of Coverage Amounts for Health Plans](https://www.cupe3902.org/wp-content/uploads/2018/04/GSU_Unit1TopUp_2016-17Coverage_table.pdf "Table of maximum amounts that can be claimed for both health plans (pdf)")
-
-* [HCSA allowable expenses](http://assets.greenshield.ca/greenshield/Plan%20Members/Benefits%20Dictionary/hcsa-eng/Eligible%20HCSA%20Expenses%20(Website).pdf "List of expenses that can be reimbursed from the HCSA (pdf)")
-
-### Health Services and Resources
-
-* [Health and Wellness Centre](https://studentlife.utoronto.ca/department/health-wellness/ "U of T Health and Wellness main page")
-
-* [Student Mental Health Webportal](https://mentalhealth.utoronto.ca/ "U of T Student Mental Health Resources Page")
-
-* [Sexual Education Centre](https://www.utsu.ca/resources/sexual-education-and-peer-support-centre-sec/ "U of T Student Union resources page information about the sexual education centre at the University of Toronto")
-
-* [Sport Medicine Clinic](https://kpe.utoronto.ca/david-l-macintosh-sport-medicine-clinic "David L. MacIntosh Sport Medicine Clinic main page")
-
-* [My SSP](https://studentlife.utoronto.ca/service/myssp/ "U of T information on My SSP service")
-
-* [School of Graduate Studies Wellness FAQs](https://www.sgs.utoronto.ca/resources-supports/wellness-portal/wellness-faqs/ "School of Graduate Studies FAQ page on Wellness")
-
-* [iamsick.ca](https://www.iamsick.ca/ "iamsick.ca main page")
-
-* [Telehealth Ontario](https://www.ontario.ca/page/get-medical-advice-telehealth-ontario "Government of Ontario Telehealth Ontario information")
-
-* [Health Care Connect](https://hcc3.hcc.moh.gov.on.ca/HCCWeb/faces/layoutHCCSplash.jsp "Government of Ontario Health Care Connect sign-up page")
-
-* [Ontario Virtual Care Clinic](https://www.seethedoctor.ca/en/ "Ontario Virtual Care Clinic")
-
-* [Walk-in counselling services](https://utgsu.ca/health-and-dental/walk-in-counselling/ "UTGSU List of local walk-in counselling services")
-
-* [Good2Talk helpline](https://good2talk.ca/ "Good2Talk (post-secondary student helpline) main page")
-
-* [Talk4Healing Indigenous women helpline](http://www.talk4healing.com "Talk4Healing indigenous women helpline main page")
-
-* [GSU Grad Minds](http://www.gradminds.ca/ "GSU Grad Minds main page")
-
-### Health Forms
-
-* [General Claim Form](https://www.studentcare.ca/RTEContent/Document/EN/Claim_Forms/Generic/greenshield_health_general_2013.pdf "GSC General Claim form (pdf)")
-
-* [Dental Claim Form](https://www.studentcare.ca/RTEContent/Document/EN/Claim_Forms/Generic/greenshield_dental_general_2013.pdf "GSC Dental Claim form (pdf)")
-
-* [Self-Enrolment Form (Regular Students)](https://www.studentcare.ca/RTEContent/Document/EN/Enrolment_Forms/UTGSU.pdf "Studentcare Self-Enrolment form (Regular students)(pdf)")
-
-* [Self-Enrolment Form (12-Month Extended Coverage)](https://www.studentcare.ca/RTEContent/Document/EN/Enrolment_Forms/UTGSU_12MonthExt.pdf "Studentcare Self-Enrolment form (12-month extended coverage)(pdf)")
-
-* [OHIP Registration Form](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/GetFileAttach/014-0265-82~13/$File/0265-82.pdf "OHIP Registration form (pdf)")
-
-### Other Health Links
-
-* [Travel Health Passport Card](https://www.studentcare.ca/RTEContent/Document/EN/Travel_Documents/Travel_Health_Passport_97180_Enhanced.pdf "Studentcare Travel Health passport printable card (pdf)")
-
-* [Pay-direct Card](https://www.studentcare.ca/RTEContent/Document/EN/Pay_Direct/UTGSU_PDC.pdf "Studentcare Pay-direct printable card (pdf)")
-
-* [Coverage Manager Online Form](https://www.studentcare.ca/coveragemanager/main.aspx?locale=en&assocID=77 "Studentcare Coverage Manager online form")
-
-* [Green Shield Contact-Us Online Form](https://onlineservices.greenshield.ca/PlanMember/AccessMgmt/Public/AnonymousInquiry.aspx?lang=en-CA "GSC Contact-Us online form")
-
-* [Medeo Health Portal](https://id.medeohealth.com/users/sign_in?return_to=%2Foauth%2Fauthorize%3Fclient_id%3D970840f742279ca101eae604b81430aa496d1b83d6c8ece027ea93c095c936d9%26scope%3Dpublic%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9 "Medeo Health sign-in page")
+For information about LGCU health care, see the [health page]({{ site.base_url }}{% link pages/health.md %} "Health page of the LGCU site") on this site.
 
 *[COVID-19]: Coronavirus Disease 2019
 *[LGCU]: Linguistics Graduate Student Union

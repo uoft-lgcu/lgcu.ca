@@ -5,13 +5,6 @@ modified: 2021-01-12
 permalink: /health/
 ---
 
-|-----------------|
-| COVID-19 Information:    |
-|-----------------|
-| This page discusses the health care plans available to LGCU members. Information about the ongoing COVID-19 pandemic (LGCU and Linguistics Department policy, as well as resources) can be found on the [COVID-19]({{ site.base_url }}{% link pages/covid-19.md %} "LGCU COVID-19 information page") page of this website. |
-|-----------------|
-
-
 **On This Page**
 * This list will be replaced by ToC
 {:toc}
@@ -328,16 +321,83 @@ You can also directly submit claims for reimbursement to the HCSA. Eligible clai
 
 * [Medeo Health Portal](https://id.medeohealth.com/users/sign_in?return_to=%2Foauth%2Fauthorize%3Fclient_id%3D970840f742279ca101eae604b81430aa496d1b83d6c8ece027ea93c095c936d9%26scope%3Dpublic%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26redirect_uri%3Dhttps%253A%2F%2Fapi-ca.medeohealth.com%2Fwebclient%2Fpatient%2Foauth-callback%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9%26state%3D22a324d9-9e90-4ac9-9fe8-8280f3d117f9 "Medeo Health sign-in page")
 
+## COVID-19
+
+### University-wide COVID-19 policies 
+
+As of November 2022, the University has paused its mandatory mask and vaccination requirement indefinitely while strongly encourages the use of masks, as well as for the UofT community memebers to obtain primary and booster shots for COVID. The university has also paused the vaccination, self-screening, and social distancing requirements. 
+
+For the lastest COVID-19 policy update, visit the Environmental Health & Safety's [COVID-19 information page](https://ehs.utoronto.ca/covid-19-information/) or the [COVID-19 General Workplace Guideline](https://ehs.utoronto.ca/wp-content/uploads/2020/05/MERGED-COVID-19-20220923.pdf). 
+
+#### Free surgical mask dispensers on campus
+
+Currently, the LGCU is aware of the existence of two free surgical mask dispensers on campus. One locates at the main St Groege St entrance of the Sidney Smith Building, another at the entrance of Robarts Library. 
+
+### Tuition Fee Exemption
+
+If your progress was affected by COVID-19, you can register with a fee exemption for up to two semesters, and you may also be eligible for a COVID-related program completion award.
+
+* [Registering with a Tuition Fee Exemption](https://www.sgs.utoronto.ca/admissions/graduate-fees/#section_13 "Information and Criteria for Registering with a Tuition Fee Exemption")
+
+* [Tuition Fee Exemption Form](https://www.sgs.utoronto.ca/wp-content/uploads/sites/253/2020/06/Registration-with-Tuition-Fee-Exemption-Form-revisions_v2_final-fillable-1.pdf "SGS Tuition Fee Exemption Form (pdf)")
+
+* [Program Completion Award](https://www.artsci.utoronto.ca/graduate/graduate-funding/covid-19-mitigation-graduate-students/covid-19-program-completion-award)
+
+### Access to the Department
+
+The departmental office space is currently open. You are not required to book to use the lounge unless you are holding an event. 
+
+### Links & resources
+
+#### The Linguistics Department
+
+* [COVID-19 Resources for Graduate Students](https://www.linguistics.utoronto.ca/covid-19-resources "Department of Linguistics COVID-19 resources")
+
+#### CUPE and GSU
+
+* [CUPE3902 COVID-19 Information for Members](https://www.cupe3902.org/covid-19-updates-resources/ "CUPE3902 COVID-19 information for members")
+
+* [UTGSU Resources and Updates for Members](https://utgsu.ca/covid-19-updates/ "UTGSU COVID-19 resources and information")
+
+#### University of Toronto
+
+* [HR & Equity ("People Strategy, Equity & Culture") COVID-19 Website](https://people.utoronto.ca/covid-19/ "U of T HR & Equity COVID-19 main page")
+
+#### Green Shield Canada (Health Insurance)
+
+* [Green Shield Support Centre COVID-19 Results](https://support.greenshield.ca/SupportCentre/GreenShield/Home/DocumentsByTopic/region_coronavirus "Green Shield Canada Support centre search results for 'Coronavirus (COVID-19)'")
+
+#### Government Guidance and Information
+
+* [City of Toronto COVID-19 Vaccination Page](https://www.toronto.ca/home/covid-19/covid-19-vaccines/covid-19-how-to-get-vaccinated/ "City of Toronto: COVID-19: Where to Get Vaccinated")
+
+* [City of Toronto Guidance on Face Masks and Coverings](https://www.toronto.ca/home/covid-19/covid-19-protect-yourself-others/covid-19-reduce-virus-spread/?accordion=face-masks-coverings "City of Toronto guidance on face masks and coverings")
+
+* [City of Toronto COVID-19 Page](https://www.toronto.ca/home/covid-19/ "City of Toronto COVID-19 information")
+
+* [Government of Ontario COVID-19 Page](https://covid-19.ontario.ca/index.html "Government of Ontario COVID-19 information")
+
+* [Public Health Ontario COVID-19 Page](https://www.publichealthontario.ca/en/diseases-and-conditions/infectious-diseases/respiratory-diseases/novel-coronavirus "Public Health Ontario COVID-19 information")
+
+* [Government of Canada COVID-19 Page](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html "Government of Canada COVID-19 information")
+
+* [World Health Organization COVID-19 Page](https://www.who.int/emergencies/diseases/novel-coronavirus-2019 "World Health Organization COVID-19 information")
+
 *[COVID-19]: Coronavirus Disease 2019
-*[LGCU]: Linguistics Graduate Student Union
-*[OHIP]: Ontario Health Insurance Plan
-*[UHIP]: University Health Insurance Plan
-*[GSU]: Graduate Student Union
+*[CUPE3902]: Canadian Union of Public Employees (Local 3902)
 *[CUPE]: Canadian Union of Public Employees
+*[GSU]: Graduate Student Union
 *[HCSA]: Health Care Spending Account
-*[UFPAF]: University of Toronto Family Plan Assistance Fund
 *[IHPAF]: International Health Plan Assistance Fund
-*[My SSP]: My Student Support Program
-*[UTGSU]: U of T Graduate Student Union
+*[LGCU]: Linguistics Graduate Student Union
 *[MSP]: Medical Services Plan
+*[My SSP]: My Student Support Program
+*[OHIP]: Ontario Health Insurance Plan
 *[SGS]: School of Graduate Studies
+*[SS569]: Sidney Smith Hall Room 569
+*[UFPAF]: University of Toronto Family Plan Assistance Fund
+*[UHIP]: University Health Insurance Plan
+*[UTGSU]: U of T Graduate Student Union
+*[UTGSU]: University of Toronto Graduate Student Union
+*[UTORid]: University of Toronto ID
+*[WSIB]: Workplace Safety and Insurance Board
