@@ -125,9 +125,7 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page]({
 
 * [OISE Library Care Package](https://oiselibrarycarepackage.wordpress.com/ "OISE Library Care Package")
 
-* LGCUers Facebook Group (private group, email {{ site.data.informal_roles.facebook | lingsite }} to be added)
-
-* LGCU Zulip Chat Forum (private group, email {{ site.data.informal_roles.zulip | lingsite }} for an invite)
+* [LGCU Zulip chat server](https://lgcu.zulipchat.com) (private group, email {{ site.data.informal_roles.zulip | lingsite }} for an invite)
 
 ## Writing and Teaching Resources
 
