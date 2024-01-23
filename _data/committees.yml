@@ -48,23 +48,19 @@ cupe_utm:
 
 # SIG representatives
 sig_fall:
-  name: Laura Griffin
+  name: Claudia Raihert
 sig_winter:
   name: Kaleigh Woolford
 
-## Curriculum reps
+# Curriculum reps
 curriculum:
-  - name: Liam Donohue
+  - name: Will Williams
+  - name: Justin Leung
 
 # Appeals rep
 appeals:
   name: Tim Gadanidis
   dept_name: Timothy Gadanidis
-
-library:
-  - name: Yanfei Liu
-  - name: Nick Haggarty
-    dept_name: Nicholas Haggarty
 
 # Social committee ----------------------------------------------------------
 
@@ -74,6 +70,7 @@ social:
   coordinators:
     - name: Laura Griffin
     - name: Nick Haggarty
+      dept_name: Nicholas Haggarty
   members:
     - name: Olanrewaju Samuel
       dept_name: Samuel Olanrewaju
@@ -103,50 +100,58 @@ twpl_chair:
     dept_name: Gregory Antono
   - name: Claudia Raihert
 twpl_reviewers:
-  - name: Martin Renard
-  - name: Pocholo Umbal
-  - name: Zhanao Fu
+  - name: Ryan MacDonald
+  - name: Jack Mahlmann
+  - name: Lucy Li
   - name: Justin Leung
-  - name: Koorosh Ariyaee
+  - name: Calvin Quick
   - name: Nadia Takhtaganova
-  - name: Mikayla Oliver
-  - name: Kayleigh Woolford
-  - name: Sahar Taghipour
-  - name: Will Williams
+  - name: Heather Yawney
   - name: Christy Moser
     dept_name: Christiana Moser
-  - name: Katherine Sung
+  - name: Will Williams
+  - name: Tim Gadanidis
+    dept_name: Timothy Gadanidis
+  - name: Martin Renard
 
 # Grant Repository committee
 grant_repository:
   - name: Justin Leung
+  - name: Siyi Fan
 
 # TA evaluations
 ta_eval:
-  name: Anissa Baird
+  name: Anujin Munkhbat
 
 # Space assignment committee
 space_assignment:
-  - name: (vacant)
+  - name: Laura Griffin
+  - name: Anissa Baird
 
 # Tutoring coordinator
 tutoring:
-  name: Kaz Bamba
-  dept_name: Kazuya Bamba
+  name: Lee Jiang
 
 # LGCU website committee
 website:
   - name: Justin Leung
   - name: Tim Gadanidis
     dept_name: Timothy Gadanidis
-  - name: Haili Su
+  - name: Olanrewaju Samuel
+    dept_name: Samuel Olanrewaju
 
 # Student confidential support
 scs:
-  - name: Lee Jiang
+  - name: Anissa Baird
+  - name: Crystal Chen
 
 # TA Supervision Excellence Award Committee (TASEA)
 tasea:
-  - name: Kaz Bamba
-    dept_name: Kazuya Bamba
+  - name: Jack Mahlmann
+  - name: Lucy Li
+  - name: Calvin Quick
+  - name: Will Ramsay
+  - name: Louis Careri
+  - name: Laleh Asadi
+    dept_name: Laleh Asadimofarah
 
