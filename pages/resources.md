@@ -149,8 +149,6 @@ For more information on CUPE 3902 (our labour union), see the [cupe 3902 page]({
 
 * [Guidance for the Recovery of Human Research During the COVID-19 Pandemic](https://research.utoronto.ca/covid-19-research-innovation-updates/u-t-guidance-recovery-human-research-during-covid-19-pandemic "U of T Guidance for the Recovery of Human Research During the COVID-19 Pandemic")
 
-* [Coronavirus Research FAQ](https://research.utoronto.ca/covid-19 "Coronavirus Research FAQ")
-
 * [Guidelines for Graduate Students](https://www.sgs.utoronto.ca/lookingahead/reengagement/#section_0 "Guidelines for Graduate Students Engaged in Research Towards Degree Completion")
 
 ## COVID-19
