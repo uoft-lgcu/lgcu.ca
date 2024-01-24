@@ -43,6 +43,7 @@ cupe_utsc:
   name: (vacant)
 cupe_utm:
   name: Tim Gadanidis
+  dept_name: Timothy Gadanidis
 
 # Student rep positions -----------------------------------------------------
 
@@ -88,7 +89,7 @@ space:
   members:
     - name: Jack Mahlmann
     - name: Laura Escobar
-    - name: Yanfei Liu
+    - name: Yanfei Lu
     - name: Justin Leung
 
 # Specialist committees -----------------------------------------------------
