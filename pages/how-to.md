@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How‑To
-modified: 2021-03-14
+modified: 2024-03-06
 permalink: /how-to/
 ---
 
@@ -42,6 +42,8 @@ Click on the Print tab; you will be able to browse for a file and submit it for 
 Still having trouble after following these steps? Contact {{ site.data.informal_roles.printer | lingsite }} for help.
 
 ## Book a Room
+
+(under construction)
 
 ## Get Your Tax Documents
 
