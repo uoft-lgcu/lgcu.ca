@@ -92,7 +92,7 @@ A lot of information for grad students comes through email listservs (collection
 * Syntax - Currently run by {{ site.data.listservs.syntax | lingsite }}
 * Language Description, Documentation and Revitalization (LDDR) - Currently run by {{ site.data.listservs.lddr | lingsite }}
 * Semantics and Pragmatics (SEMPRAG) - Currently run by {{ site.data.listservs.semprag | lingsite }}
-* Cognitive Science of Language (CSoL) - Currently run by {{ site.data.listservs.csol | lingsite }}
+* Cognitive Science of Language (CSoL) - Currently run by {{ site.data.listservs.csol | lingsite: 'all-faculty' }}
 
 ## Access the Grad Calendars
 
