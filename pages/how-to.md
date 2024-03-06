@@ -88,10 +88,11 @@ A lot of information for grad students comes through email listservs (collection
 ### Department Research Groups
 
 * Language Variation and Change (LVC) - Currently run by {{ site.data.listservs.lvc | lingsite }}
-* Phon Group (Phonetics & Phonology) - Currently run by {{site.data.listservs.phon | lingsite}}
-* Syntax Project Group - Currently run by {{ site.data.listservs.syntax | lingsite }}
-* Fieldwork Group - Currently run by {{ site.data.listservs.fieldling | lingsite }}
-* Semantics-Pragmatics Research Group - Currently run by {{ site.data.listservs.sem-prag | lingsite }}
+* Phonetics and Phonology (Phon) - Currently run by {{site.data.listservs.phon | lingsite }}
+* Syntax - Currently run by {{ site.data.listservs.syntax | lingsite }}
+* Language Description, Documentation and Revitalization (LDDR) - Currently run by {{ site.data.listservs.lddr | lingsite }}
+* Semantics and Pragmatics (SEMPRAG) - Currently run by {{ site.data.listservs.semprag | lingsite }}
+* Cognitive Science of Language (CSoL) - Currently run by {{ site.data.listservs.csol | lingsite }}
 
 ## Access the Grad Calendars
 
