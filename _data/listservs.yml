@@ -2,14 +2,16 @@
 # by the dept, usually the grad administrator)
 lgcu-l:
   name: Radu Craioveanu
-fieldling:
+csol:
+  name: Barend Beekhuizen
+lddr:
   name: Greg Antono
   dept_name: Gregory Antono
 syntax:
-  name: Sahar Taghipour
-sem-prag:
-  name: Heather Stephens
+  name: Nadia Takhtaganova
+semprag:
+  name: Will Williams
 phon:
-  name: Andrei Munteanu
+  name: Song Jiang
 lvc:
-  name: Kaleigh Woolford
+  name: Justin Leung
