@@ -2,7 +2,7 @@
 layout: page
 title: CUPE 3902
 permalink: /cupe/
-modified: 2021-10-18
+modified: 2024-03-07
 ---
 
 **On This Page**
@@ -18,38 +18,48 @@ Because all workers receive the rights and benefits we fight for as part of a un
 # Stewards: your point of contact
 
 Stewards are elected to serve as primary points of contact for members in our department.
-We elect two stewards for St. George, and one each for UTM and UTSC.
+We elect up to four stewards: two for St. George and one each for UTM and UTSC.
 In practice, the stewards work together as a team and you can communicate with whoever you feel the most comfortable with, regardless of which campus you are working at.
-**It is recommended to contact stewards at a non-UofT email address, using your own non-UofT email address.**
 
-Our current stewards and their non-UofT email addresses are as follows:
+**It is recommended to contact stewards at a non-UofT email address, using your own non-UofT email address.**
+This is especially the case if you are writing about any issue that is sensitive or confidential.
+This practice is recommended because UofT can access and read any emails you send and receive from your UofT email address, since they manage the email server.
+If you don't know a steward's non-UofT email, you can email their UofT address to ask, or ask them in person.
+
+Our current stewards are:
 
 **St. George**:
-- {% if site.data.committees.cupe_stg1.name %} [{{site.data.committees.cupe_stg1.name}}](mailto:{{site.data.committees.cupe_stg1.nonuoft_email}} "Non-UofT email address for {{site.data.committees.cupe_stg1.name}}") {% else %} (vacant) {% endif %}
-- {% if site.data.committees.cupe_stg2.name %} [{{site.data.committees.cupe_stg2.name}}](mailto:{{site.data.committees.cupe_stg2.nonuoft_email}} "Non-UofT email address for {{site.data.committees.cupe_stg2.name}}") {% else %} (vacant) {% endif %}
+- {{ site.data.committees.cupe_stg1 | lingsite }}
+- {{ site.data.committees.cupe_stg2 | lingsite }}
 
 **UTM**:
-- {% if site.data.committees.cupe_utm.name %} [{{site.data.committees.cupe_utm.name}}](mailto:{{site.data.committees.cupe_utm.nonuoft_email}} "Non-UofT email address for {{site.data.committees.cupe_utm.name}}") {% else %} (vacant) {% endif %}
+- {{ site.data.committees.cupe_utm | lingsite }}
 
 **UTSC**:
-- {% if site.data.committees.cupe_utsc.name %} [{{site.data.committees.cupe_utsc.name}}](mailto:{{site.data.committees.cupe_utsc.nonuoft_email}} "Non-UofT email address for {{site.data.committees.cupe_utsc.name}}") {% else %} (vacant) {% endif %}
+- {{ site.data.committees.cupe_utsc | lingsite }}
 
 Please don't hesitate to reach out to discuss any questions you have about TA work, funds and benefits, your rights as an employee, any issues with hiring/overwork/running out of hours, or any problems that you have with the way an instructor or student is treating you. Always speak to someone if it feels like a matter of personal safety. The stewards will be your contact people to resolve conflicts, either formally or informally, and will know the best method to take or be able to steer you to someone who can better advise you.
 
-An issue may arise that our contract protects you against. You have the right to file a complaint or grievance if your rights as an employee have been violated. You have the right to steward representation or accompaniment in a meeting if you would like to bring a complaint to the department. The first step in any complaint or grievance is typically to take it up with the course instructor, then with the Undergraduate Advisor and Department Chair if you are comfortable doing so. If department-internal discussion does not resolve the problem to your satisfaction, a steward can help you escalate. (Stewards will never escalate an issue without your express permission.)
+An issue may arise that our contract protects you against. You have the right to file a complaint or grievance if your rights as an employee have been violated. You also have the right to steward representation or accompaniment in a meeting if you would like to bring a complaint to the department or if you are being called into a disciplinary meeting.
+
+The first step in any complaint or grievance is typically to take it up with the course instructor, then with the Undergraduate Advisor and Department Chair if you are comfortable doing so. If department-internal discussion does not resolve the problem to your satisfaction, a steward can help you learn about your other options and potentially escalate to a grievance. (Stewards will *never* escalate an issue without your express permission.)
 
 # Structure of the local
 
-CUPE 3902 is a large union representing over 8000 members across the university. The union is headed by a ten-person executive committee, and members in individual departments act as stewards/liaisons to better communicate the needs and interests of members to the executive on a regular basis. Meetings are held regularly over the term to discuss union-wide and unit-specific business.
+CUPE 3902 is a large union representing over 8000 members across the university. The day-to-day administrative tasks of the union are handled by a ten-person executive committee.
+Interested members in individual departments act as stewards to better communicate the needs and interests of members to the executive on a regular basis.
+There are also a variety of commmittees and caucuses that members can serve on to help administer local funds, support bargaining and grievances, and engage in political activity.
+Meetings are held regularly over the course of term to discuss union-wide and unit-specific business.
 
-The union is composed of the following six units:
+The union is composed of the following seven units:
 
-- Unit 1: Postdocs and students (graduate or undergraduate) who have teaching positions.
+- Unit 1: Students and postdocs (graduate or undergraduate) who have teaching, grading, or invigilation positions. *This is the one you are likely in if you are an LGCU member.*
 - Unit 2: Academic workers at Victoria College.
-- Unit 3: (Non-student) sessional/contract instructors.
+- Unit 3: Sessional/contract instructors and education workers who are not students or postdocs (i.e., not in Unit 1).
 - Unit 4: Academic workers at St. Michael's College.
 - Unit 5: Postdoctoctoral fellows funded by UofT.
 - Unit 6: Contract instructors of non-credit courses in the International Programs at New College.
+- Unit 7: Graduate assistants (similar to TAs) at OISE.
 
 Decisions are made by member vote at meetings or at physical polling locations. There will be at least one vote every year to elect the executive committee; there may be more (e.g. referenda, pro-tem positions, strike votes, or contract ratification).
 
@@ -57,7 +67,9 @@ There are a number of caucuses and action groups to discuss particular issues (e
 
 # Unit 1 protections and benefits
 
-The union bargains a contract that applies collectively to all Unit 1 employees. This collective agreement outlines procedures and protections against unreasonable requests and overwork, as well as defining things like our wages and benefits. Below is a summary of some relevant benefits.
+*Note: this section has yet to be updated for 2024.*
+
+Together, the members of our union bargain a contract that applies collectively to all Unit 1 employees. This collective agreement outlines procedures and protections against unreasonable requests and overwork, as well as defining things like our wages and benefits. Below is a summary of some relevant benefits.
 
 - A maximum of $8,043\* of CUPE 3902 work can be included in funding package amounts. Additional work must grant you additional pay.
 - Entitlement to guaranteed work after receiving work in PhD year 1 ("subsequent appointments"). You should receive information about this in May. You can defer one subsequent appointment in the case of e.g. a research trip. Your first five subsequent appointments must be at least equal in size to the appointment you had in year 1 or 2 (whichever is larger). The sixth and later subsequent appointments must be at least 70 hours per year.
@@ -87,4 +99,4 @@ If you find it difficult to communicate with your instructor about overwork and/
 # Non-CUPE 3902 work
 
 CUPE 3902 does not cover research or administrative work; it only covers teaching work. If you are a research assistant, for example, or you have some other kind of casual contract with the department/university, you are likely a member of [United Steelworkers local 1998](https://www.usw1998.ca/). (You can be a member of multiple unions at the same time.)
-This union represents a variety of administrative positions across the university. A link to the collective agreement for the casual unit can be found [on the USW 1998 collective agreements page](https://www.usw1998.ca/resources/collective-agreements/); it covers some basic protections such as a minimum wage threshold, some acceptable leaves of absence, and harassment protection/workplace safety.
+USW 1998 represents a variety of administrative positions across the university. A link to the collective agreement for the casual unit can be found [on the USW 1998 collective agreements page](https://www.usw1998.ca/resources/collective-agreements/); it covers some basic protections such as a minimum wage threshold, some acceptable leaves of absence, and harassment protection/workplace safety.

@@ -40,10 +40,10 @@ cupe_stg1:
 cupe_stg2:
   name: Siyi Fan
 cupe_utsc:
-  name: (vacant)
-cupe_utm:
   name: Tim Gadanidis
   dept_name: Timothy Gadanidis
+cupe_utm:
+  name: Kaleigh Woolford
 
 # Student rep positions -----------------------------------------------------
 
