@@ -63,3 +63,4 @@ Let the [Website Committee]({{ site.base_url }}{% link pages/committees.md %}#lg
 (if you don't want your site listed here, you can opt out by contacting the Website Committee.)
 
 - Jack Mahlmann: [mahlmann.lgcu.ca](https://mahlmann.lgcu.ca)
+- Lee Jiang: [liwuyue.lgcu.ca](https://liwuyue.lgcu.ca/)
