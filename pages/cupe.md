@@ -24,7 +24,7 @@ In practice, the stewards work together as a team and you can communicate with w
 **It is recommended to contact stewards at a non-UofT email address, using your own non-UofT email address.**
 This is especially the case if you are writing about any issue that is sensitive or confidential.
 This practice is recommended because UofT can access and read any emails you send and receive from your UofT email address, since they manage the email server.
-If you don't know a steward's non-UofT email, you can email their UofT address to ask, or ask them in person.
+If you don't know a steward's non-UofT email, you can email them at their UofT address to ask, or ask them in person.
 
 Our current stewards are:
 
