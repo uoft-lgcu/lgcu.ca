@@ -31,8 +31,9 @@ secretary:
   name: Christy Moser
   dept_name: Christiana Moser
 gsu_reps1:
-  - name: Colin Keith-Hill 
-  - name: Zahur Ashrafuzzaman
+  name: Colin Keith-Hill 
+gsu_reps2:
+  name: Zahur Ashrafuzzaman
 
 # CUPE Representatives ------------------------------------------------------
 
@@ -58,12 +59,12 @@ sig_winter:
 curriculum:
   - name: Justin Leung
   - name: Christy Moser
-  dept_name: Christiana Moser
+    dept_name: Christiana Moser
 
 # Appeals rep
 appeals:
   - name: Tim Gadanidis
-  dept_name: Timothy Gadanidis
+    dept_name: Timothy Gadanidis
   - name: Ryan MacDonald
 
 # Social committee ----------------------------------------------------------
