@@ -57,9 +57,7 @@ sig_winter:
 
 # Curriculum reps
 curriculum:
-  - name: Justin Leung
-  - name: Christy Moser
-    dept_name: Christiana Moser
+  name: Justin Leung
 
 # Appeals rep
 appeals:
