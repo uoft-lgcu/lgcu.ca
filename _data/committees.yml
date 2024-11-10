@@ -70,30 +70,29 @@ appeals:
 
 social:
   chair:
-    name: Will Ramsay
+    name: Jack Mahlmann
   coordinators:
-    - name: Laura Griffin
+    - name: Khushi Patil
+      dept_name: Khushi Nilesh Patil
+  members:
+    - name: Martin Renard
     - name: Nick Haggarty
       dept_name: Nicholas Haggarty
-  members:
-    - name: Olanrewaju Samuel
-      dept_name: Samuel Olanrewaju
-    - name: Martin Renard
-    - name: Aliya Zhaksybek
-    - name: Zhanao Fu
-    - name: Siyi Fan
-    - name: Mechelle Wu
+    - name: Colin Keith-Hill
+    - name: Laura Escobar 
+    - name: Claudia Raihert
 
 # Department space committee ------------------------------------------------
 
 space:
   chair:
-    name: Liam Donohue
+    name: Lucy Meanwell
   members:
-    - name: Jack Mahlmann
-    - name: Laura Escobar
+    - name: Alba Jorquera Jiménez de Aberásturi 
     - name: Yanfei Lu
-    - name: Justin Leung
+    - name: Hannah Rognan
+    - name: Daniel Kahng
+    - name: Naim Lim
 
 # Specialist committees -----------------------------------------------------
 
