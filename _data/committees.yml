@@ -125,7 +125,7 @@ grant_repository:
 # TA evaluations
 ta_eval:
   name: Deniz Sarikaya
-    dept_name: Alkim Deniz Sarikaya
+  dept_name: Alkim Deniz Sarikaya
 
 # Space assignment committee
 space_assignment:
