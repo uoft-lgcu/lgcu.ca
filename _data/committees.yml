@@ -28,19 +28,18 @@ treasurer:
   name: Nick Haggarty
   dept_name: Nicholas Haggarty
 secretary:
-  name: Christy Moser
-  dept_name: Christiana Moser
-gsu_reps1:
-  name: Colin Keith-Hill 
-gsu_reps2:
-  name: Zahur Ashrafuzzaman
+  - name: Christy Moser
+    dept_name: Christiana Moser
+gsu_reps:
+  - name: Colin Keith-Hill
+  - name: Zahur Ashrafuzzaman 
 
 # CUPE Representatives ------------------------------------------------------
 
 cupe_stg1:
-  name: Lee Jiang
-cupe_stg2:
   name: Calvin Quick
+cupe_stg2:
+  name: Lee Jiang
 cupe_utsc:
   name: Tim Gadanidis
   dept_name: Timothy Gadanidis
@@ -57,44 +56,44 @@ sig_winter:
 
 # Curriculum reps
 curriculum:
-  name: Justin Leung
+  - name: Justin Leung
+  - name: Christy Moser
+    dept_name: Christiana Moser
+  
 
 # Appeals rep
 appeals:
-  - name: Tim Gadanidis
-    dept_name: Timothy Gadanidis
-  - name: Ryan MacDonald
+  name: Tim Gadanidis
+  dept_name: Timothy Gadanidis
 
 # Social committee ----------------------------------------------------------
 
 social:
   chair:
-    name: Jack Mahlmann
+    name: Will Ramsay
   coordinators:
-    - name: Khushi Patil
-      dept_name: Khushi Nilesh Patil
-  members:
-    - name: Martin Renard
+    - name: Laura Griffin
     - name: Nick Haggarty
       dept_name: Nicholas Haggarty
-    - name: Colin Keith-Hill
-    - name: Laura Escobar
-    - name: Claudia Raihert
-    - name: Christy Moser
-      dept_name: Christiana Moser
+  members:
+    - name: Olanrewaju Samuel
+      dept_name: Samuel Olanrewaju
+    - name: Martin Renard
+    - name: Aliya Zhaksybek
+    - name: Zhanao Fu
+    - name: Siyi Fan
+    - name: Mechelle Wu
 
 # Department space committee ------------------------------------------------
 
 space:
   chair:
-    name: Lucy Meanwell
+    name: Liam Donohue
   members:
-    - name: Alba Jorquera Jiménez de Aberásturi
+    - name: Jack Mahlmann
+    - name: Laura Escobar
     - name: Yanfei Lu
-    - name: Hannah Rognan
-    - name: Naim Lim
-    - name: Robin Huo
-    - name: Marcell Maitinsky
+    - name: Justin Leung
 
 # Specialist committees -----------------------------------------------------
 
@@ -126,7 +125,7 @@ grant_repository:
 # TA evaluations
 ta_eval:
   name: Deniz Sarikaya
-  dept_name: Alkim Deniz Sarikaya
+    dept_name: Alkim Deniz Sarikaya
 
 # Space assignment committee
 space_assignment:
@@ -141,21 +140,23 @@ tutoring:
 # LGCU website committee
 website:
   - name: Juhyung Cho
-  - name: Zahur Ashrafuzzaman
+  - name: Zahur Ashrafuzzaman 
   - name: Xinyu Liao
   - name: Tim Gadanidis
     dept_name: Timothy Gadanidis
 
 # Student confidential support
 scs:
+  - name: Anissa Baird
   - name: Crystal Chen
 
 # TA Supervision Excellence Award Committee (TASEA)
 tasea:
   - name: Jack Mahlmann
   - name: Calvin Quick
-  - name: Rhoda Ezeamuzie
+  - name: Onyi Ezeaumzie
+    dept_name: Rhoda Ezeamuzie
   - name: Laleh Asadi
     dept_name: Laleh Asadimofarah
   - name: Laura Escobar
-
+  
