@@ -12,7 +12,7 @@ module Jekyll
       begin
         name = entry["name"]
       rescue TypeError
-        Warning.warn("WARNING: Expected a single String, but got #{entry.class}.\n")
+        Warning.warn("WARNING: Expected a single Hash, but got #{entry.class}.\n")
         Warning.warn("This occurred in the following entry:\n")
         Warning.warn("#{entry}\n")
 
@@ -22,7 +22,7 @@ module Jekyll
         elsif entry.class == Array
           abort("ERROR: There is more than one item in the Array, but this position is expected to only have one member.")
         else
-          abort("ERROR: I don't know how to handle anything other than a single value or an Array.")
+          abort("ERROR: I don't know how to handle anything other than a Hash or an Array of Hashes.")
         end
       end
 
