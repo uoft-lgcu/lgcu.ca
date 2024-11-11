@@ -9,7 +9,22 @@ module Jekyll
       # different part of the department directory.
 
       # Get the member's name from the entry in committees.yml
-      name = entry["name"]
+      begin
+        name = entry["name"]
+      rescue TypeError
+        Warning.warn("WARNING: Expected a single String, but got #{entry.class}.\n")
+        Warning.warn("This occurred in the following entry:\n")
+        Warning.warn("#{entry}\n")
+
+        if entry.class == Array and entry.size == 1
+          Warning.warn("WARNING: There is only one item in the Array; unpacking. You should still fix this issue.")
+          entry = entry[0]
+        elsif entry.class == Array
+          abort("ERROR: There is more than one item in the Array, but this position is expected to only have one member.")
+        else
+          abort("ERROR: I don't know how to handle anything other than a single value or an Array.")
+        end
+      end
 
       # Check if vacant and return early if so
       if name == "(vacant)"
