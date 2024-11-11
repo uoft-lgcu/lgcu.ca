@@ -28,8 +28,8 @@ treasurer:
   name: Nick Haggarty
   dept_name: Nicholas Haggarty
 secretary:
-  - name: Christy Moser
-    dept_name: Christiana Moser
+  name: Christy Moser
+  dept_name: Christiana Moser
 gsu_reps:
   - name: Colin Keith-Hill
   - name: Zahur Ashrafuzzaman 
@@ -158,4 +158,3 @@ tasea:
   - name: Laleh Asadi
     dept_name: Laleh Asadimofarah
   - name: Laura Escobar
-  
