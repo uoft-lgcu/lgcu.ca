@@ -64,3 +64,4 @@ Let the [Website Committee]({{ site.base_url }}{% link pages/committees.md %}#lg
 
 - Jack Mahlmann: [mahlmann.lgcu.ca](https://mahlmann.lgcu.ca)
 - Lee Jiang: [liwuyue.lgcu.ca](https://liwuyue.lgcu.ca/)
+- Montreal-Ottawa-Toronto-Hamilton Syntax Workshop (MOTH) 2025: [moth2025.lgcu.ca](https://moth2025.lgcu.ca/)
