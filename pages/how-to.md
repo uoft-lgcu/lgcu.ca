@@ -45,7 +45,7 @@ Still having trouble after following these steps? Contact {{ site.data.informal_
 
 Graduate students can also book any of the two grad-student-priority rooms on floor G of Sidney Smith for use: SS 568 and SS 569. Both rooms are booked on a first-come first-serve basis. To gain access to the booking system, please get in touch with {{ site.data.informal_roles.gradspace1 | lingsite }} or {{ site.data.informal_roles.gradspace2 | lingsite }}. 
 
-You can also book these two rooms and the Hank Rogers library room through the front office, please contact 
+You can also book these two rooms and the Hank Rogers library room through the front office, please contact {{ site.data.staff.graduate_admin | lingsite: 'staff' }}
 
 ## Get Your Tax Documents
 
