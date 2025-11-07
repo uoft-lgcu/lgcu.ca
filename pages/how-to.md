@@ -47,6 +47,9 @@ Graduate students can also book any of the two grad-student-priority rooms on fl
 
 You can also book these two rooms and the Hank Rogers library room through the front office, please contact {{ site.data.staff.undergrad_admin | lingsite: 'staff' }}. 
 
+Note: 
+SS 568 is shared with other members of the department, including faculty and undergrads, all of whom should also book through the front office. SS 569 is for use only by grad students. Undergrads and faculty should not be using this room. 
+
 ## Get Your Tax Documents
 
 Since we're both employees and students, the University supplies us with a variety of fun and engaging tax documents, including:
