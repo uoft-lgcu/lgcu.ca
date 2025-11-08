@@ -23,16 +23,16 @@
 president1:
   name: Claudia Raihert
 president2:
-  name: (vacant)
+  name: Jules Torgue
 treasurer:
   name: Nick Haggarty
+  name: Liam McFadden
   dept_name: Nicholas Haggarty
 secretary:
-  name: Christy Moser
-  dept_name: Christiana Moser
+  name: Laura Escobar
 gsu_reps:
-  - name: Colin Keith-Hill
-  - name: Zahur Ashrafuzzaman 
+  - name: Will Williams
+  - name: Irene Zhuang 
 
 # CUPE Representatives ------------------------------------------------------
 
@@ -49,21 +49,22 @@ cupe_utm:
 
 # SIG representatives
 sig_fall:
-  name: Justin Leung
+  name: Jules Torgue
 sig_winter:
-  name: Claudia Raihert
+  name: Christy Moser
+  dept_name: Christiana Moser
 
 # Curriculum reps
 curriculum:
-  - name: Justin Leung
+  - name: Lee Jiang
   - name: Christy Moser
     dept_name: Christiana Moser
   
 
 # Appeals rep
 appeals:
-  name: Tim Gadanidis
-  dept_name: Timothy Gadanidis
+  name: Ryan MacDonald
+  name: Kaleigh Woolford
 
 # Social committee ----------------------------------------------------------
 
@@ -71,49 +72,48 @@ social:
   chair:
     name: Jack Mahlmann
   coordinators:
-    - name: Khushi Patil
-      dept_name: Khushi Nilesh Patil
-  members:
-    - name: Martin Renard
     - name: Nick Haggarty
       dept_name: Nicholas Haggarty
-    - name: Colin Keith-Hill
+    - name: Deniz Sarikaya
+      dept_name: Alkim Deniz Sarikaya
+  members:
+    - name: Liam McFadden
+    - name: Lorianne Fan
+    - name: June Puls
     - name: Laura Escobar 
-    - name: Claudia Raihert
+    - name: Korey Miller-Boyle
 
 # Department space committee ------------------------------------------------
 
 space:
   chair:
-    name: Lucy Meanwell
+    name: Costanza Vallicelli
   members:
-    - name: Alba Jorquera Jiménez de Aberásturi 
+    - name: David Ramsay
     - name: Yanfei Lu
-    - name: Hannah Rognan
-    - name: Daniel Kahng
-    - name: Naim Lim
+    - name: Irene Zhuang
+    - name: Xinyu Liao
+    - name: Juhyung Cho
+    - name: Ryan MacDonald
 
 # Specialist committees -----------------------------------------------------
 
 # Toronto working papers in linguistics (TWPL)
 
 twpl_chair:
-  - name: Greg Antono
-    dept_name: Gregory Antono
   - name: Justin Leung
-  - name: Claudia Raihert
 twpl_reviewers:
   - name: Calvin Quick
   - name: Ryan MacDonald
-  - name: Will Williams
-  - name: Nadia Takhtaganova
-  - name: Martin Renard
-  - name: Lucy Meanwell
-  - name: Zahur Ashrafuzzaman
+  - name: Jules Torgue 
   - name: Laura Griffin
+  - name: Laura Escobar
+  - name: Costanza Vallicelli
+  - name: Jack Mahlmann
+  - name: Nicole Chan
+  - name: Lucy Li
   - name: Christy Moser
     dept_name: Christiana Moser
-  - name: Marcell Maitinsky
 
 # Grant Repository committee
 grant_repository:
@@ -132,16 +132,16 @@ space_assignment:
 
 # Tutoring coordinator
 tutoring:
-  name: Laleh Asadi
-  dept_name: Laleh Asadimofarah
+  name: Ryan MacDonald
+  dept_name: Ryan MacDonald
 
 # LGCU website committee
 website:
   - name: Juhyung Cho
-  - name: Zahur Ashrafuzzaman 
-  - name: Xinyu Liao
-  - name: Tim Gadanidis
-    dept_name: Timothy Gadanidis
+  - name: Nicole Chan
+  - name: Lucy Li
+  - name: Jiayuan Daniel Yue
+    dept_name: Jiayuan Yue
 
 # Student confidential support
 scs:
@@ -152,8 +152,6 @@ scs:
 tasea:
   - name: Jack Mahlmann
   - name: Calvin Quick
-  - name: Onyi Ezeaumzie
-    dept_name: Rhoda Ezeamuzie
-  - name: Laleh Asadi
-    dept_name: Laleh Asadimofarah
-  - name: Laura Escobar
+  - name: Deniz Sarikaya
+    dept_name: Alkim Deniz Sarikaya
+  - name: Louis Careri
