@@ -96,8 +96,8 @@ A lot of information for grad students comes through email listservs (collection
 
 * Language Variation and Change (LVC) - Currently run by {{ site.data.listservs.lvc | lingsite }}
 * Phonetics and Phonology (Phon) - Currently run by {{site.data.listservs.phon | lingsite }}
-* Syntax - Currently run by {{ site.data.listservs.syntax | lingsite }}
-* Language Description, Documentation and Revitalization (LDDR) - Currently run by {{ site.data.listservs.lddr | lingsite }}
+* Syntax - Currently run by {{ site.data.listservs.syntax | lingsite: 'all-faculty' }}
+* Language Description, Documentation and Revitalization (LDDR) - Currently run by {{ site.data.listservs.lddr | lingsite: 'all-faculty' }}
 * Semantics and Pragmatics (SEMPRAG) - Currently run by {{ site.data.listservs.semprag | lingsite }}
 * Cognitive Science of Language (CSoL) - Currently run by {{ site.data.listservs.csol | lingsite: 'all-faculty' }}
 
