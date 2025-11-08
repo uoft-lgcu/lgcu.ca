@@ -25,7 +25,7 @@ An asterisk (\*) next to an individual's name indicates that they are the design
 
 ### Treasurer
 
-{% assign length = site.data.committees.treasurer.size %}{% for member in site.data.committees.treasurer %} {% if length == site.data.committees.treasurer.size %}\*{% endif %}{% assign length = length | minus: 1 %}{{ site.data.committees.treasurer }}{% if length != 0 %}, {% endif %}{% endfor %}
+{% assign length = site.data.committees.treasurer.size %}{% for member in site.data.committees.treasurer %}{{ member | lingsite }}{% assign length = length | minus: 1 %}{% if length != 0 %}, {% endif %}{% endfor %}
 
 *Manages the LGCU's finances.*
 
