@@ -25,8 +25,7 @@ An asterisk (\*) next to an individual's name indicates that they are the design
 
 ### Treasurer
 
-{{ site.data.committees.treasurer1 | lingsite }},
-{{ site.data.committees.treasurer2 | lingsite }}
+{{ site.data.committees.treasurer1 | lingsite }}
 
 *Manages the LGCU's finances.*
 
