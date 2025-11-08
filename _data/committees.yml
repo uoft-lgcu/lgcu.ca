@@ -25,9 +25,9 @@ president1:
 president2:
   name: Jules Torgue
 treasurer:
+  - name: Liam McFadden
   - name: Nick Haggarty
     dept_name: Nicholas Haggarty
-  - name: Liam McFadden
 secretary:
   name: Laura Escobar
 gsu_reps:
